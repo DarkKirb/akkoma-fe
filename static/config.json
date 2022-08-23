@@ -1,6 +1,6 @@
 {
   "alwaysShowSubjectInput": true,
-  "background": "/static/aurora_borealis.jpg",
+  "background": "/static/background.png",
   "collapseMessageWithSubject": false,
   "greentext": false,
   "hideFilteredStatuses": false,
@@ -20,8 +20,8 @@
   "redirectRootNoLogin": "/main/all",
   "scopeCopy": true,
   "showFeaturesPanel": true,
-  "showInstanceSpecificPanel": false,
-  "sidebarRight": false,
+  "showInstanceSpecificPanel": true,
+  "sidebarRight": true,
   "subjectLineBehavior": "email",
   "theme": "ihatebeingalive",
   "webPushNotifications": false
