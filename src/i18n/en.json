@@ -16,23 +16,23 @@
             "simple": {
                 "accept": "Accept",
                 "accept_desc": "This instance only accepts messages from the following instances:",
-                "ftl_removal": "Removal from \"Known Network\" Timeline",
+                "ftl_removal": "Hidden from \"Known Network\" timeline",
                 "ftl_removal_desc": "This instance removes these instances from \"Known Network\" timeline:",
                 "instance": "Instance",
                 "media_nsfw": "Media force-set as sensitive",
                 "media_nsfw_desc": "This instance forces media to be set sensitive in posts on the following instances:",
-                "media_removal": "Media Removal",
+                "media_removal": "No images/videos for these instances!",
                 "media_removal_desc": "This instance removes media from posts on the following instances:",
                 "not_applicable": "N/A",
-                "quarantine": "Quarantine",
+                "quarantine": "Sussy instances",
                 "quarantine_desc": "This instance will not send posts to the following instances:",
                 "reason": "Reason",
-                "reject": "Reject",
+                "reject": "Naughty list",
                 "reject_desc": "This instance will not accept messages from the following instances:",
                 "simple_policies": "Instance-specific policies"
             }
         },
-        "staff": "Staff"
+        "staff": "Nerds runnin' this place"
     },
     "announcements": {
         "all_day_prompt": "This is an all-day event",
@@ -46,7 +46,7 @@
         "mark_as_read_action": "Mark as read",
         "page_header": "Announcements",
         "post_action": "Post",
-        "post_error": "Error: {error}",
+        "post_error": "Oopsie-whoopsie: {error}",
         "post_form_header": "Post announcement",
         "post_placeholder": "Announcement content",
         "published_time_display": "Published at {time}",
@@ -60,9 +60,9 @@
         "delete": "Delete",
         "delete_confirm": "Do you really want to delete this message?",
         "empty_chat_list_placeholder": "You don't have any chats yet. Start a new chat!",
-        "empty_message_error": "Cannot post empty message",
-        "error_loading_chat": "Something went wrong when loading the chat.",
-        "error_sending_message": "Something went wrong when sending the message.",
+        "empty_message_error": "You... have to type a message, you know that right?",
+        "error_loading_chat": "Something went crazy wrong when loading the chat!",
+        "error_sending_message": "Something went crazy wrong when sending the message!",
         "message_user": "Message {nickname}",
         "more": "More",
         "new": "New Chat",
@@ -72,24 +72,24 @@
         "today": "Today"
     },
     "domain_mute_card": {
-        "mute": "Mute",
-        "mute_progress": "Muting…",
-        "unmute": "Unmute",
-        "unmute_progress": "Unmuting…"
+        "mute": "Shut them up (Mute)",
+        "mute_progress": "SHUT YO' MOUTH!",
+        "unmute": "Allow them to talk (Unmute)",
+        "unmute_progress": "Taking tape off their mouth…"
     },
     "emoji": {
-        "add_emoji": "Insert emoji",
-        "custom": "Custom emoji",
-        "emoji": "Emoji",
+        "add_emoji": "Insert emojo",
+        "custom": "Custom emojo",
+        "emoji": "Emojo",
         "keep_open": "Keep picker open",
-        "load_all": "Loading all {emojiAmount} emoji",
-        "load_all_hint": "Loaded first {saneAmount} emoji, loading all emoji may cause performance issues.",
-        "search_emoji": "Search for an emoji",
+        "load_all": "Loading all {emojiAmount} emojo",
+        "load_all_hint": "Loaded first {saneAmount} emojo, loading all emojo may cause performance issues.",
+        "search_emoji": "Search for an emojo",
         "stickers": "Stickers",
-        "unicode": "Unicode emoji"
+        "unicode": "Unicode emojo"
     },
     "errors": {
-        "storage_unavailable": "Pleroma could not access browser storage. Your login or your local settings won't be saved and you might encounter unexpected issues. Try enabling cookies."
+        "storage_unavailable": "Akkoma could not access browser storage. Your login or your local settings won't be saved and you might encounter unexpected issues. Try enabling cookies."
     },
     "exporter": {
         "export": "Export",
@@ -102,7 +102,7 @@
         "text_limit": "Text limit",
         "title": "Features",
         "upload_limit": "Upload limit",
-        "who_to_follow": "Who to follow"
+        "who_to_follow": "Looking for nerds to follow?"
     },
     "file_type": {
         "audio": "Audio",
@@ -111,14 +111,14 @@
         "video": "Video"
     },
     "finder": {
-        "error_fetching_user": "Error fetching user",
+        "error_fetching_user": "Uhhh, does this person even exist? Can't find them!",
         "find_user": "Find user"
     },
     "general": {
-        "apply": "Apply",
-        "cancel": "Cancel",
+        "apply": "Save",
+        "cancel": "Uh. No?",
         "close": "Close",
-        "confirm": "Confirm",
+        "confirm": "Aye!",
         "disable": "Disable",
         "dismiss": "Dismiss",
         "enable": "Enable",
@@ -127,14 +127,14 @@
         "flash_fail": "Failed to load flash content, see console for details.",
         "flash_security": "Note that this can be potentially dangerous since Flash content is still arbitrary code.",
         "generic_error": "An error occured",
-        "loading": "Loading…",
+        "loading": "L O A D I N G!!!",
         "more": "More",
         "optional": "optional",
         "peek": "Peek",
         "retry": "Try again",
         "role": {
-            "admin": "Admin",
-            "moderator": "Moderator"
+            "admin": "Head-nerd",
+            "moderator": "Lil' Nerd"
         },
         "scope_in_timeline": {
             "direct": "Direct",
@@ -145,7 +145,7 @@
         },
         "show_less": "Show less",
         "show_more": "Show more",
-        "submit": "Submit",
+        "submit": "Post this!",
         "verify": "Verify"
     },
     "image_cropper": {
@@ -160,8 +160,8 @@
         "success": "Imported successfully."
     },
     "interactions": {
-        "favs_repeats": "Repeats and favorites",
-        "follows": "New follows",
+        "favs_repeats": "Retoots and favorites",
+        "follows": "New nerds following you",
         "load_older": "Load older interactions",
         "moves": "User migrates"
     },
@@ -188,9 +188,9 @@
         "login": "Log in",
         "logout": "Log out",
         "password": "Password",
-        "placeholder": "myusername",
+        "placeholder": "Your email or username",
         "recovery_code": "Recovery code",
-        "register": "Register",
+        "register": "Want to register?",
         "username": "Username"
     },
     "media_modal": {
@@ -200,7 +200,7 @@
         "previous": "Previous"
     },
     "nav": {
-        "about": "About",
+        "about": "What is this place?",
         "administration": "Administration",
         "announcements": "Announcements",
         "back": "Back",
@@ -211,7 +211,7 @@
         "dms": "Direct messages",
         "friend_requests": "Follow requests",
         "home_timeline": "Home timeline",
-        "home_timeline_description": "Posts from people you follow",
+        "home_timeline_description": "Posts from the nerds you follow",
         "interactions": "Interactions",
         "lists": "Lists",
         "mentions": "Mentions",
@@ -222,24 +222,24 @@
         "timeline": "Timeline",
         "timelines": "Timelines",
         "twkn": "Known Network",
-        "twkn_timeline_description": "Posts from the entire network",
+        "twkn_timeline_description": "Posts from all over the entire fediverse",
         "user_search": "User Search",
-        "who_to_follow": "Who to follow"
+        "who_to_follow": "Looking for nerds to follow?"
     },
     "notifications": {
         "broken_favorite": "Unknown post, searching for it…",
-        "error": "Error fetching notifications: {0}",
-        "favorited_you": "favorited your post",
+        "error": "Oopsie-whoopsie happened while fetching notifications: {0}",
+        "favorited_you": "liked your post",
         "follow_request": "wants to follow you",
-        "followed_you": "followed you",
+        "followed_you": "now follows you!",
         "load_older": "Load older notifications",
-        "migrated_to": "migrated to",
+        "migrated_to": "took their stuff and left to",
         "no_more_notifications": "No more notifications",
         "notifications": "Notifications",
         "poll_ended": "poll has ended",
         "reacted_with": "reacted with {0}",
         "read": "Read!",
-        "repeated_you": "repeated your post"
+        "repeated_you": "retooted your post"
     },
     "password_reset": {
         "check_email": "Check your email for a link to reset your password.",
@@ -262,7 +262,7 @@
         "multiple_choices": "Multiple choices",
         "not_enough_options": "Too few unique options in poll",
         "option": "Option",
-        "people_voted_count": "{count} person voted | {count} people voted",
+        "people_voted_count": "{count} person voted | {count} nerds voted",
         "single_choice": "Single choice",
         "type": "Poll type",
         "vote": "Vote",
@@ -280,8 +280,8 @@
             "text/plain": "Plain text",
             "text/x.misskeymarkdown": "MFM"
         },
-        "content_warning": "Subject (optional)",
-        "default": "Just arrived at Luna Nova Academy",
+        "content_warning": "CW: content warning (optional)",
+        "default": "Postin' from the den! Yeehaw!",
         "direct_warning_to_all": "This post will be visible to all the mentioned users.",
         "direct_warning_to_first_only": "This post will only be visible to the mentioned users at the beginning of the message.",
         "empty_status_error": "Can't send a post with no content and no files",
@@ -309,40 +309,40 @@
     },
     "registration": {
         "bio": "Bio",
-        "bio_placeholder": "e.g.\nHi! Welcome to my bio.\nI love watching anime and playing games. I hope we can be friends!",
+        "bio_placeholder": "e.g.\nAYO! Welcome to MTV Cribs\nAND WELCOME to my crib!",
         "captcha": "CAPTCHA",
         "email": "Email",
         "email_language": "In which language do you want to receive emails from the server?",
         "fullname": "Display name",
-        "fullname_placeholder": "e.g. Lain Iwakura",
+        "fullname_placeholder": "e.g. Lebron James",
         "new_captcha": "Click the image to get a new captcha",
         "password_confirm": "Password confirmation",
         "reason": "Reason to register",
-        "reason_placeholder": "This instance approves registrations manually.\nLet the administration know why you want to register.",
+        "reason_placeholder": "You will first need to pass the vibe check!\nLet the nerds running this place why you want to join!",
         "register": "Register",
         "registration": "Registration",
         "token": "Invite token",
-        "username_placeholder": "e.g. lain",
+        "username_placeholder": "e.g. xXx_st1nky_BuTT_69_xXx",
         "validations": {
-            "email_required": "cannot be left blank",
-            "fullname_required": "cannot be left blank",
-            "password_confirmation_match": "should be the same as password",
-            "password_confirmation_required": "cannot be left blank",
-            "password_required": "cannot be left blank",
-            "username_required": "cannot be left blank"
+            "email_required": "Please give us something to contact you by!",
+            "fullname_required": "I also would prefer to not be addressed, but here we are!",
+            "password_confirmation_match": "Dummy! These passwords should be the same!",
+            "password_confirmation_required": "You... need to repeat your password!",
+            "password_required": "right, you know how unsafe it is to not have a password?",
+            "username_required": "original! A blank username..."
         }
     },
     "remote_user_resolver": {
-        "error": "Not found.",
-        "remote_user_resolver": "Remote user resolver",
-        "searching_for": "Searching for"
+        "error": "Nerd not found.",
+        "remote_user_resolver": "Remote nerd resolver",
+        "searching_for": "Searching for nerd"
     },
     "search": {
-        "hashtags": "Hashtags",
+        "hashtags": "Tashhags",
         "no_results": "No results",
-        "people": "People",
-        "people_talking": "{count} people talking",
-        "person_talking": "{count} person talking"
+        "people": "Nerds",
+        "people_talking": "{count} nerds talking",
+        "person_talking": "{count} nerds talking"
     },
     "selectable_list": {
         "select_all": "Select all"
@@ -352,7 +352,7 @@
         "account_alias": "Account aliases",
         "account_alias_table_head": "Alias",
         "account_backup": "Account backup",
-        "account_backup_description": "This allows you to download an archive of your account information and your posts, but they cannot yet be imported into a Pleroma account.",
+        "account_backup_description": "This allows you to download an archive of your account information and your posts, but they cannot yet be imported into a Akkoma account.",
         "account_backup_table_head": "Backup",
         "account_privacy": "Privacy",
         "add_alias_error": "Error adding alias: {error}",
@@ -373,12 +373,12 @@
         "background": "Background",
         "backup_not_ready": "This backup is not ready yet.",
         "bio": "Bio",
-        "block_export": "Block export",
+        "block_export": "🅱️lock export",
         "block_export_button": "Export your blocks to a csv file",
-        "block_import": "Block import",
+        "block_import": "🅱️lock import",
         "block_import_error": "Error importing blocks",
-        "blocks_imported": "Blocks imported! Processing them will take a while.",
-        "blocks_tab": "Blocks",
+        "blocks_imported": "🅱️locks imported! Processing them will take a while.",
+        "blocks_tab": "🅱️locks",
         "bot": "This is a bot account",
         "btnRadius": "Buttons",
         "cBlue": "Blue (Reply, follow)",
@@ -416,7 +416,7 @@
         "domain_mutes": "Domains",
         "download_backup": "Download",
         "email_language": "Language for receiving emails from the server",
-        "emoji_reactions_on_timeline": "Show emoji reactions on timeline",
+        "emoji_reactions_on_timeline": "Show emojo reactions on timeline",
         "enable_web_push_notifications": "Enable web push notifications",
         "enter_current_password_to_confirm": "Enter your current password to confirm your identity",
         "expert_mode": "Show advanced",
@@ -427,9 +427,9 @@
             "backup_settings_theme": "Backup settings and theme to file",
             "errors": {
                 "file_slightly_new": "File minor version is different, some settings might not load",
-                "file_too_new": "Incompatile major version: {fileMajor}, this PleromaFE (settings ver {feMajor}) is too old to handle it",
+                "file_too_new": "Incompatile major version: {fileMajor}, this HyNETSocFE (settings ver {feMajor}) is too old to handle it",
                 "file_too_old": "Incompatile major version: {fileMajor}, file version is too old and not supported (min. set. ver. {feMajor})",
-                "invalid_file": "The selected file is not a supported Pleroma settings backup. No changes were made."
+                "invalid_file": "The selected file is not a supported Akkoma/Pleroma settings backup. No changes were made."
             },
             "restore_settings": "Restore settings from file"
         },
@@ -443,7 +443,7 @@
         "foreground": "Foreground",
         "fun": "Fun",
         "general": "General",
-        "greentext": "Meme arrows",
+        "greentext": "Imageboard arrows (>this)",
         "hide_all_muted_posts": "Hide muted posts",
         "hide_attachments_in_convo": "Hide attachments in conversations",
         "hide_attachments_in_tl": "Hide attachments in timeline",
@@ -476,7 +476,7 @@
         "instance_default_simple": "(default)",
         "interface": "Interface",
         "interfaceLanguage": "Interface language",
-        "invalid_theme_imported": "The selected file is not a supported Pleroma theme. No changes to your theme were made.",
+        "invalid_theme_imported": "The selected file is not a supported Akkoma/Pleroma theme. No changes to your theme were made.",
         "limited_availability": "Unavailable in your browser",
         "links": "Links",
         "list_aliases_error": "Error fetching aliases: {error}",
@@ -529,7 +529,7 @@
         "mute_export_button": "Export your mutes to a csv file",
         "mute_import": "Mute import",
         "mute_import_error": "Error importing mutes",
-        "mutes_and_blocks": "Mutes and Blocks",
+        "mutes_and_blocks": "Mutes and 🅱️locks",
         "mutes_imported": "Mutes imported! Processing them will take a while.",
         "mutes_tab": "Mutes",
         "name": "Name",
@@ -540,9 +540,9 @@
         "no_blocks": "No blocks",
         "no_mutes": "No mutes",
         "no_rich_text_description": "Strip rich text formatting from all posts",
-        "notification_blocks": "Blocking a user stops all notifications as well as unsubscribes them.",
+        "notification_blocks": "🅱️locking a user stops all notifications as well as unsubscribes them.",
         "notification_mutes": "To stop receiving notifications from a specific user, use a mute.",
-        "notification_setting_block_from_strangers": "Block notifications from users who you do not follow",
+        "notification_setting_block_from_strangers": "🅱️lock notifications from users who you do not follow",
         "notification_setting_filters": "Filters",
         "notification_setting_hide_if_cw": "Hide the contents of push notifications if under a Content Warning",
         "notification_setting_hide_notification_contents": "Hide the sender and contents of push notifications",
@@ -554,11 +554,11 @@
         "notification_visibility_mentions": "Mentions",
         "notification_visibility_moves": "User Migrates",
         "notification_visibility_polls": "Ends of polls you voted in",
-        "notification_visibility_repeats": "Repeats",
+        "notification_visibility_repeats": "Retoots",
         "notifications": "Notifications",
         "nsfw_clickthrough": "Hide sensitive/NSFW media",
         "oauth_tokens": "OAuth tokens",
-        "pad_emoji": "Pad emoji with spaces when adding from picker",
+        "pad_emoji": "Pad emojo with spaces when adding from picker",
         "panelRadius": "Panels",
         "pause_on_unfocused": "Pause when tab is not focused",
         "play_videos_in_modal": "Play videos in a popup frame",
@@ -743,8 +743,8 @@
                 "clear_all": "Clear all",
                 "clear_opacity": "Clear opacity",
                 "help": {
-                    "fe_downgraded": "PleromaFE's version rolled back.",
-                    "fe_upgraded": "PleromaFE's theme engine upgraded after version update.",
+                    "fe_downgraded": "HyNETSocFE's version rolled back.",
+                    "fe_upgraded": "HyNETSocFE's theme engine upgraded after version update.",
                     "future_version_imported": "File you imported was made in newer version of FE.",
                     "migration_napshot_gone": "For whatever reason snapshot was missing, some stuff could look different than you remember.",
                     "migration_snapshot_ok": "Just to be safe, theme snapshot loaded. You can try loading theme data.",
@@ -752,7 +752,7 @@
                     "snapshot_missing": "No theme snapshot was in the file so it could look different than originally envisioned.",
                     "snapshot_present": "Theme snapshot is loaded, so all values are overriden. You can load theme's actual data instead.",
                     "snapshot_source_mismatch": "Versions conflict: most likely FE was rolled back and updated again, if you changed theme using older version of FE you most likely want to use old version, otherwise use new version.",
-                    "upgraded_from_v2": "PleromaFE has been upgraded, theme could look a little bit different than you remember.",
+                    "upgraded_from_v2": "HyNETSocFE has been upgraded, theme could look a little bit different than you remember.",
                     "v2_imported": "File you imported was made for older FE. We try to maximize compatibility but there still could be inconsistencies."
                 },
                 "keep_as_is": "Keep as is",
@@ -836,7 +836,7 @@
         "pinned": "Pinned",
         "plus_more": "+{number} more",
         "remove_attachment": "Remove attachment",
-        "repeats": "Repeats",
+        "repeats": "Retoots",
         "replies_list": "Replies:",
         "replies_list_with_others": "Replies (+{numReplies} other): | Replies (+{numReplies} others):",
         "reply_to": "Reply to",
@@ -866,7 +866,7 @@
     "time": {
         "in_future": "in {0}",
         "in_past": "{0} ago",
-        "now": "just now",
+        "now": "literally rn.",
         "now_short": "now",
         "unit": {
             "days": "{0} day | {0} days",
@@ -891,10 +891,10 @@
         "error": "Error fetching timeline: {0}",
         "load_older": "Load older posts",
         "no_more_statuses": "No more posts",
-        "no_retweet_hint": "Post is marked as followers-only or direct and cannot be repeated or quoted",
+        "no_retweet_hint": "Post is marked as followers-only or direct and cannot be retooted or quoted",
         "no_statuses": "No posts",
         "reload": "Reload",
-        "repeated": "repeated",
+        "repeated": "retooted",
         "show_new": "Show new",
         "socket_broke": "Realtime connection lost: CloseEvent code {0}",
         "socket_reconnected": "Realtime connection established",
@@ -908,13 +908,13 @@
         "media_upload": "Upload media",
         "quote": "Quote",
         "reject_follow_request": "Reject follow request",
-        "repeat": "Repeat",
+        "repeat": "Retoot",
         "reply": "Reply",
         "user_settings": "User Settings"
     },
     "upload": {
         "error": {
-            "base": "Upload failed.",
+            "base": "Upload failed. :(",
             "default": "Try again later",
             "file_too_big": "File too big [{filesize}{filesizeunit} / {allowedsize}{allowedsizeunit}]",
             "message": "Upload failed: {0}"
@@ -924,7 +924,7 @@
             "GiB": "GiB",
             "KiB": "KiB",
             "MiB": "MiB",
-            "TiB": "TiB"
+            "TiB": "TIB (ok why.)"
         }
     },
     "user_card": {
@@ -948,45 +948,45 @@
             "strip_media": "Remove media from posts"
         },
         "approve": "Approve",
-        "block": "Block",
-        "block_progress": "Blocking…",
-        "blocked": "Blocked!",
-        "bot": "Bot",
+        "block": "🅱️lock",
+        "block_progress": "🅱️locking…",
+        "blocked": "🅱️locked!",
+        "bot": "beep boop",
         "deactivated": "Deactivated",
         "deny": "Deny",
         "domain_muted": "Unblock domain",
         "edit_profile": "Edit profile",
         "favorites": "Favorites",
-        "follow": "Follow",
+        "follow": "Follow this nerd",
         "follow_cancel": "Cancel request",
         "follow_progress": "Requesting…",
         "follow_sent": "Request sent!",
-        "follow_unfollow": "Unfollow",
+        "follow_unfollow": "Unfollow this jerk",
         "followees": "Following",
         "followers": "Followers",
         "following": "Following!",
         "follows_you": "Follows you!",
         "hidden": "Hidden",
-        "hide_repeats": "Hide repeats",
+        "hide_repeats": "Hide retoots",
         "highlight": {
             "disabled": "No highlight",
             "side": "Side stripe",
             "solid": "Solid bg",
             "striped": "Striped bg"
         },
-        "its_you": "It's you!",
+        "its_you": "Despite everything, it's still you!",
         "media": "Media",
         "mention": "Mention",
         "message": "Message",
         "mute": "Mute",
-        "mute_domain": "Block domain",
+        "mute_domain": "🅱️lock domain",
         "mute_progress": "Muting…",
         "muted": "Muted",
         "note": "Private note",
         "per_day": "per day",
-        "remote_follow": "Remote follow",
-        "report": "Report",
-        "show_repeats": "Show repeats",
+        "remote_follow": "Remote follow this nerd",
+        "report": "Report this jerk",
+        "show_repeats": "Show retoots",
         "statuses": "Posts",
         "subscribe": "Subscribe",
         "unblock": "Unblock",
@@ -996,8 +996,8 @@
         "unsubscribe": "Unsubscribe"
     },
     "user_profile": {
-        "profile_does_not_exist": "Sorry, this profile does not exist.",
-        "profile_loading_error": "Sorry, there was an error loading this profile.",
+        "profile_does_not_exist": "Uhhh... The hell? This goes nowhere!",
+        "profile_loading_error": "This profile... Doesn't load? Alright???",
         "timeline_title": "User timeline"
     },
     "user_reporting": {
@@ -1005,12 +1005,12 @@
         "additional_comments": "Additional comments",
         "forward_description": "The account is from another server. Send a copy of the report there as well?",
         "forward_to": "Forward to {0}",
-        "generic_error": "An error occurred while processing your request.",
-        "submit": "Submit",
+        "generic_error": "An oopsie-whoopsie occurred while processing your request.",
+        "submit": "Send!",
         "title": "Reporting {0}"
     },
     "who_to_follow": {
         "more": "More",
-        "who_to_follow": "Who to follow"
+        "who_to_follow": "Looking for nerds to follow?"
     }
 }
