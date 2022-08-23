@@ -12,6 +12,13 @@ code,
   --md-accent-fg-color:         #455a63;
 }
 
+#app { background-repeat: repeat !important; }
+@media all and (min-width: 800px) { .tab-icon { display: none !important; } }
+.tab-switcher .tab-icon { color: #fff !important; }
+.site-name {  font-family: BLACKOUT; font-size: 3rem !important; line-height: 4rem;}
+.site-name::before  { content: "%"; }
+.dropdown-item { color: #fff !important; }
+
 @font-face {
   font-family: 'Tiresias PCFont';
   font-style: normal;
@@ -21,8 +28,47 @@ code,
 }
 @font-face {
   font-family: 'Tiresias Infofont';
-  font-style: normal;   
+  font-style: normal;
   font-weight: 400;
   src: local('Tiresias Infofont'), local('Tiresias Infofont'),
        url('./fonts/Tiresias_Infofont.ttf') format('truetype')
-} 
+}
+
+@font-face{
+  font-family:'blockzone';
+  src:url('./fonts/blockzone-webfont.woff2') format("woff2"),
+    url('./fonts/blockzone-webfont.woff') format("woff");
+  font-style:normal;
+  font-weight:400
+}
+@font-face{
+  font-family:'PeanutMoney';
+  src:url('./fonts/PeanutMoney.ttf') format("opentype");
+  font-style:normal;
+  font-weight:400
+}
+@font-face{
+  font-family:'Heading';
+  src:url('./fonts/heading.woff');
+  font-style:normal;
+  font-weight:400
+}
+
+@font-face{
+  font-family:'MonoMMM_5';
+  src:url('./fonts/monoMMM_5.woff');
+  font-style:normal;
+  font-weight:400
+}
+@font-face{
+  font-family:'Tiny';
+  src:url('./fonts/tiny.woff');
+  font-style:normal;
+  font-weight:400
+}
+@font-face{
+  font-family:'BLACKOUT';
+  src:url('./fonts/BLACKOUT.woff');
+  font-style:normal;
+  font-weight:400
+}
