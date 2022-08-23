@@ -1,12 +1,14 @@
-# Pleroma-FE 
+# Hynetsoc-FE
 
 This is a fork of Pleroma-FE from the Pleroma project, with support for new Akkoma features such as:
 - MFM support via [marked-mfm](https://akkoma.dev/sfr/marked-mfm)
 - Custom emoji reactions
 
+And specificly, this is a tweaked version with all the hyena.network themes and tweaks in place
+
 # For Translators
 
-The [Weblate UI](https://translate.akkoma.dev/projects/akkoma/pleroma-fe/) is recommended for adding or modifying translations for Pleroma-FE. 
+The [Weblate UI](https://translate.akkoma.dev/projects/akkoma/pleroma-fe/) is recommended for adding or modifying translations for Pleroma-FE.
 
 Alternatively, edit/create `src/i18n/$LANGUAGE_CODE.json` (where `$LANGUAGE_CODE` is the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for your language), then add your language to [src/i18n/messages.js](https://akkoma.dev/AkkomaGang/pleroma-fe/src/branch/develop/src/i18n/messages.js) if it doesn't already exist there.
 
