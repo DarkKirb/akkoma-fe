@@ -8824,11 +8824,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_ua_parser_js___ua_parser_js_0.7.31.tgz";
+      name = "ua_parser_js___ua_parser_js_0.7.37.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_ua_parser_js___ua_parser_js_0.7.31.tgz";
-        url = "https://registry.npmjs.org/ua-parser-js/-/ua-parser-js-0.7.31.tgz";
-        sha512 = "qLK/Xe9E2uzmYI3qLeOmI0tEOt+TBBQyUIAh4aAgU05FVYzeZrKUdkAZfBNVGRaHVgV0TDkdEngJSw/SyQchkQ==";
+        name = "ua_parser_js___ua_parser_js_0.7.37.tgz";
+        url = "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.37.tgz";
+        sha512 = "xV8kqRKM+jhMvcHWUKthV9fNebIzrNy//2O9ZwWcfiBFR5f25XVZPLlEajk/sf3Ra15V92isyQqnIEXRDaZWEA==";
       };
     }
     {
