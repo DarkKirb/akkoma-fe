@@ -7368,11 +7368,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_qrcode___qrcode_1.5.1.tgz";
+      name = "qrcode___qrcode_1.5.3.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_qrcode___qrcode_1.5.1.tgz";
-        url = "https://registry.npmjs.org/qrcode/-/qrcode-1.5.1.tgz";
-        sha512 = "nS8NJ1Z3md8uTjKtP+SGGhfqmTCs5flU/xR623oI0JX+Wepz9R8UrRVCTBTJm3qGw3rH6jJ6MUHjkDx15cxSSg==";
+        name = "qrcode___qrcode_1.5.3.tgz";
+        url = "https://registry.yarnpkg.com/qrcode/-/qrcode-1.5.3.tgz";
+        sha512 = "puyri6ApkEHYiVl4CFzo1tDkAZ+ATcnbJrJ6RiBM1Fhctdn/ix9MTE3hRph33omisEbC/2fcfemsseiKgBPKZg==";
       };
     }
     {
