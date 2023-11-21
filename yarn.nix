@@ -7904,19 +7904,19 @@
       };
     }
     {
+      name = "semver___semver_7.5.4.tgz";
+      path = fetchurl {
+        name = "semver___semver_7.5.4.tgz";
+        url = "https://registry.yarnpkg.com/semver/-/semver-7.5.4.tgz";
+        sha512 = "1bCSESV6Pv+i21Hvpxp3Dx+pSD8lIPt8uVjRrxAUt/nbswYc+tK6Y2btiULjd4+fnq15PX+nqQDC7Oft7WkwcA==";
+      };
+    }
+    {
       name = "https___registry.npmjs.org_semver___semver_6.3.0.tgz";
       path = fetchurl {
         name = "https___registry.npmjs.org_semver___semver_6.3.0.tgz";
         url = "https://registry.npmjs.org/semver/-/semver-6.3.0.tgz";
         sha512 = "b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw==";
-      };
-    }
-    {
-      name = "semver___semver_7.3.8.tgz";
-      path = fetchurl {
-        name = "semver___semver_7.3.8.tgz";
-        url = "https://registry.yarnpkg.com/semver/-/semver-7.3.8.tgz";
-        sha512 = "NB1ctGL5rlHrPJtFDVIVzTyQylMLu9N9VICA6HSFJo8MCGVTMW6gfpicwKmmK/dAjTOrqu5l63JJOpDSrAis3A==";
       };
     }
     {
