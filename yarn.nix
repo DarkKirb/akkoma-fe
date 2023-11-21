@@ -1448,11 +1448,11 @@
       };
     }
     {
-      name = "_testim_chrome_version___chrome_version_1.1.3.tgz";
+      name = "_testim_chrome_version___chrome_version_1.1.4.tgz";
       path = fetchurl {
-        name = "_testim_chrome_version___chrome_version_1.1.3.tgz";
-        url = "https://registry.yarnpkg.com/@testim/chrome-version/-/chrome-version-1.1.3.tgz";
-        sha512 = "g697J3WxV/Zytemz8aTuKjTGYtta9+02kva3C1xc7KXB8GdbfE1akGJIsZLyY/FSh2QrnE+fiB7vmWU3XNcb6A==";
+        name = "_testim_chrome_version___chrome_version_1.1.4.tgz";
+        url = "https://registry.yarnpkg.com/@testim/chrome-version/-/chrome-version-1.1.4.tgz";
+        sha512 = "kIhULpw9TrGYnHp/8VfdcneIcxKnLixmADtukQRtJUmsVlMg0niMkwV0xZmi8hqa57xqilIHjWFA0GKvEjVU5g==";
       };
     }
     {
@@ -2744,11 +2744,11 @@
       };
     }
     {
-      name = "chromedriver___chromedriver_107.0.3.tgz";
+      name = "chromedriver___chromedriver_119.0.1.tgz";
       path = fetchurl {
-        name = "chromedriver___chromedriver_107.0.3.tgz";
-        url = "https://registry.yarnpkg.com/chromedriver/-/chromedriver-107.0.3.tgz";
-        sha512 = "jmzpZgctCRnhYAn0l/NIjP4vYN3L8GFVbterTrRr2Ly3W5rFMb9H8EKGuM5JCViPKSit8FbE718kZTEt3Yvffg==";
+        name = "chromedriver___chromedriver_119.0.1.tgz";
+        url = "https://registry.yarnpkg.com/chromedriver/-/chromedriver-119.0.1.tgz";
+        sha512 = "lpCFFLaXPpvElTaUOWKdP74pFb/sJhWtWqMjn7Ju1YriWn8dT5JBk84BGXMPvZQs70WfCYWecxdMmwfIu1Mupg==";
       };
     }
     {
@@ -2928,11 +2928,11 @@
       };
     }
     {
-      name = "compare_versions___compare_versions_5.0.1.tgz";
+      name = "compare_versions___compare_versions_6.1.0.tgz";
       path = fetchurl {
-        name = "compare_versions___compare_versions_5.0.1.tgz";
-        url = "https://registry.yarnpkg.com/compare-versions/-/compare-versions-5.0.1.tgz";
-        sha512 = "v8Au3l0b+Nwkp4G142JcgJFh1/TUhdxut7wzD1Nq1dyp5oa3tXaqb03EXOAB6jS4gMlalkjAUPZBMiAfKUixHQ==";
+        name = "compare_versions___compare_versions_6.1.0.tgz";
+        url = "https://registry.yarnpkg.com/compare-versions/-/compare-versions-6.1.0.tgz";
+        sha512 = "LNZQXhqUvqUTotpZ00qLSaify3b4VFD588aRr8MKFw4CMUr98ytzCW5wDH5qx/DEY5kCDXcbcRuCqL0szEf2tg==";
       };
     }
     {
@@ -8576,10 +8576,10 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_tcp_port_used___tcp_port_used_1.0.2.tgz";
+      name = "tcp_port_used___tcp_port_used_1.0.2.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_tcp_port_used___tcp_port_used_1.0.2.tgz";
-        url = "https://registry.npmjs.org/tcp-port-used/-/tcp-port-used-1.0.2.tgz";
+        name = "tcp_port_used___tcp_port_used_1.0.2.tgz";
+        url = "https://registry.yarnpkg.com/tcp-port-used/-/tcp-port-used-1.0.2.tgz";
         sha512 = "l7ar8lLUD3XS1V2lfoJlCBaeoaWo/2xfYt81hM7VlvR4RrMVFqfmzfhLVk40hAb368uitje5gPtBRL1m/DGvLA==";
       };
     }
