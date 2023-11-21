@@ -4392,11 +4392,11 @@
       };
     }
     {
-      name = "get_func_name___get_func_name_2.0.0.tgz";
+      name = "get_func_name___get_func_name_2.0.2.tgz";
       path = fetchurl {
-        name = "get_func_name___get_func_name_2.0.0.tgz";
-        url = "https://registry.yarnpkg.com/get-func-name/-/get-func-name-2.0.0.tgz";
-        sha512 = "Hm0ixYtaSZ/V7C8FJrtZIuBBI+iSgL+1Aq82zSu8VQNB4S3Gk8e7Qs3VwBDJAhmRZcFqkl3tQu36g/Foh5I5ig==";
+        name = "get_func_name___get_func_name_2.0.2.tgz";
+        url = "https://registry.yarnpkg.com/get-func-name/-/get-func-name-2.0.2.tgz";
+        sha512 = "8vXOvuE167CtIc3OyItco7N/dpRtBbYOsPsXCz7X/PMnlGjYjSGuZJgM1Y7mmew7BKf9BqvLX2tnOVy1BBUsxQ==";
       };
     }
     {
