@@ -1664,11 +1664,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org__vue_devtools_api___devtools_api_6.2.1.tgz";
+      name = "_vue_devtools_api___devtools_api_6.5.1.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org__vue_devtools_api___devtools_api_6.2.1.tgz";
-        url = "https://registry.npmjs.org/@vue/devtools-api/-/devtools-api-6.2.1.tgz";
-        sha512 = "OEgAMeQXvCoJ+1x8WyQuVZzFo0wcyCmUR3baRVLmKBo1LmYZWMlRiXlux5jd0fqVJu6PfDbOrZItVqUEzLobeQ==";
+        name = "_vue_devtools_api___devtools_api_6.5.1.tgz";
+        url = "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-6.5.1.tgz";
+        sha512 = "+KpckaAQyfbvshdDW5xQylLni1asvNSGme1JFs8I1+/H5pHEhqUKMEQD/qn3Nx5+/nycBq11qAEi8lk+LXI2dA==";
       };
     }
     {
@@ -9056,11 +9056,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_vue_router___vue_router_4.0.14.tgz";
+      name = "vue_router___vue_router_4.2.5.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_vue_router___vue_router_4.0.14.tgz";
-        url = "https://registry.npmjs.org/vue-router/-/vue-router-4.0.14.tgz";
-        sha512 = "wAO6zF9zxA3u+7AkMPqw9LjoUCjSxfFvINQj3E/DceTt6uEz1XZLraDhdg2EYmvVwTBSGlLYsUw8bDmx0754Mw==";
+        name = "vue_router___vue_router_4.2.5.tgz";
+        url = "https://registry.yarnpkg.com/vue-router/-/vue-router-4.2.5.tgz";
+        sha512 = "DIUpKcyg4+PTQKfFPX88UWhlagBEBEfJ5A8XDXRJLUnZOvcpMF8o/dnL90vpVkGaPbjvXazV/rC1qBKrZlFugw==";
       };
     }
     {
