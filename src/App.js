@@ -53,6 +53,9 @@ export default {
   unmounted () {
     window.removeEventListener('resize', this.updateMobileState)
   },
+  mounted() {
+    import("./lib/jxl.js").then(jxl => jxl.startPolyfill());
+  },
   computed: {
     classes () {
       return [
