@@ -2,6 +2,8 @@ var path = require('path')
 var config = require('../config')
 var utils = require('./utils')
 var projectRoot = path.resolve(__dirname, '../')
+const CopyPlugin = require("copy-webpack-plugin");
+const WriteFilePlugin = require("write-file-webpack-plugin");
 var { VueLoaderPlugin } = require('vue-loader')
 
 var env = process.env.NODE_ENV
@@ -118,6 +120,14 @@ module.exports = {
     ]
   },
   plugins: [
-    new VueLoaderPlugin()
+    new VueLoaderPlugin(),
+    new CopyPlugin({
+      patterns: [
+        {
+          from: "node_modules/jxl.js/jxl*"
+        }
+      ]
+    }),
+    new WriteFilePlugin()
   ]
 }
