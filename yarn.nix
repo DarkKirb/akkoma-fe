@@ -5408,6 +5408,14 @@
       };
     }
     {
+      name = "is_wsl___is_wsl_1.1.0.tgz";
+      path = fetchurl {
+        name = "is_wsl___is_wsl_1.1.0.tgz";
+        url = "https://registry.yarnpkg.com/is-wsl/-/is-wsl-1.1.0.tgz";
+        sha512 = "gfygJYZ2gLTDlmbWMI0CE2MwnFzSN/2SZfkMlItC4K/JBlsWVDB0bO6XhqcY13YXE7iMcAJnzTCJjPiTeJJ0Mw==";
+      };
+    }
+    {
       name = "https___registry.npmjs.org_is_wsl___is_wsl_2.2.0.tgz";
       path = fetchurl {
         name = "https___registry.npmjs.org_is_wsl___is_wsl_2.2.0.tgz";
@@ -6768,11 +6776,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_opn___opn_4.0.2.tgz";
+      name = "opn___opn_6.0.0.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_opn___opn_4.0.2.tgz";
-        url = "https://registry.npmjs.org/opn/-/opn-4.0.2.tgz";
-        sha512 = "iPBWbPP4OEOzR1xfhpGLDh+ypKBOygunZhM9jBtA7FS5sKjEiMZw0EFb82hnDOmTZX90ZWLoZKUza4cVt8MexA==";
+        name = "opn___opn_6.0.0.tgz";
+        url = "https://registry.yarnpkg.com/opn/-/opn-6.0.0.tgz";
+        sha512 = "I9PKfIZC+e4RXZ/qr1RhgyCnGgYX0UEIlXgWnCOVACIvFgaC9rz6Won7xbdhoHrd8IIhV7YEpHjreNUNkqCGkQ==";
       };
     }
     {
