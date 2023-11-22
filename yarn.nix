@@ -1136,27 +1136,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org__babel_runtime___runtime_7.17.8.tgz";
+      name = "_babel_runtime___runtime_7.23.4.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org__babel_runtime___runtime_7.17.8.tgz";
-        url = "https://registry.npmjs.org/@babel/runtime/-/runtime-7.17.8.tgz";
-        sha512 = "dQpEpK0O9o6lj6oPu0gRDbbnk+4LeHlNcBpspf6Olzt3GIX4P1lWF1gS+pHLDFlaJvbR6q7jCfQ08zA4QJBnmA==";
-      };
-    }
-    {
-      name = "_babel_runtime___runtime_7.20.1.tgz";
-      path = fetchurl {
-        name = "_babel_runtime___runtime_7.20.1.tgz";
-        url = "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.20.1.tgz";
-        sha512 = "mrzLkl6U9YLF8qpqI7TB82PESyEGjm/0Ly91jG575eVxMMlb8fYfOXFZIJ8XfLrJZQbm7dlKry2bJmXBUEkdFg==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org__babel_runtime___runtime_7.18.9.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org__babel_runtime___runtime_7.18.9.tgz";
-        url = "https://registry.npmjs.org/@babel/runtime/-/runtime-7.18.9.tgz";
-        sha512 = "lkqXDcvlFT5rvEjiu6+QYO+1GXrEHRo2LOtS7E4GtX5ESIZOgepqsZBVIj6Pv+a6zqsya9VCgiK1KAK4BvJDAw==";
+        name = "_babel_runtime___runtime_7.23.4.tgz";
+        url = "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.23.4.tgz";
+        sha512 = "2Yv65nlWnWlSpe3fXEyX5i7fx5kIKo4Qbcj+hMO0odwaneFjfXw5fdum+4yL20O0QiaHpia0cYQ9xpNMqrBwHg==";
       };
     }
     {
@@ -7656,19 +7640,11 @@
       };
     }
     {
-      name = "regenerator_runtime___regenerator_runtime_0.13.10.tgz";
+      name = "regenerator_runtime___regenerator_runtime_0.14.0.tgz";
       path = fetchurl {
-        name = "regenerator_runtime___regenerator_runtime_0.13.10.tgz";
-        url = "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.10.tgz";
-        sha512 = "KepLsg4dU12hryUO7bp/axHAKvwGOCV0sGloQtpagJ12ai+ojVDqkeGSiRX1zlq+kjIMZ1t7gpze+26QqtdGqw==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org_regenerator_runtime___regenerator_runtime_0.13.9.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_regenerator_runtime___regenerator_runtime_0.13.9.tgz";
-        url = "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.13.9.tgz";
-        sha512 = "p3VT+cOEgxFsRRA9X4lkI1E+k2/CtnKtU4gcxyaCUreilL/vqI6CdZ3wxVUx3UOUg+gnUOQQcRI7BmSI656MYA==";
+        name = "regenerator_runtime___regenerator_runtime_0.14.0.tgz";
+        url = "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.14.0.tgz";
+        sha512 = "srw17NI0TUWHuGa5CFGGmhfNIeja30WMBfbslPNhf6JrqQlLN5gcrvig1oqPxiVaXb0oW0XRKtH6Nngs5lKCIA==";
       };
     }
     {
