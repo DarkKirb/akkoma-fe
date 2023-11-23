@@ -4680,11 +4680,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_graceful_fs___graceful_fs_4.2.10.tgz";
+      name = "graceful_fs___graceful_fs_4.2.11.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_graceful_fs___graceful_fs_4.2.10.tgz";
-        url = "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.10.tgz";
-        sha512 = "9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA==";
+        name = "graceful_fs___graceful_fs_4.2.11.tgz";
+        url = "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.11.tgz";
+        sha512 = "RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ==";
       };
     }
     {
@@ -5800,11 +5800,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_karma_sourcemap_loader___karma_sourcemap_loader_0.3.8.tgz";
+      name = "karma_sourcemap_loader___karma_sourcemap_loader_0.4.0.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_karma_sourcemap_loader___karma_sourcemap_loader_0.3.8.tgz";
-        url = "https://registry.npmjs.org/karma-sourcemap-loader/-/karma-sourcemap-loader-0.3.8.tgz";
-        sha512 = "zorxyAakYZuBcHRJE+vbrK2o2JXLFWK8VVjiT/6P+ltLBUGUvqTEkUiQ119MGdOrK7mrmxXHZF1/pfT6GgIZ6g==";
+        name = "karma_sourcemap_loader___karma_sourcemap_loader_0.4.0.tgz";
+        url = "https://registry.yarnpkg.com/karma-sourcemap-loader/-/karma-sourcemap-loader-0.4.0.tgz";
+        sha512 = "xCRL3/pmhAYF3I6qOrcn0uhbQevitc2DERMPH82FMnG+4WReoGcGFZb1pURf2a5apyrOHRdvD+O6K7NljqKHyA==";
       };
     }
     {
