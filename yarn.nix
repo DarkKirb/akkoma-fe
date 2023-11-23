@@ -1512,6 +1512,14 @@
       };
     }
     {
+      name = "_sinonjs_commons___commons_1.8.6.tgz";
+      path = fetchurl {
+        name = "_sinonjs_commons___commons_1.8.6.tgz";
+        url = "https://registry.yarnpkg.com/@sinonjs/commons/-/commons-1.8.6.tgz";
+        sha512 = "Ky+XkAkqPZSm3NLBeUng77EBQl3cmeJhITaGHdYH8kjVB+aun3S4XBRti2zt17mtt0mIUDiNxYeoJm6drVvBJQ==";
+      };
+    }
+    {
       name = "_surma_rollup_plugin_off_main_thread___rollup_plugin_off_main_thread_2.2.3.tgz";
       path = fetchurl {
         name = "_surma_rollup_plugin_off_main_thread___rollup_plugin_off_main_thread_2.2.3.tgz";
@@ -4440,11 +4448,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_function_bind___function_bind_1.1.1.tgz";
+      name = "function_bind___function_bind_1.1.2.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_function_bind___function_bind_1.1.1.tgz";
-        url = "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz";
-        sha512 = "yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==";
+        name = "function_bind___function_bind_1.1.2.tgz";
+        url = "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.2.tgz";
+        sha512 = "7XHNxH7qX9xG5mIwxkhumTox/MIRNcOgDrxWsMt2pAr23WHp6MrRlN7FBSFpCpr+oVO0F744iUgR82nJMfG2SA==";
       };
     }
     {
@@ -4680,11 +4688,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_graceful_fs___graceful_fs_4.2.10.tgz";
+      name = "graceful_fs___graceful_fs_4.2.11.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_graceful_fs___graceful_fs_4.2.10.tgz";
-        url = "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.10.tgz";
-        sha512 = "9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA==";
+        name = "graceful_fs___graceful_fs_4.2.11.tgz";
+        url = "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.11.tgz";
+        sha512 = "RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ==";
       };
     }
     {
@@ -5800,11 +5808,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_karma_sourcemap_loader___karma_sourcemap_loader_0.3.8.tgz";
+      name = "karma_sourcemap_loader___karma_sourcemap_loader_0.4.0.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_karma_sourcemap_loader___karma_sourcemap_loader_0.3.8.tgz";
-        url = "https://registry.npmjs.org/karma-sourcemap-loader/-/karma-sourcemap-loader-0.3.8.tgz";
-        sha512 = "zorxyAakYZuBcHRJE+vbrK2o2JXLFWK8VVjiT/6P+ltLBUGUvqTEkUiQ119MGdOrK7mrmxXHZF1/pfT6GgIZ6g==";
+        name = "karma_sourcemap_loader___karma_sourcemap_loader_0.4.0.tgz";
+        url = "https://registry.yarnpkg.com/karma-sourcemap-loader/-/karma-sourcemap-loader-0.4.0.tgz";
+        sha512 = "xCRL3/pmhAYF3I6qOrcn0uhbQevitc2DERMPH82FMnG+4WReoGcGFZb1pURf2a5apyrOHRdvD+O6K7NljqKHyA==";
       };
     }
     {
@@ -6205,6 +6213,14 @@
         name = "https___registry.npmjs.org_log4js___log4js_6.6.1.tgz";
         url = "https://registry.npmjs.org/log4js/-/log4js-6.6.1.tgz";
         sha512 = "J8VYFH2UQq/xucdNu71io4Fo+purYYudyErgBbswWKO0MC6QVOERRomt5su/z6d3RJSmLyTGmXl3Q/XjKCf+/A==";
+      };
+    }
+    {
+      name = "lolex___lolex_6.0.0.tgz";
+      path = fetchurl {
+        name = "lolex___lolex_6.0.0.tgz";
+        url = "https://registry.yarnpkg.com/lolex/-/lolex-6.0.0.tgz";
+        sha512 = "ad9IBHbfVJ3bPAotDxnCgJgKcNK5/mrRAfbJzXhY5+PEmuBWP7wyHQlA6L8TfSfPlqlDjY4K7IG6mbzsrIBx1A==";
       };
     }
     {
@@ -7976,11 +7992,11 @@
       };
     }
     {
-      name = "sass___sass_1.56.1.tgz";
+      name = "sass___sass_1.69.5.tgz";
       path = fetchurl {
-        name = "sass___sass_1.56.1.tgz";
-        url = "https://registry.yarnpkg.com/sass/-/sass-1.56.1.tgz";
-        sha512 = "VpEyKpyBPCxE7qGDtOcdJ6fFbcpOM+Emu7uZLxVrkX8KVU/Dp5UF7WLvzqRuUhB6mqqQt1xffLoG+AndxTZrCQ==";
+        name = "sass___sass_1.69.5.tgz";
+        url = "https://registry.yarnpkg.com/sass/-/sass-1.69.5.tgz";
+        sha512 = "qg2+UCJibLr2LCVOt3OlPhr/dqVHWOa9XtZf2OjbLs/T4VPSJ00udtgJxH3neXZm+QqX8B+3cU7RaLqp1iVfcQ==";
       };
     }
     {
