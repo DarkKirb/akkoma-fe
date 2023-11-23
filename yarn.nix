@@ -1512,6 +1512,14 @@
       };
     }
     {
+      name = "_sinonjs_commons___commons_1.8.6.tgz";
+      path = fetchurl {
+        name = "_sinonjs_commons___commons_1.8.6.tgz";
+        url = "https://registry.yarnpkg.com/@sinonjs/commons/-/commons-1.8.6.tgz";
+        sha512 = "Ky+XkAkqPZSm3NLBeUng77EBQl3cmeJhITaGHdYH8kjVB+aun3S4XBRti2zt17mtt0mIUDiNxYeoJm6drVvBJQ==";
+      };
+    }
+    {
       name = "_surma_rollup_plugin_off_main_thread___rollup_plugin_off_main_thread_2.2.3.tgz";
       path = fetchurl {
         name = "_surma_rollup_plugin_off_main_thread___rollup_plugin_off_main_thread_2.2.3.tgz";
@@ -6205,6 +6213,14 @@
         name = "https___registry.npmjs.org_log4js___log4js_6.6.1.tgz";
         url = "https://registry.npmjs.org/log4js/-/log4js-6.6.1.tgz";
         sha512 = "J8VYFH2UQq/xucdNu71io4Fo+purYYudyErgBbswWKO0MC6QVOERRomt5su/z6d3RJSmLyTGmXl3Q/XjKCf+/A==";
+      };
+    }
+    {
+      name = "lolex___lolex_6.0.0.tgz";
+      path = fetchurl {
+        name = "lolex___lolex_6.0.0.tgz";
+        url = "https://registry.yarnpkg.com/lolex/-/lolex-6.0.0.tgz";
+        sha512 = "ad9IBHbfVJ3bPAotDxnCgJgKcNK5/mrRAfbJzXhY5+PEmuBWP7wyHQlA6L8TfSfPlqlDjY4K7IG6mbzsrIBx1A==";
       };
     }
     {
