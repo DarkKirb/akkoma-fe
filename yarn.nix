@@ -1640,11 +1640,11 @@
       };
     }
     {
-      name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.1.tgz";
+      name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.5.tgz";
       path = fetchurl {
-        name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.1.tgz";
-        url = "https://registry.yarnpkg.com/@vue/babel-plugin-jsx/-/babel-plugin-jsx-1.1.1.tgz";
-        sha512 = "j2uVfZjnB5+zkcbc/zsOc0fSNGCMMjaEXP52wdwdIfn0qjFfEYpYZBFKFg+HHnQeJCVrjOeO0YxgaL7DMrym9w==";
+        name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.5.tgz";
+        url = "https://registry.yarnpkg.com/@vue/babel-plugin-jsx/-/babel-plugin-jsx-1.1.5.tgz";
+        sha512 = "nKs1/Bg9U1n3qSWnsHhCVQtAzI6aQXqua8j/bZrau8ywT1ilXQbK4FwEJGmU8fV7tcpuFvWmmN7TMmV1OBma1g==";
       };
     }
     {
