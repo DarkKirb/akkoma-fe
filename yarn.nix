@@ -5832,11 +5832,11 @@
       };
     }
     {
-      name = "iso_639_1___iso_639_1_2.1.15.tgz";
+      name = "iso_639_1___iso_639_1_3.1.0.tgz";
       path = fetchurl {
-        name = "iso_639_1___iso_639_1_2.1.15.tgz";
-        url = "https://registry.yarnpkg.com/iso-639-1/-/iso-639-1-2.1.15.tgz";
-        sha512 = "7c7mBznZu2ktfvyT582E2msM+Udc1EjOyhVRE/0ZsjD9LBtWSm23h3PtiRh2a35XoUsTQQjJXaJzuLjXsOdFDg==";
+        name = "iso_639_1___iso_639_1_3.1.0.tgz";
+        url = "https://registry.yarnpkg.com/iso-639-1/-/iso-639-1-3.1.0.tgz";
+        sha512 = "rWcHp9dcNbxa5C8jA/cxFlWNFNwy5Vup0KcFvgA8sPQs9ZeJHj/Eq0Y8Yz2eL8XlWYpxw4iwh9FfTeVxyqdRMw==";
       };
     }
     {
