@@ -1168,11 +1168,11 @@
       };
     }
     {
-      name = "_fortawesome_vue_fontawesome___vue_fontawesome_3.0.1.tgz";
+      name = "_fortawesome_vue_fontawesome___vue_fontawesome_3.0.5.tgz";
       path = fetchurl {
-        name = "_fortawesome_vue_fontawesome___vue_fontawesome_3.0.1.tgz";
-        url = "https://registry.yarnpkg.com/@fortawesome/vue-fontawesome/-/vue-fontawesome-3.0.1.tgz";
-        sha512 = "CdXZJoCS+aEPec26ZP7hWWU3SaJlQPZSCGdgpQ2qGl2HUmtUUNrI3zC4XWdn1JUmh3t5OuDeRG1qB4eGRNSD4A==";
+        name = "_fortawesome_vue_fontawesome___vue_fontawesome_3.0.5.tgz";
+        url = "https://registry.yarnpkg.com/@fortawesome/vue-fontawesome/-/vue-fontawesome-3.0.5.tgz";
+        sha512 = "isZZ4+utQH9qg9cWxWYHQ9GwI3r5FeO7GnmzKYV+gbjxcptQhh+F99iZXi1Y9AvFUEgy8kRpAdvDlbb3drWFrw==";
       };
     }
     {
@@ -1640,11 +1640,11 @@
       };
     }
     {
-      name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.1.tgz";
+      name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.5.tgz";
       path = fetchurl {
-        name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.1.tgz";
-        url = "https://registry.yarnpkg.com/@vue/babel-plugin-jsx/-/babel-plugin-jsx-1.1.1.tgz";
-        sha512 = "j2uVfZjnB5+zkcbc/zsOc0fSNGCMMjaEXP52wdwdIfn0qjFfEYpYZBFKFg+HHnQeJCVrjOeO0YxgaL7DMrym9w==";
+        name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.5.tgz";
+        url = "https://registry.yarnpkg.com/@vue/babel-plugin-jsx/-/babel-plugin-jsx-1.1.5.tgz";
+        sha512 = "nKs1/Bg9U1n3qSWnsHhCVQtAzI6aQXqua8j/bZrau8ywT1ilXQbK4FwEJGmU8fV7tcpuFvWmmN7TMmV1OBma1g==";
       };
     }
     {
@@ -5840,11 +5840,11 @@
       };
     }
     {
-      name = "iso_639_1___iso_639_1_2.1.15.tgz";
+      name = "iso_639_1___iso_639_1_3.1.0.tgz";
       path = fetchurl {
-        name = "iso_639_1___iso_639_1_2.1.15.tgz";
-        url = "https://registry.yarnpkg.com/iso-639-1/-/iso-639-1-2.1.15.tgz";
-        sha512 = "7c7mBznZu2ktfvyT582E2msM+Udc1EjOyhVRE/0ZsjD9LBtWSm23h3PtiRh2a35XoUsTQQjJXaJzuLjXsOdFDg==";
+        name = "iso_639_1___iso_639_1_3.1.0.tgz";
+        url = "https://registry.yarnpkg.com/iso-639-1/-/iso-639-1-3.1.0.tgz";
+        sha512 = "rWcHp9dcNbxa5C8jA/cxFlWNFNwy5Vup0KcFvgA8sPQs9ZeJHj/Eq0Y8Yz2eL8XlWYpxw4iwh9FfTeVxyqdRMw==";
       };
     }
     {
@@ -8160,11 +8160,11 @@
       };
     }
     {
-      name = "raw_loader___raw_loader_0.5.1.tgz";
+      name = "raw_loader___raw_loader_4.0.2.tgz";
       path = fetchurl {
-        name = "raw_loader___raw_loader_0.5.1.tgz";
-        url = "https://registry.yarnpkg.com/raw-loader/-/raw-loader-0.5.1.tgz";
-        sha512 = "sf7oGoLuaYAScB4VGr0tzetsYlS8EJH6qnTCfQ/WVEa89hALQ4RQfCKt5xCyPQKPDUbVUAIP1QsxAwfAjlDp7Q==";
+        name = "raw_loader___raw_loader_4.0.2.tgz";
+        url = "https://registry.yarnpkg.com/raw-loader/-/raw-loader-4.0.2.tgz";
+        sha512 = "ZnScIV3ag9A4wPX/ZayxL/jZH+euYb6FcUinPcgiQW0+UBtEv0O6Q3lGd3cqJ+GHH+rksEv3Pj99oxJ3u3VIKA==";
       };
     }
     {
