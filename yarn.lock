@@ -5511,10 +5511,10 @@ isexe@^2.0.0:
   resolved "https://registry.yarnpkg.com/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
   integrity sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==
 
-iso-639-1@^2.1.15:
-  version "2.1.15"
-  resolved "https://registry.yarnpkg.com/iso-639-1/-/iso-639-1-2.1.15.tgz#20cf78a4f691aeb802c16f17a6bad7d99271e85d"
-  integrity sha512-7c7mBznZu2ktfvyT582E2msM+Udc1EjOyhVRE/0ZsjD9LBtWSm23h3PtiRh2a35XoUsTQQjJXaJzuLjXsOdFDg==
+iso-639-1@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/iso-639-1/-/iso-639-1-3.1.0.tgz#62611c680eba80ccedb57c3fa00d048f7c866693"
+  integrity sha512-rWcHp9dcNbxa5C8jA/cxFlWNFNwy5Vup0KcFvgA8sPQs9ZeJHj/Eq0Y8Yz2eL8XlWYpxw4iwh9FfTeVxyqdRMw==
 
 isobject@^3.0.1:
   version "3.0.1"
@@ -9523,6 +9523,7 @@ workerpool@6.2.1:
   integrity sha512-ILEIE97kDZvF9Wb9f6h5aXK4swSlKGUcOEGiIYb2OOu/IrDU9iwj0fD//SsA6E5ibwJxpEvhullJY4Sl4GcpAw==
 
 "wrap-ansi-cjs@npm:wrap-ansi@^7.0.0", wrap-ansi@^7.0.0:
+  name wrap-ansi-cjs
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
   integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
