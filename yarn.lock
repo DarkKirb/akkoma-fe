@@ -7183,10 +7183,10 @@ pend@~1.2.0:
   resolved "https://registry.yarnpkg.com/pend/-/pend-1.2.0.tgz#7a57eb550a6783f9115331fcf4663d5c8e007a50"
   integrity sha512-F3asv42UuXchdzt+xXqfW1OGlVBe+mxa2mqI0pg5yAHZPvFmY3Y6drSf/GQ1A86WgWEN9Kzh/WrgKa6iGcHXLg==
 
-phoenix@1.6.2:
-  version "1.6.2"
-  resolved "https://registry.yarnpkg.com/phoenix/-/phoenix-1.6.2.tgz#8d1d9f06e51cb893d08059e80488cd0de328e01a"
-  integrity sha512-VjR27NETvrLSj8rI6DlpVAfo7pCYth/9+1OCoTof4LKEbq0141ze/tdxFHHZzVQSok3gqJUo2h/tqbxR3r8eyw==
+phoenix@1.7.10:
+  version "1.7.10"
+  resolved "https://registry.yarnpkg.com/phoenix/-/phoenix-1.7.10.tgz#e7951219e3128c6f9d1fe8e551180097623c6498"
+  integrity sha512-akfr/QvLPFRB8sORyc8FQFY/YoGwjWhka/YRcu45sKlBOZHvA80EkLYBUsYlW63UicxgrXABZdrjDkv54LTE+g==
 
 picocolors@^0.2.1:
   version "0.2.1"
