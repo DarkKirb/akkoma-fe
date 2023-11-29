@@ -6200,11 +6200,11 @@
       };
     }
     {
-      name = "karma_firefox_launcher___karma_firefox_launcher_1.3.0.tgz";
+      name = "karma_firefox_launcher___karma_firefox_launcher_2.1.2.tgz";
       path = fetchurl {
-        name = "karma_firefox_launcher___karma_firefox_launcher_1.3.0.tgz";
-        url = "https://registry.yarnpkg.com/karma-firefox-launcher/-/karma-firefox-launcher-1.3.0.tgz";
-        sha512 = "Fi7xPhwrRgr+94BnHX0F5dCl1miIW4RHnzjIGxF8GaIEp7rNqX7LSi7ok63VXs3PS/5MQaQMhGxw+bvD+pibBQ==";
+        name = "karma_firefox_launcher___karma_firefox_launcher_2.1.2.tgz";
+        url = "https://registry.yarnpkg.com/karma-firefox-launcher/-/karma-firefox-launcher-2.1.2.tgz";
+        sha512 = "VV9xDQU1QIboTrjtGVD4NCfzIH7n01ZXqy/qpBhnOeGVOkG5JYPEm8kuSd7psHE6WouZaQ9Ool92g8LFweSNMA==";
       };
     }
     {
