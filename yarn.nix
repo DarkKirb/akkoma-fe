@@ -1736,11 +1736,11 @@
       };
     }
     {
-      name = "_vue_test_utils___test_utils_2.4.2.tgz";
+      name = "_vue_test_utils___test_utils_2.4.3.tgz";
       path = fetchurl {
-        name = "_vue_test_utils___test_utils_2.4.2.tgz";
-        url = "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-2.4.2.tgz";
-        sha512 = "07lLjpG1o9tEBoWQfVOFhDT7+WFCdDeECoeSdzOuVgIi6nxb2JDLGNNOV6+3crPpyg/jMlIocj96UROcgomiGg==";
+        name = "_vue_test_utils___test_utils_2.4.3.tgz";
+        url = "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-2.4.3.tgz";
+        sha512 = "F4K7mF+ad++VlTrxMJVRnenKSJmO6fkQt2wpRDiKDesQMkfpniGWsqEi/JevxGBo2qEkwwjvTUAoiGJLNx++CA==";
       };
     }
     {
