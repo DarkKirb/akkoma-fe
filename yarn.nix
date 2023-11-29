@@ -9896,11 +9896,11 @@
       };
     }
     {
-      name = "vue_template_compiler___vue_template_compiler_2.6.11.tgz";
+      name = "vue_template_compiler___vue_template_compiler_2.7.15.tgz";
       path = fetchurl {
-        name = "vue_template_compiler___vue_template_compiler_2.6.11.tgz";
-        url = "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.6.11.tgz";
-        sha512 = "KIq15bvQDrcCjpGjrAhx4mUlyyHfdmTaoNfeoATHLAiWB+MU3cx4lOzMwrnUh9cCxy0Lt1T11hAFY6TQgroUAA==";
+        name = "vue_template_compiler___vue_template_compiler_2.7.15.tgz";
+        url = "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.7.15.tgz";
+        sha512 = "yQxjxMptBL7UAog00O8sANud99C6wJF+7kgbcwqkvA38vCGF7HWE66w0ZFnS/kX5gSoJr/PQ4/oS3Ne2pW37Og==";
       };
     }
     {
