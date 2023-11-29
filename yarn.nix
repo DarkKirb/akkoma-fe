@@ -1128,11 +1128,11 @@
       };
     }
     {
-      name = "_fortawesome_fontawesome_common_types___fontawesome_common_types_6.4.2.tgz";
+      name = "_fortawesome_fontawesome_common_types___fontawesome_common_types_6.5.0.tgz";
       path = fetchurl {
-        name = "_fortawesome_fontawesome_common_types___fontawesome_common_types_6.4.2.tgz";
-        url = "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.4.2.tgz";
-        sha512 = "1DgP7f+XQIJbLFCTX1V2QnxVmpLdKdzzo2k8EmvDOePfchaIGQ9eCHj2up3/jNEbZuBqel5OxiaOJf37TWauRA==";
+        name = "_fortawesome_fontawesome_common_types___fontawesome_common_types_6.5.0.tgz";
+        url = "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.5.0.tgz";
+        sha512 = "vYC8oN2l8meu05sRi1j3Iie/HNFAeIxpitYFhsUrBc11TxiMken9QdXnSQ0q16FYsOSt/6soxs5ghdk+VYGiog==";
       };
     }
     {
@@ -1152,19 +1152,19 @@
       };
     }
     {
-      name = "_fortawesome_free_regular_svg_icons___free_regular_svg_icons_6.4.2.tgz";
+      name = "_fortawesome_free_regular_svg_icons___free_regular_svg_icons_6.5.0.tgz";
       path = fetchurl {
-        name = "_fortawesome_free_regular_svg_icons___free_regular_svg_icons_6.4.2.tgz";
-        url = "https://registry.yarnpkg.com/@fortawesome/free-regular-svg-icons/-/free-regular-svg-icons-6.4.2.tgz";
-        sha512 = "0+sIUWnkgTVVXVAPQmW4vxb9ZTHv0WstOa3rBx9iPxrrrDH6bNLsDYuwXF9b6fGm+iR7DKQvQshUH/FJm3ed9Q==";
+        name = "_fortawesome_free_regular_svg_icons___free_regular_svg_icons_6.5.0.tgz";
+        url = "https://registry.yarnpkg.com/@fortawesome/free-regular-svg-icons/-/free-regular-svg-icons-6.5.0.tgz";
+        sha512 = "RaBW/y0jKcCyEPM+NYuBs3bQXuLYZHnXABQPmg6qwuRxNb2EUmyCcVUECUH2dkFmMjggh/xvl6n6y62Pl19JkA==";
       };
     }
     {
-      name = "_fortawesome_free_solid_svg_icons___free_solid_svg_icons_6.4.2.tgz";
+      name = "_fortawesome_free_solid_svg_icons___free_solid_svg_icons_6.5.0.tgz";
       path = fetchurl {
-        name = "_fortawesome_free_solid_svg_icons___free_solid_svg_icons_6.4.2.tgz";
-        url = "https://registry.yarnpkg.com/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-6.4.2.tgz";
-        sha512 = "sYwXurXUEQS32fZz9hVCUUv/xu49PEJEyUOsA51l6PU/qVgfbTb2glsTEaJngVVT8VqBATRIdh7XVgV1JF1LkA==";
+        name = "_fortawesome_free_solid_svg_icons___free_solid_svg_icons_6.5.0.tgz";
+        url = "https://registry.yarnpkg.com/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-6.5.0.tgz";
+        sha512 = "6ZPq8mme67Q7O9Fbp2O+Z7mPZbcWTsRv555JLftLaTodiV0Wq+99YgMhyQ8O6mgNQfComqS9OEvqs7M8ySA92g==";
       };
     }
     {
@@ -1736,11 +1736,11 @@
       };
     }
     {
-      name = "_vue_test_utils___test_utils_2.4.2.tgz";
+      name = "_vue_test_utils___test_utils_2.4.3.tgz";
       path = fetchurl {
-        name = "_vue_test_utils___test_utils_2.4.2.tgz";
-        url = "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-2.4.2.tgz";
-        sha512 = "07lLjpG1o9tEBoWQfVOFhDT7+WFCdDeECoeSdzOuVgIi6nxb2JDLGNNOV6+3crPpyg/jMlIocj96UROcgomiGg==";
+        name = "_vue_test_utils___test_utils_2.4.3.tgz";
+        url = "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-2.4.3.tgz";
+        sha512 = "F4K7mF+ad++VlTrxMJVRnenKSJmO6fkQt2wpRDiKDesQMkfpniGWsqEi/JevxGBo2qEkwwjvTUAoiGJLNx++CA==";
       };
     }
     {
@@ -3848,11 +3848,11 @@
       };
     }
     {
-      name = "electron_to_chromium___electron_to_chromium_1.4.595.tgz";
+      name = "electron_to_chromium___electron_to_chromium_1.4.596.tgz";
       path = fetchurl {
-        name = "electron_to_chromium___electron_to_chromium_1.4.595.tgz";
-        url = "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.595.tgz";
-        sha512 = "+ozvXuamBhDOKvMNUQvecxfbyICmIAwS4GpLmR0bsiSBlGnLaOcs2Cj7J8XSbW+YEaN3Xl3ffgpm+srTUWFwFQ==";
+        name = "electron_to_chromium___electron_to_chromium_1.4.596.tgz";
+        url = "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.596.tgz";
+        sha512 = "zW3zbZ40Icb2BCWjm47nxwcFGYlIgdXkAx85XDO7cyky9J4QQfq8t0W19/TLZqq3JPQXtlv8BPIGmfa9Jb4scg==";
       };
     }
     {
