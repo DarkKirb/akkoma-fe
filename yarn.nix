@@ -6264,11 +6264,11 @@
       };
     }
     {
-      name = "karma___karma_6.3.17.tgz";
+      name = "karma___karma_6.4.2.tgz";
       path = fetchurl {
-        name = "karma___karma_6.3.17.tgz";
-        url = "https://registry.yarnpkg.com/karma/-/karma-6.3.17.tgz";
-        sha512 = "2TfjHwrRExC8yHoWlPBULyaLwAFmXmxQrcuFImt/JsAsSZu1uOWTZ1ZsWjqQtWpHLiatJOHL5jFjXSJIgCd01g==";
+        name = "karma___karma_6.4.2.tgz";
+        url = "https://registry.yarnpkg.com/karma/-/karma-6.4.2.tgz";
+        sha512 = "C6SU/53LB31BEgRg+omznBEMY4SjHU3ricV6zBcAe1EeILKkeScr+fZXtaI5WyDbkVowJxxAI6h73NcFPmXolQ==";
       };
     }
     {
