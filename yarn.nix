@@ -8040,11 +8040,11 @@
       };
     }
     {
-      name = "punycode.js___punycode.js_2.1.0.tgz";
+      name = "punycode.js___punycode.js_2.3.1.tgz";
       path = fetchurl {
-        name = "punycode.js___punycode.js_2.1.0.tgz";
-        url = "https://registry.yarnpkg.com/punycode.js/-/punycode.js-2.1.0.tgz";
-        sha512 = "LvGUJ9QHiESLM4yn8JuJWicstRcJKRmP46psQw1HvCZ9puLFwYMKJWvkAkP3OHBVzNzZGx/D53EYJrIaKd9gZQ==";
+        name = "punycode.js___punycode.js_2.3.1.tgz";
+        url = "https://registry.yarnpkg.com/punycode.js/-/punycode.js-2.3.1.tgz";
+        sha512 = "uxFIHU0YlHYhDQtV4R9J6a52SLx28BCjT+4ieh7IGbgwVJWO+km431c4yRlREUAsAmt/uMjQUyQHNEPf0M39CA==";
       };
     }
     {
