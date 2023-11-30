@@ -84,7 +84,7 @@
     "file-loader": "^6.2.0",
     "function-bind": "1.1.2",
     "html-webpack-plugin": "^5.5.0",
-    "http-proxy-middleware": "0.21.0",
+    "http-proxy-middleware": "2.0.6",
     "inject-loader": "2.0.1",
     "isparta-loader": "2.0.0",
     "json-loader": "0.5.7",
