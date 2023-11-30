@@ -5232,11 +5232,11 @@
       };
     }
     {
-      name = "http_proxy_middleware___http_proxy_middleware_0.21.0.tgz";
+      name = "http_proxy_middleware___http_proxy_middleware_2.0.6.tgz";
       path = fetchurl {
-        name = "http_proxy_middleware___http_proxy_middleware_0.21.0.tgz";
-        url = "https://registry.yarnpkg.com/http-proxy-middleware/-/http-proxy-middleware-0.21.0.tgz";
-        sha512 = "4Arcl5QQ6pRMRJmtM1WVHKHkFAQn5uvw83XuNeqnMTOikDiCoTxv5/vdudhKQsF+1mtaAawrK2SEB1v2tYecdQ==";
+        name = "http_proxy_middleware___http_proxy_middleware_2.0.6.tgz";
+        url = "https://registry.yarnpkg.com/http-proxy-middleware/-/http-proxy-middleware-2.0.6.tgz";
+        sha512 = "ya/UeJ6HVBYxrgYotAZo1KvPWlgB48kUJLDePFeneHsVujFaW5WNj2NgWCAE//B1Dl02BIfYlpNgBy8Kf8Rjmw==";
       };
     }
     {
@@ -5653,6 +5653,14 @@
         name = "is_plain_obj___is_plain_obj_2.1.0.tgz";
         url = "https://registry.yarnpkg.com/is-plain-obj/-/is-plain-obj-2.1.0.tgz";
         sha512 = "YWnfyRwxL/+SsrWYfOpUtz5b3YD+nyfkHvjbcanzk8zgyO4ASD67uVMRt8k5bM4lLMDnXfriRhOpemw+NfT1eA==";
+      };
+    }
+    {
+      name = "is_plain_obj___is_plain_obj_3.0.0.tgz";
+      path = fetchurl {
+        name = "is_plain_obj___is_plain_obj_3.0.0.tgz";
+        url = "https://registry.yarnpkg.com/is-plain-obj/-/is-plain-obj-3.0.0.tgz";
+        sha512 = "gwsOE28k+23GP1B6vFl1oVh/WOzmawBrKwo5Ev6wMKzPkaXaCDIQKzLnvsA42DRlbVTWorkgTKIviAKCWkfUwA==";
       };
     }
     {
