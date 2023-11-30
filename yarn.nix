@@ -1640,11 +1640,11 @@
       };
     }
     {
-      name = "_vue_babel_helper_vue_jsx_merge_props___babel_helper_vue_jsx_merge_props_1.2.1.tgz";
+      name = "_vue_babel_helper_vue_jsx_merge_props___babel_helper_vue_jsx_merge_props_1.4.0.tgz";
       path = fetchurl {
-        name = "_vue_babel_helper_vue_jsx_merge_props___babel_helper_vue_jsx_merge_props_1.2.1.tgz";
-        url = "https://registry.yarnpkg.com/@vue/babel-helper-vue-jsx-merge-props/-/babel-helper-vue-jsx-merge-props-1.2.1.tgz";
-        sha512 = "QOi5OW45e2R20VygMSNhyQHvpdUwQZqGPc748JLGCYEy+yp8fNFNdbNIGAgZmi9e+2JHPd6i6idRuqivyicIkA==";
+        name = "_vue_babel_helper_vue_jsx_merge_props___babel_helper_vue_jsx_merge_props_1.4.0.tgz";
+        url = "https://registry.yarnpkg.com/@vue/babel-helper-vue-jsx-merge-props/-/babel-helper-vue-jsx-merge-props-1.4.0.tgz";
+        sha512 = "JkqXfCkUDp4PIlFdDQ0TdXoIejMtTHP67/pvxlgeY+u5k3LEdKuWZ3LK6xkxo52uDoABIVyRwqVkfLQJhk7VBA==";
       };
     }
     {
