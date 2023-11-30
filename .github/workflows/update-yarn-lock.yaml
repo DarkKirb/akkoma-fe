@@ -23,4 +23,5 @@ jobs:
         with:
           author: GitHub <noreply@github.com>
           branch: yarn-update
+          title: Update yarn.lock
           token: ${{ secrets.GITHUB_TOKEN }}
