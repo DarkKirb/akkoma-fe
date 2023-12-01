@@ -37,6 +37,7 @@ module.exports = {
     ],
     fallback: {
       "url": require.resolve("url/"),
+      "querystring": require.resolve("querystring-es3")
     },
     alias: {
       'static': path.resolve(__dirname, '../static'),
