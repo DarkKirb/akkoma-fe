@@ -6232,11 +6232,11 @@
       };
     }
     {
-      name = "karma_spec_reporter___karma_spec_reporter_0.0.33.tgz";
+      name = "karma_spec_reporter___karma_spec_reporter_0.0.36.tgz";
       path = fetchurl {
-        name = "karma_spec_reporter___karma_spec_reporter_0.0.33.tgz";
-        url = "https://registry.yarnpkg.com/karma-spec-reporter/-/karma-spec-reporter-0.0.33.tgz";
-        sha512 = "xRVevDUkiIVhKbDQ3CmeGEpyzA4b3HeVl95Sx5yJAvurpdKUSYF6ZEbQOqKJ7vrtDniABV1hyFez9KX9+7ruBA==";
+        name = "karma_spec_reporter___karma_spec_reporter_0.0.36.tgz";
+        url = "https://registry.yarnpkg.com/karma-spec-reporter/-/karma-spec-reporter-0.0.36.tgz";
+        sha512 = "11bvOl1x6ryKZph7kmbmMpbi8vsngEGxGOoeTlIcDaH3ab3j8aPJnZ+r+K/SS0sBSGy5VGkGYO2+hLct7hw/6w==";
       };
     }
     {
