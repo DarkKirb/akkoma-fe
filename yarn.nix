@@ -2488,11 +2488,11 @@
       };
     }
     {
-      name = "body_scroll_lock___body_scroll_lock_2.7.1.tgz";
+      name = "body_scroll_lock___body_scroll_lock_3.1.5.tgz";
       path = fetchurl {
-        name = "body_scroll_lock___body_scroll_lock_2.7.1.tgz";
-        url = "https://registry.yarnpkg.com/body-scroll-lock/-/body-scroll-lock-2.7.1.tgz";
-        sha512 = "hS53SQ8RhM0e4DsQ3PKz6Gr2O7Kpdh59TWU98GHjaQznL7y4dFycEPk7pFQAikqBaUSCArkc5E3pe7CWIt2fZA==";
+        name = "body_scroll_lock___body_scroll_lock_3.1.5.tgz";
+        url = "https://registry.yarnpkg.com/body-scroll-lock/-/body-scroll-lock-3.1.5.tgz";
+        sha512 = "Yi1Xaml0EvNA0OYWxXiYNqY24AfWkbA6w5vxE7GWxtKfzIbZM+Qw+aSmkgsbWzbHiy/RCSkUZBplVxTA+E4jJg==";
       };
     }
     {
