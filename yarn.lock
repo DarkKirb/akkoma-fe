@@ -1505,10 +1505,10 @@
   dependencies:
     "@types/node" "*"
 
-"@ungap/event-target@0.2.3":
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/@ungap/event-target/-/event-target-0.2.3.tgz#be682c681126dca2371c4e1a1721f8e8bb400905"
-  integrity sha512-7Bz0qdvxNGV9n0f+xcMKU7wsEfK6PNzo8IdAcOiBgMNyCuU0Mk9dv0Hbd/Kgr+MFFfn4xLHFbuOt820egT5qEA==
+"@ungap/event-target@0.2.4":
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/@ungap/event-target/-/event-target-0.2.4.tgz#8b083a62ee665228bac08013fa516a3488528bb8"
+  integrity sha512-u9Fd3k2qfMtn+0dxbCn/y0pzQ9Ucw6lWR984CrHcbxc+WzcMkJE4VjWHWSb9At40MjwMyHCkJNXroS55Osshhw==
 
 "@vue/babel-helper-vue-jsx-merge-props@1.4.0":
   version "1.4.0"
@@ -9275,6 +9275,7 @@ workerpool@6.2.1:
   integrity sha512-ILEIE97kDZvF9Wb9f6h5aXK4swSlKGUcOEGiIYb2OOu/IrDU9iwj0fD//SsA6E5ibwJxpEvhullJY4Sl4GcpAw==
 
 "wrap-ansi-cjs@npm:wrap-ansi@^7.0.0", wrap-ansi@^7.0.0:
+  name wrap-ansi-cjs
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
   integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
