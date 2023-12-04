@@ -1496,11 +1496,11 @@
       };
     }
     {
-      name = "_ungap_event_target___event_target_0.2.3.tgz";
+      name = "_ungap_event_target___event_target_0.2.4.tgz";
       path = fetchurl {
-        name = "_ungap_event_target___event_target_0.2.3.tgz";
-        url = "https://registry.yarnpkg.com/@ungap/event-target/-/event-target-0.2.3.tgz";
-        sha512 = "7Bz0qdvxNGV9n0f+xcMKU7wsEfK6PNzo8IdAcOiBgMNyCuU0Mk9dv0Hbd/Kgr+MFFfn4xLHFbuOt820egT5qEA==";
+        name = "_ungap_event_target___event_target_0.2.4.tgz";
+        url = "https://registry.yarnpkg.com/@ungap/event-target/-/event-target-0.2.4.tgz";
+        sha512 = "u9Fd3k2qfMtn+0dxbCn/y0pzQ9Ucw6lWR984CrHcbxc+WzcMkJE4VjWHWSb9At40MjwMyHCkJNXroS55Osshhw==";
       };
     }
     {
