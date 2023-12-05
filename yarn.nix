@@ -9600,11 +9600,11 @@
       };
     }
     {
-      name = "webpack_dev_middleware___webpack_dev_middleware_5.3.3.tgz";
+      name = "webpack_dev_middleware___webpack_dev_middleware_6.1.1.tgz";
       path = fetchurl {
-        name = "webpack_dev_middleware___webpack_dev_middleware_5.3.3.tgz";
-        url = "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-5.3.3.tgz";
-        sha512 = "hj5CYrY0bZLB+eTO+x/j67Pkrquiy7kWepMHmUMoPsmcUaeEnQJqFzHJOyxgWlq746/wUuA64p9ta34Kyb01pA==";
+        name = "webpack_dev_middleware___webpack_dev_middleware_6.1.1.tgz";
+        url = "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-6.1.1.tgz";
+        sha512 = "y51HrHaFeeWir0YO4f0g+9GwZawuigzcAdRNon6jErXy/SqV/+O6eaVAzDqE6t3e3NpGeR5CS+cCDaTC+V3yEQ==";
       };
     }
     {
