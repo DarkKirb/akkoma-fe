@@ -64,14 +64,6 @@
       };
     }
     {
-      name = "_babel_core___core_7.23.3.tgz";
-      path = fetchurl {
-        name = "_babel_core___core_7.23.3.tgz";
-        url = "https://registry.yarnpkg.com/@babel/core/-/core-7.23.3.tgz";
-        sha512 = "Jg+msLuNuCJDyBvFv5+OKOUjWMZgd85bKjbICd3zWrKAo+bJ49HJufi7CQE0q0uR8NGyO6xkCACScNqyjHSZew==";
-      };
-    }
-    {
       name = "_babel_core___core_7.23.5.tgz";
       path = fetchurl {
         name = "_babel_core___core_7.23.5.tgz";
