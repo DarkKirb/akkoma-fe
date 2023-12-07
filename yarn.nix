@@ -4928,11 +4928,11 @@
       };
     }
     {
-      name = "html_webpack_plugin___html_webpack_plugin_5.5.3.tgz";
+      name = "html_webpack_plugin___html_webpack_plugin_5.5.4.tgz";
       path = fetchurl {
-        name = "html_webpack_plugin___html_webpack_plugin_5.5.3.tgz";
-        url = "https://registry.yarnpkg.com/html-webpack-plugin/-/html-webpack-plugin-5.5.3.tgz";
-        sha512 = "6YrDKTuqaP/TquFH7h4srYWsZx+x6k6+FbsTm0ziCwGHDP78Unr1r9F/H4+sGmMbX08GQcJ+K64x55b+7VM/jg==";
+        name = "html_webpack_plugin___html_webpack_plugin_5.5.4.tgz";
+        url = "https://registry.yarnpkg.com/html-webpack-plugin/-/html-webpack-plugin-5.5.4.tgz";
+        sha512 = "3wNSaVVxdxcu0jd4FpQFoICdqgxs4zIQQvj+2yQKFfBOnLETQ6X5CDWdeasuGlSsooFlMkEioWDTqBv1wvw5Iw==";
       };
     }
     {
