@@ -6840,11 +6840,11 @@
       };
     }
     {
-      name = "nightwatch___nightwatch_3.3.2.tgz";
+      name = "nightwatch___nightwatch_3.3.3.tgz";
       path = fetchurl {
-        name = "nightwatch___nightwatch_3.3.2.tgz";
-        url = "https://registry.yarnpkg.com/nightwatch/-/nightwatch-3.3.2.tgz";
-        sha512 = "qi/1glgvJjWrtHBm1vQJfLc4XocqfSqJ3E27Rlg8ofeYC5mLBnKqmJg4u268voIUg+4fQkMm0UYKDtF/0Es4Ag==";
+        name = "nightwatch___nightwatch_3.3.3.tgz";
+        url = "https://registry.yarnpkg.com/nightwatch/-/nightwatch-3.3.3.tgz";
+        sha512 = "M95DJ4KKe4+wyeJZYrkoiDcDMj45DAfFBr5h+Mkn/tBAO+4dxZyImtnoLG1b2xab14DF3pYICYcIXahyvfwkcg==";
       };
     }
     {
