@@ -3624,11 +3624,11 @@
       };
     }
     {
-      name = "electron_to_chromium___electron_to_chromium_1.4.608.tgz";
+      name = "electron_to_chromium___electron_to_chromium_1.4.609.tgz";
       path = fetchurl {
-        name = "electron_to_chromium___electron_to_chromium_1.4.608.tgz";
-        url = "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.608.tgz";
-        sha512 = "J2f/3iIIm3Mo0npneITZ2UPe4B1bg8fTNrFjD8715F/k1BvbviRuqYGkET1PgprrczXYTHFvotbBOmUp6KE0uA==";
+        name = "electron_to_chromium___electron_to_chromium_1.4.609.tgz";
+        url = "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.609.tgz";
+        sha512 = "ihiCP7PJmjoGNuLpl7TjNA8pCQWu09vGyjlPYw1Rqww4gvNuCcmvl+44G+2QyJ6S2K4o+wbTS++Xz0YN8Q9ERw==";
       };
     }
     {
@@ -8816,11 +8816,11 @@
       };
     }
     {
-      name = "stylelint_config_recommended___stylelint_config_recommended_13.0.0.tgz";
+      name = "stylelint_config_recommended___stylelint_config_recommended_14.0.0.tgz";
       path = fetchurl {
-        name = "stylelint_config_recommended___stylelint_config_recommended_13.0.0.tgz";
-        url = "https://registry.yarnpkg.com/stylelint-config-recommended/-/stylelint-config-recommended-13.0.0.tgz";
-        sha512 = "EH+yRj6h3GAe/fRiyaoO2F9l9Tgg50AOFhaszyfov9v6ayXJ1IkSHwTxd7lB48FmOeSGDPLjatjO11fJpmarkQ==";
+        name = "stylelint_config_recommended___stylelint_config_recommended_14.0.0.tgz";
+        url = "https://registry.yarnpkg.com/stylelint-config-recommended/-/stylelint-config-recommended-14.0.0.tgz";
+        sha512 = "jSkx290CglS8StmrLp2TxAppIajzIBZKYm3IxT89Kg6fGlxbPiTiyH9PS5YUuVAFwaJLl1ikiXX0QWjI0jmgZQ==";
       };
     }
     {
