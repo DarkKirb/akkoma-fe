@@ -3632,11 +3632,11 @@
       };
     }
     {
-      name = "electron_to_chromium___electron_to_chromium_1.4.611.tgz";
+      name = "electron_to_chromium___electron_to_chromium_1.4.613.tgz";
       path = fetchurl {
-        name = "electron_to_chromium___electron_to_chromium_1.4.611.tgz";
-        url = "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.611.tgz";
-        sha512 = "ZtRpDxrjHapOwxtv+nuth5ByB8clyn8crVynmRNGO3wG3LOp8RTcyZDqwaI6Ng6y8FCK2hVZmJoqwCskKbNMaw==";
+        name = "electron_to_chromium___electron_to_chromium_1.4.613.tgz";
+        url = "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.613.tgz";
+        sha512 = "r4x5+FowKG6q+/Wj0W9nidx7QO31BJwmR2uEo+Qh3YLGQ8SbBAFuDFpTxzly/I2gsbrFwBuIjrMp423L3O5U3w==";
       };
     }
     {
@@ -3920,11 +3920,11 @@
       };
     }
     {
-      name = "eslint_plugin_import___eslint_plugin_import_2.29.0.tgz";
+      name = "eslint_plugin_import___eslint_plugin_import_2.29.1.tgz";
       path = fetchurl {
-        name = "eslint_plugin_import___eslint_plugin_import_2.29.0.tgz";
-        url = "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.29.0.tgz";
-        sha512 = "QPOO5NO6Odv5lpoTkddtutccQjysJuFxoPS7fAHO+9m9udNHvTCPSAMW9zGAYj8lAIdr40I8yPCdUYrncXtrwg==";
+        name = "eslint_plugin_import___eslint_plugin_import_2.29.1.tgz";
+        url = "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.29.1.tgz";
+        sha512 = "BbPC0cuExzhiMo4Ff1BTVwHpjjv28C5R+btTOGaCRC7UEz801up0JadwkeSk5Ued6TG34uaczuVuH6qyy5YUxw==";
       };
     }
     {
@@ -9112,11 +9112,11 @@
       };
     }
     {
-      name = "tsconfig_paths___tsconfig_paths_3.14.2.tgz";
+      name = "tsconfig_paths___tsconfig_paths_3.15.0.tgz";
       path = fetchurl {
-        name = "tsconfig_paths___tsconfig_paths_3.14.2.tgz";
-        url = "https://registry.yarnpkg.com/tsconfig-paths/-/tsconfig-paths-3.14.2.tgz";
-        sha512 = "o/9iXgCYc5L/JxCHPe3Hvh8Q/2xm5Z+p18PESBU6Ff33695QnCHBEjcytY2q19ua7Mbl/DavtBOLq+oG0RCL+g==";
+        name = "tsconfig_paths___tsconfig_paths_3.15.0.tgz";
+        url = "https://registry.yarnpkg.com/tsconfig-paths/-/tsconfig-paths-3.15.0.tgz";
+        sha512 = "2Ac2RgzDe/cn48GvOe3M+o82pEFewD3UPbyoUHHdKasHwJKjds4fLXWf/Ux5kATBKN20oaFGu+jbElp1pos0mg==";
       };
     }
     {
