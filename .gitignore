@@ -10,3 +10,4 @@ config/local.json
 config/local.*.json
 docs/site/
 .vscode/
+.direnv/

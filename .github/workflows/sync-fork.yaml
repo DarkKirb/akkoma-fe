@@ -1,0 +1,22 @@
+name: Sync fork
+
+on:
+  schedule:
+    - cron: '34 22 * * *'
+  workflow_dispatch: # on button click
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - run: git remote add upstream https://akkoma.dev/AkkomaGang/akkoma-fe.git
+      - run: git fetch upstream
+      - run: git reset --hard upstream/develop
+      - uses: peter-evans/create-pull-request@v5
+        with:
+          author: GitHub <noreply@github.com>
+          branch: akkoma
+          title: Update from akkoma upstream
+          token: ${{ secrets.GITHUB_TOKEN }}
