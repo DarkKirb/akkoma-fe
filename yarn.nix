@@ -9504,11 +9504,11 @@
       };
     }
     {
-      name = "vue_loader___vue_loader_17.3.1.tgz";
+      name = "vue_loader___vue_loader_17.4.0.tgz";
       path = fetchurl {
-        name = "vue_loader___vue_loader_17.3.1.tgz";
-        url = "https://registry.yarnpkg.com/vue-loader/-/vue-loader-17.3.1.tgz";
-        sha512 = "nmVu7KU8geOyzsStyyaxID/uBGDMS8BkPXb6Lu2SNkMawriIbb+hYrNtgftHMKxOSkjjjTF5OSSwPo3KP59egg==";
+        name = "vue_loader___vue_loader_17.4.0.tgz";
+        url = "https://registry.yarnpkg.com/vue-loader/-/vue-loader-17.4.0.tgz";
+        sha512 = "tq81JlBNWYvoYAh5PRZXg5bE7BEv0Id6W7BF5otj18MtHgu5OqiK9rQu0z73r+VGlIq0lLDoEeC7RWYynUpXlQ==";
       };
     }
     {
