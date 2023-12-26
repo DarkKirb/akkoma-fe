@@ -126,7 +126,7 @@
     "vue-style-loader": "^4.1.2",
     "webpack": "^5.89.0",
     "webpack-dev-middleware": "^6.1.1",
-    "webpack-hot-middleware": "^2.25.1",
+    "webpack-hot-middleware": "^2.26.0",
     "webpack-merge": "^5.8.0",
     "workbox-webpack-plugin": "^7.0.0",
     "write-file-webpack-plugin": "^4.5.1"
