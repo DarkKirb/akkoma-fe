@@ -2040,6 +2040,14 @@
       };
     }
     {
+      name = "arg___arg_5.0.2.tgz";
+      path = fetchurl {
+        name = "arg___arg_5.0.2.tgz";
+        url = "https://registry.yarnpkg.com/arg/-/arg-5.0.2.tgz";
+        sha512 = "PYjyFOLKQ9y57JvQ6QLo8dAgNqswh8M1RMJYdQduT6xbWSgK36P/Z/v+p888pM69jMMfS8Xd8F6I1kQ/I9HUGg==";
+      };
+    }
+    {
       name = "argparse___argparse_1.0.10.tgz";
       path = fetchurl {
         name = "argparse___argparse_1.0.10.tgz";
@@ -4456,14 +4464,6 @@
       };
     }
     {
-      name = "fs_monkey___fs_monkey_1.0.5.tgz";
-      path = fetchurl {
-        name = "fs_monkey___fs_monkey_1.0.5.tgz";
-        url = "https://registry.yarnpkg.com/fs-monkey/-/fs-monkey-1.0.5.tgz";
-        sha512 = "8uMbBjrhzW76TYgEV27Y5E//W2f/lTFmx78P2w19FZSxarhI/798APGQyuGCwmkNxgwGRhrLfvWyLBvNtuOmew==";
-      };
-    }
-    {
       name = "fs.realpath___fs.realpath_1.0.0.tgz";
       path = fetchurl {
         name = "fs.realpath___fs.realpath_1.0.0.tgz";
@@ -4989,6 +4989,14 @@
         name = "https_proxy_agent___https_proxy_agent_5.0.1.tgz";
         url = "https://registry.yarnpkg.com/https-proxy-agent/-/https-proxy-agent-5.0.1.tgz";
         sha512 = "dFcAjpTQFgoLMzC2VwU+C/CbS7uRL0lWmxDITmqm7C+7F0Odmj6s9l6alZc6AELXhrnggM2CeWSXHGOdX2YtwA==";
+      };
+    }
+    {
+      name = "hyperdyperid___hyperdyperid_1.2.0.tgz";
+      path = fetchurl {
+        name = "hyperdyperid___hyperdyperid_1.2.0.tgz";
+        url = "https://registry.yarnpkg.com/hyperdyperid/-/hyperdyperid-1.2.0.tgz";
+        sha512 = "Y93lCzHYgGWdrJ66yIktxiaGULYc6oGiABxhcO5AufBeOyoIdZF7bIfLaOrbM0iGIOXQQgxxRrFEnb+Y6w1n4A==";
       };
     }
     {
@@ -5800,6 +5808,14 @@
       };
     }
     {
+      name = "json_joy___json_joy_9.9.1.tgz";
+      path = fetchurl {
+        name = "json_joy___json_joy_9.9.1.tgz";
+        url = "https://registry.yarnpkg.com/json-joy/-/json-joy-9.9.1.tgz";
+        sha512 = "/d7th2nbQRBQ/nqTkBe6KjjvDciSwn9UICmndwk3Ed/Bk9AqkTRm4PnLVfXG4DKbT0rEY0nKnwE7NqZlqKE6kg==";
+      };
+    }
+    {
       name = "json_loader___json_loader_0.5.7.tgz";
       path = fetchurl {
         name = "json_loader___json_loader_0.5.7.tgz";
@@ -6536,11 +6552,11 @@
       };
     }
     {
-      name = "memfs___memfs_3.6.0.tgz";
+      name = "memfs___memfs_4.6.0.tgz";
       path = fetchurl {
-        name = "memfs___memfs_3.6.0.tgz";
-        url = "https://registry.yarnpkg.com/memfs/-/memfs-3.6.0.tgz";
-        sha512 = "EGowvkkgbMcIChjMTMkESFDbZeSh8xZ7kNSF0hAiAN4Jh6jgHCRS0Ga/+C8y6Au+oqpezRHCfPsmJ2+DwAgiwQ==";
+        name = "memfs___memfs_4.6.0.tgz";
+        url = "https://registry.yarnpkg.com/memfs/-/memfs-4.6.0.tgz";
+        sha512 = "I6mhA1//KEZfKRQT9LujyW6lRbX7RkC24xKododIDO3AGShcaFAMKElv1yFGWX8fD4UaSiwasr3NeQ5TdtHY1A==";
       };
     }
     {
@@ -9024,6 +9040,14 @@
       };
     }
     {
+      name = "thingies___thingies_1.15.0.tgz";
+      path = fetchurl {
+        name = "thingies___thingies_1.15.0.tgz";
+        url = "https://registry.yarnpkg.com/thingies/-/thingies-1.15.0.tgz";
+        sha512 = "ZSJlvEpD8QllYim0VSGlbAoob/iPrTWNlV/m8ltizMvMmzzU2gVJvHfH9ijLstyciWF70ZiQXqz+BCXWJq+ZQw==";
+      };
+    }
+    {
       name = "tmp___tmp_0.2.1.tgz";
       path = fetchurl {
         name = "tmp___tmp_0.2.1.tgz";
@@ -9592,11 +9616,11 @@
       };
     }
     {
-      name = "webpack_dev_middleware___webpack_dev_middleware_6.1.1.tgz";
+      name = "webpack_dev_middleware___webpack_dev_middleware_7.0.0.tgz";
       path = fetchurl {
-        name = "webpack_dev_middleware___webpack_dev_middleware_6.1.1.tgz";
-        url = "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-6.1.1.tgz";
-        sha512 = "y51HrHaFeeWir0YO4f0g+9GwZawuigzcAdRNon6jErXy/SqV/+O6eaVAzDqE6t3e3NpGeR5CS+cCDaTC+V3yEQ==";
+        name = "webpack_dev_middleware___webpack_dev_middleware_7.0.0.tgz";
+        url = "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-7.0.0.tgz";
+        sha512 = "tZ5hqsWwww/8DislmrzXE3x+4f+v10H1z57mA2dWFrILb4i3xX+dPhTkcdR0DLyQztrhF2AUmO5nN085UYjd/Q==";
       };
     }
     {
