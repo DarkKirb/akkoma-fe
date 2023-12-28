@@ -6308,10 +6308,10 @@ nightwatch-axe-verbose@^2.2.2:
   dependencies:
     axe-core "^4.8.3"
 
-nightwatch@3.3.5:
-  version "3.3.5"
-  resolved "https://registry.yarnpkg.com/nightwatch/-/nightwatch-3.3.5.tgz#bf0cb9bde99ff753a2cb3552b69c51be540d46d1"
-  integrity sha512-TxhW6DIn/W9hiXGaHPe+REQXi5/EkW/6jI17Js+lcVNCACs1XKqUrLDK1AheXoXZ38MSREzMMg/buaybsxUhOA==
+nightwatch@3.3.6:
+  version "3.3.6"
+  resolved "https://registry.yarnpkg.com/nightwatch/-/nightwatch-3.3.6.tgz#93e8be51f37a47de5e517b63d7a84515189599c4"
+  integrity sha512-fINj+qMVYGPyhJVIOktF6Upw3JIxPW03QAvzacS9vSno1ZVDmLvNSdInwM6qFDGhK7Z+UQjPzRKR0IoRsTsV5w==
   dependencies:
     "@nightwatch/chai" "5.0.2"
     "@nightwatch/html-reporter-template" "0.2.1"
@@ -9105,6 +9105,7 @@ workerpool@6.2.1:
   integrity sha512-ILEIE97kDZvF9Wb9f6h5aXK4swSlKGUcOEGiIYb2OOu/IrDU9iwj0fD//SsA6E5ibwJxpEvhullJY4Sl4GcpAw==
 
 "wrap-ansi-cjs@npm:wrap-ansi@^7.0.0", wrap-ansi@^7.0.0:
+  name wrap-ansi-cjs
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
   integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
