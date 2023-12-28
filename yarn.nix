@@ -2608,11 +2608,11 @@
       };
     }
     {
-      name = "caniuse_lite___caniuse_lite_1.0.30001571.tgz";
+      name = "caniuse_lite___caniuse_lite_1.0.30001572.tgz";
       path = fetchurl {
-        name = "caniuse_lite___caniuse_lite_1.0.30001571.tgz";
-        url = "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001571.tgz";
-        sha512 = "tYq/6MoXhdezDLFZuCO/TKboTzuQ/xR5cFdgXPfDtM7/kchBO3b4VWghE/OAi/DV7tTdhmLjZiZBZi1fA/GheQ==";
+        name = "caniuse_lite___caniuse_lite_1.0.30001572.tgz";
+        url = "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001572.tgz";
+        sha512 = "1Pbh5FLmn5y4+QhNyJE9j3/7dK44dGB83/ZMjv/qJk86TvDbjk0LosiZo0i0WB0Vx607qMX9jYrn1VLHCkN4rw==";
       };
     }
     {
