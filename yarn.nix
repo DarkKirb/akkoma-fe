@@ -880,14 +880,6 @@
       };
     }
     {
-      name = "_babel_preset_env___preset_env_7.23.6.tgz";
-      path = fetchurl {
-        name = "_babel_preset_env___preset_env_7.23.6.tgz";
-        url = "https://registry.yarnpkg.com/@babel/preset-env/-/preset-env-7.23.6.tgz";
-        sha512 = "2XPn/BqKkZCpzYhUUNZ1ssXw7DcXfKQEjv/uXZUXgaebCMYmkEsfZ2yY+vv+xtXv50WmL5SGhyB6/xsWxIvvOQ==";
-      };
-    }
-    {
       name = "_babel_preset_env___preset_env_7.23.7.tgz";
       path = fetchurl {
         name = "_babel_preset_env___preset_env_7.23.7.tgz";
