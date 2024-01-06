@@ -888,11 +888,11 @@
       };
     }
     {
-      name = "_babel_register___register_7.22.15.tgz";
+      name = "_babel_register___register_7.23.7.tgz";
       path = fetchurl {
-        name = "_babel_register___register_7.22.15.tgz";
-        url = "https://registry.yarnpkg.com/@babel/register/-/register-7.22.15.tgz";
-        sha512 = "V3Q3EqoQdn65RCgTLwauZaTfd1ShhwPmbBv+1dkZV/HpCGMKVyn6oFcRlI7RaKqiDQjX2Qd3AuoEguBgdjIKlg==";
+        name = "_babel_register___register_7.23.7.tgz";
+        url = "https://registry.yarnpkg.com/@babel/register/-/register-7.23.7.tgz";
+        sha512 = "EjJeB6+kvpk+Y5DAkEAmbOBEFkh9OASx0huoEkqYTFxAZHzOAX2Oh5uwAUuL2rUddqfM0SA+KPXV2TbzoZ2kvQ==";
       };
     }
     {
