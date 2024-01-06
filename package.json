@@ -53,7 +53,7 @@
     "@babel/eslint-parser": "^7.19.1",
     "@babel/plugin-transform-runtime": "7.23.6",
     "@babel/preset-env": "7.23.7",
-    "@babel/register": "7.22.15",
+    "@babel/register": "7.23.7",
     "@intlify/vue-i18n-loader": "^5.0.0",
     "@ungap/event-target": "0.2.4",
     "@vue/babel-helper-vue-jsx-merge-props": "1.4.0",
