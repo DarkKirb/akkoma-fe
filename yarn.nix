@@ -1496,11 +1496,11 @@
       };
     }
     {
-      name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.5.tgz";
+      name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.6.tgz";
       path = fetchurl {
-        name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.5.tgz";
-        url = "https://registry.yarnpkg.com/@vue/babel-plugin-jsx/-/babel-plugin-jsx-1.1.5.tgz";
-        sha512 = "nKs1/Bg9U1n3qSWnsHhCVQtAzI6aQXqua8j/bZrau8ywT1ilXQbK4FwEJGmU8fV7tcpuFvWmmN7TMmV1OBma1g==";
+        name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.6.tgz";
+        url = "https://registry.yarnpkg.com/@vue/babel-plugin-jsx/-/babel-plugin-jsx-1.1.6.tgz";
+        sha512 = "s2pK8Wwg0LiR25lyCKWGJePt8aXF0DsXOmTHYJnlKNdT3yTKfdvkKmsWjaHBctFvwWmetedObrAoINc9BeYZlA==";
       };
     }
     {
