@@ -3144,11 +3144,11 @@
       };
     }
     {
-      name = "css_loader___css_loader_6.9.0.tgz";
+      name = "css_loader___css_loader_6.9.1.tgz";
       path = fetchurl {
-        name = "css_loader___css_loader_6.9.0.tgz";
-        url = "https://registry.yarnpkg.com/css-loader/-/css-loader-6.9.0.tgz";
-        sha512 = "3I5Nu4ytWlHvOP6zItjiHlefBNtrH+oehq8tnQa2kO305qpVyx9XNIT1CXIj5bgCJs7qICBCkgCYxQLKPANoLA==";
+        name = "css_loader___css_loader_6.9.1.tgz";
+        url = "https://registry.yarnpkg.com/css-loader/-/css-loader-6.9.1.tgz";
+        sha512 = "OzABOh0+26JKFdMzlK6PY1u5Zx8+Ck7CVRlcGNZoY9qwJjdfu2VWFuprTIpPW+Av5TZTVViYWcFQaEEQURLknQ==";
       };
     }
     {
@@ -7496,19 +7496,19 @@
       };
     }
     {
-      name = "postcss_modules_local_by_default___postcss_modules_local_by_default_4.0.3.tgz";
+      name = "postcss_modules_local_by_default___postcss_modules_local_by_default_4.0.4.tgz";
       path = fetchurl {
-        name = "postcss_modules_local_by_default___postcss_modules_local_by_default_4.0.3.tgz";
-        url = "https://registry.yarnpkg.com/postcss-modules-local-by-default/-/postcss-modules-local-by-default-4.0.3.tgz";
-        sha512 = "2/u2zraspoACtrbFRnTijMiQtb4GW4BvatjaG/bCjYQo8kLTdevCUlwuBHx2sCnSyrI3x3qj4ZK1j5LQBgzmwA==";
+        name = "postcss_modules_local_by_default___postcss_modules_local_by_default_4.0.4.tgz";
+        url = "https://registry.yarnpkg.com/postcss-modules-local-by-default/-/postcss-modules-local-by-default-4.0.4.tgz";
+        sha512 = "L4QzMnOdVwRm1Qb8m4x8jsZzKAaPAgrUF1r/hjDR2Xj7R+8Zsf97jAlSQzWtKx5YNiNGN8QxmPFIc/sh+RQl+Q==";
       };
     }
     {
-      name = "postcss_modules_scope___postcss_modules_scope_3.1.0.tgz";
+      name = "postcss_modules_scope___postcss_modules_scope_3.1.1.tgz";
       path = fetchurl {
-        name = "postcss_modules_scope___postcss_modules_scope_3.1.0.tgz";
-        url = "https://registry.yarnpkg.com/postcss-modules-scope/-/postcss-modules-scope-3.1.0.tgz";
-        sha512 = "SaIbK8XW+MZbd0xHPf7kdfA/3eOt7vxJ72IRecn3EzuZVLr1r0orzf0MX/pN8m+NMDoo6X/SQd8oeKqGZd8PXg==";
+        name = "postcss_modules_scope___postcss_modules_scope_3.1.1.tgz";
+        url = "https://registry.yarnpkg.com/postcss-modules-scope/-/postcss-modules-scope-3.1.1.tgz";
+        sha512 = "uZgqzdTleelWjzJY+Fhti6F3C9iF1JR/dODLs/JDefozYcKTBCdD8BIl6nNPbTbcLnGrk56hzwZC2DaGNvYjzA==";
       };
     }
     {
