@@ -1496,19 +1496,27 @@
       };
     }
     {
-      name = "_vue_babel_helper_vue_transform_on___babel_helper_vue_transform_on_1.1.6.tgz";
+      name = "_vue_babel_helper_vue_transform_on___babel_helper_vue_transform_on_1.2.0.tgz";
       path = fetchurl {
-        name = "_vue_babel_helper_vue_transform_on___babel_helper_vue_transform_on_1.1.6.tgz";
-        url = "https://registry.yarnpkg.com/@vue/babel-helper-vue-transform-on/-/babel-helper-vue-transform-on-1.1.6.tgz";
-        sha512 = "XxM2tZHjYHTd9yiKHHt7fKCN0e2BK2z78UxU5rpjH3YCstEV/tcrW29CaOdrxIdeD0c/9mHHebvXWwDxlphjKA==";
+        name = "_vue_babel_helper_vue_transform_on___babel_helper_vue_transform_on_1.2.0.tgz";
+        url = "https://registry.yarnpkg.com/@vue/babel-helper-vue-transform-on/-/babel-helper-vue-transform-on-1.2.0.tgz";
+        sha512 = "Zn6iRYAVvWl835GCcNsLUroy+jwNjH1yd83hvKNSgbiCkzeZwXvEFCC1u0lVKwoqL7z0IcrtY3dkBMuMxwB1fw==";
       };
     }
     {
-      name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.6.tgz";
+      name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.2.0.tgz";
       path = fetchurl {
-        name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.1.6.tgz";
-        url = "https://registry.yarnpkg.com/@vue/babel-plugin-jsx/-/babel-plugin-jsx-1.1.6.tgz";
-        sha512 = "s2pK8Wwg0LiR25lyCKWGJePt8aXF0DsXOmTHYJnlKNdT3yTKfdvkKmsWjaHBctFvwWmetedObrAoINc9BeYZlA==";
+        name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.2.0.tgz";
+        url = "https://registry.yarnpkg.com/@vue/babel-plugin-jsx/-/babel-plugin-jsx-1.2.0.tgz";
+        sha512 = "z0t7fjk03TqncyWYoChKQ4rWx1LXJaw1kNEDrUU5tbPWI2zkCPv2imQJOYlJ8GyTDoQ6/nD82asFcSxDRJ8YgQ==";
+      };
+    }
+    {
+      name = "_vue_babel_plugin_resolve_type___babel_plugin_resolve_type_1.2.0_beta.0.tgz";
+      path = fetchurl {
+        name = "_vue_babel_plugin_resolve_type___babel_plugin_resolve_type_1.2.0_beta.0.tgz";
+        url = "https://registry.yarnpkg.com/@vue/babel-plugin-resolve-type/-/babel-plugin-resolve-type-1.2.0-beta.0.tgz";
+        sha512 = "zG5nXU+89UjXHVvvf0yehU0MDF1caJssCUF+bU5HWevEoR5qoRLt7wX6rNTtG/ZKHFUvB8BibIKL62Ix167Wxg==";
       };
     }
     {
