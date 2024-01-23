@@ -1496,27 +1496,27 @@
       };
     }
     {
-      name = "_vue_babel_helper_vue_transform_on___babel_helper_vue_transform_on_1.2.0.tgz";
+      name = "_vue_babel_helper_vue_transform_on___babel_helper_vue_transform_on_1.2.1.tgz";
       path = fetchurl {
-        name = "_vue_babel_helper_vue_transform_on___babel_helper_vue_transform_on_1.2.0.tgz";
-        url = "https://registry.yarnpkg.com/@vue/babel-helper-vue-transform-on/-/babel-helper-vue-transform-on-1.2.0.tgz";
-        sha512 = "Zn6iRYAVvWl835GCcNsLUroy+jwNjH1yd83hvKNSgbiCkzeZwXvEFCC1u0lVKwoqL7z0IcrtY3dkBMuMxwB1fw==";
+        name = "_vue_babel_helper_vue_transform_on___babel_helper_vue_transform_on_1.2.1.tgz";
+        url = "https://registry.yarnpkg.com/@vue/babel-helper-vue-transform-on/-/babel-helper-vue-transform-on-1.2.1.tgz";
+        sha512 = "jtEXim+pfyHWwvheYwUwSXm43KwQo8nhOBDyjrUITV6X2tB7lJm6n/+4sqR8137UVZZul5hBzWHdZ2uStYpyRQ==";
       };
     }
     {
-      name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.2.0.tgz";
+      name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.2.1.tgz";
       path = fetchurl {
-        name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.2.0.tgz";
-        url = "https://registry.yarnpkg.com/@vue/babel-plugin-jsx/-/babel-plugin-jsx-1.2.0.tgz";
-        sha512 = "z0t7fjk03TqncyWYoChKQ4rWx1LXJaw1kNEDrUU5tbPWI2zkCPv2imQJOYlJ8GyTDoQ6/nD82asFcSxDRJ8YgQ==";
+        name = "_vue_babel_plugin_jsx___babel_plugin_jsx_1.2.1.tgz";
+        url = "https://registry.yarnpkg.com/@vue/babel-plugin-jsx/-/babel-plugin-jsx-1.2.1.tgz";
+        sha512 = "Yy9qGktktXhB39QE99So/BO2Uwm/ZG+gpL9vMg51ijRRbINvgbuhyJEi4WYmGRMx/MSTfK0xjgZ3/MyY+iLCEg==";
       };
     }
     {
-      name = "_vue_babel_plugin_resolve_type___babel_plugin_resolve_type_1.2.0_beta.0.tgz";
+      name = "_vue_babel_plugin_resolve_type___babel_plugin_resolve_type_1.2.1.tgz";
       path = fetchurl {
-        name = "_vue_babel_plugin_resolve_type___babel_plugin_resolve_type_1.2.0_beta.0.tgz";
-        url = "https://registry.yarnpkg.com/@vue/babel-plugin-resolve-type/-/babel-plugin-resolve-type-1.2.0-beta.0.tgz";
-        sha512 = "zG5nXU+89UjXHVvvf0yehU0MDF1caJssCUF+bU5HWevEoR5qoRLt7wX6rNTtG/ZKHFUvB8BibIKL62Ix167Wxg==";
+        name = "_vue_babel_plugin_resolve_type___babel_plugin_resolve_type_1.2.1.tgz";
+        url = "https://registry.yarnpkg.com/@vue/babel-plugin-resolve-type/-/babel-plugin-resolve-type-1.2.1.tgz";
+        sha512 = "IOtnI7pHunUzHS/y+EG/yPABIAp0VN8QhQ0UCS09jeMVxgAnI9qdOzO85RXdQGxq+aWCdv8/+k3W0aYO6j/8fQ==";
       };
     }
     {
