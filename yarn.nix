@@ -9680,11 +9680,11 @@
       };
     }
     {
-      name = "webpack___webpack_5.89.0.tgz";
+      name = "webpack___webpack_5.90.0.tgz";
       path = fetchurl {
-        name = "webpack___webpack_5.89.0.tgz";
-        url = "https://registry.yarnpkg.com/webpack/-/webpack-5.89.0.tgz";
-        sha512 = "qyfIC10pOr70V+jkmud8tMfajraGCZMBWJtrmuBymQKCrLTRejBI8STDp1MCyZu/QTdZSeacCQYpYNQVOzX5kw==";
+        name = "webpack___webpack_5.90.0.tgz";
+        url = "https://registry.yarnpkg.com/webpack/-/webpack-5.90.0.tgz";
+        sha512 = "bdmyXRCXeeNIePv6R6tGPyy20aUobw4Zy8r0LUS2EWO+U+Ke/gYDgsCh7bl5rB6jPpr4r0SZa6dPxBxLooDT3w==";
       };
     }
     {
