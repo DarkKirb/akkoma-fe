@@ -936,14 +936,6 @@
       };
     }
     {
-      name = "_babel_runtime___runtime_7.23.8.tgz";
-      path = fetchurl {
-        name = "_babel_runtime___runtime_7.23.8.tgz";
-        url = "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.23.8.tgz";
-        sha512 = "Y7KbAP984rn1VGMbGqKmBLio9V7y5Je9GvU4rQPCPinCyNfUcToxIXl06d59URp/F3LwinvODxab5N/G6qggkw==";
-      };
-    }
-    {
       name = "_babel_runtime___runtime_7.23.9.tgz";
       path = fetchurl {
         name = "_babel_runtime___runtime_7.23.9.tgz";
