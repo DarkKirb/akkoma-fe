@@ -102,7 +102,7 @@
     "lolex": "6.0.0",
     "mini-css-extract-plugin": "2.7.7",
     "mocha": "10.2.0",
-    "nightwatch": "3.3.8",
+    "nightwatch": "3.4.0",
     "opn": "6.0.0",
     "ora": "0.4.1",
     "postcss-html": "^1.5.0",
