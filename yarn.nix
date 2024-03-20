@@ -2216,11 +2216,11 @@
       };
     }
     {
-      name = "axios___axios_1.1.3.tgz";
+      name = "axios___axios_1.6.8.tgz";
       path = fetchurl {
-        name = "axios___axios_1.1.3.tgz";
-        url = "https://registry.yarnpkg.com/axios/-/axios-1.1.3.tgz";
-        sha512 = "00tXVRwKx/FZr/IDVFt4C+f9FYairX517WoGCL6dpOntqLkZofjhu43F/Xl44UOpqa+9sLFDrG/XAnFsUYgkDA==";
+        name = "axios___axios_1.6.8.tgz";
+        url = "https://registry.yarnpkg.com/axios/-/axios-1.6.8.tgz";
+        sha512 = "v/ZHtJDU39mDpyBoFVkETcd/uNdxrWRrg3bKpOKzXFA6Bvqopts6ALSMU3y6ijYxbw2B+wPrIv46egTzJXCLGQ==";
       };
     }
     {
@@ -4264,11 +4264,11 @@
       };
     }
     {
-      name = "follow_redirects___follow_redirects_1.15.2.tgz";
+      name = "follow_redirects___follow_redirects_1.15.6.tgz";
       path = fetchurl {
-        name = "follow_redirects___follow_redirects_1.15.2.tgz";
-        url = "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.2.tgz";
-        sha512 = "VQLG33o04KaQ8uYi2tVNbdrWp1QWxNNea+nmIB4EVM28v0hmP17z7aG1+wAkNzVq4KeXTq3221ye5qTJP91JwA==";
+        name = "follow_redirects___follow_redirects_1.15.6.tgz";
+        url = "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.6.tgz";
+        sha512 = "wWN62YITEaOpSK584EZXJafH1AGpO8RVgElfkuXbTOrPX4fIfOyEpW/CsiNd8JdYrAoOvafRTOEnvsO++qCqFA==";
       };
     }
     {
