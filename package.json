@@ -37,7 +37,7 @@
     "jxl.js": "^1.0.0",
     "localforage": "1.10.0",
     "parse-link-header": "^2.0.0",
-    "phoenix": "1.6.2",
+    "phoenix": "1.7.11",
     "punycode.js": "2.1.0",
     "qrcode": "1",
     "url": "^0.11.0",
