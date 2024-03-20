@@ -6968,11 +6968,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_phoenix___phoenix_1.6.2.tgz";
+      name = "phoenix___phoenix_1.7.11.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_phoenix___phoenix_1.6.2.tgz";
-        url = "https://registry.npmjs.org/phoenix/-/phoenix-1.6.2.tgz";
-        sha512 = "VjR27NETvrLSj8rI6DlpVAfo7pCYth/9+1OCoTof4LKEbq0141ze/tdxFHHZzVQSok3gqJUo2h/tqbxR3r8eyw==";
+        name = "phoenix___phoenix_1.7.11.tgz";
+        url = "https://registry.yarnpkg.com/phoenix/-/phoenix-1.7.11.tgz";
+        sha512 = "aeikMR/Qh6gAygY45d5p/B7srqH60h0GbCIauEAStAtRUq4hvlkzDTyDj1NJidJEV9IKFhZe7f9L+zosUJdF/g==";
       };
     }
     {
