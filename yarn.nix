@@ -7912,27 +7912,19 @@
       };
     }
     {
+      name = "semver___semver_7.6.0.tgz";
+      path = fetchurl {
+        name = "semver___semver_7.6.0.tgz";
+        url = "https://registry.yarnpkg.com/semver/-/semver-7.6.0.tgz";
+        sha512 = "EnwXhrlwXMk9gKu5/flx5sv/an57AkRplG3hTK68W7FRDN+k+OWBj65M7719OkA82XLBxrcX0KSHj+X5COhOVg==";
+      };
+    }
+    {
       name = "https___registry.npmjs.org_semver___semver_6.3.0.tgz";
       path = fetchurl {
         name = "https___registry.npmjs.org_semver___semver_6.3.0.tgz";
         url = "https://registry.npmjs.org/semver/-/semver-6.3.0.tgz";
         sha512 = "b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw==";
-      };
-    }
-    {
-      name = "semver___semver_7.3.8.tgz";
-      path = fetchurl {
-        name = "semver___semver_7.3.8.tgz";
-        url = "https://registry.yarnpkg.com/semver/-/semver-7.3.8.tgz";
-        sha512 = "NB1ctGL5rlHrPJtFDVIVzTyQylMLu9N9VICA6HSFJo8MCGVTMW6gfpicwKmmK/dAjTOrqu5l63JJOpDSrAis3A==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org_semver___semver_7.3.7.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_semver___semver_7.3.7.tgz";
-        url = "https://registry.npmjs.org/semver/-/semver-7.3.7.tgz";
-        sha512 = "QlYTucUYOews+WeEujDoEGziz4K6c47V/Bd+LjSSYcA94p+DmINdf7ncaUinThfvZyu13lN9OY1XDxt8C0Tw0g==";
       };
     }
     {
