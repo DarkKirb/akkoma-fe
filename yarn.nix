@@ -6360,11 +6360,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_mini_css_extract_plugin___mini_css_extract_plugin_0.12.0.tgz";
+      name = "mini_css_extract_plugin___mini_css_extract_plugin_2.9.0.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_mini_css_extract_plugin___mini_css_extract_plugin_0.12.0.tgz";
-        url = "https://registry.npmjs.org/mini-css-extract-plugin/-/mini-css-extract-plugin-0.12.0.tgz";
-        sha512 = "z6PQCe9rd1XUwZ8gMaEVwwRyZlrYy8Ba1gRjFP5HcV51HkXX+XlwZ+a1iAYTjSYwgNBXoNR7mhx79mDpOn5fdw==";
+        name = "mini_css_extract_plugin___mini_css_extract_plugin_2.9.0.tgz";
+        url = "https://registry.yarnpkg.com/mini-css-extract-plugin/-/mini-css-extract-plugin-2.9.0.tgz";
+        sha512 = "Zs1YsZVfemekSZG+44vBsYTLQORkPMwnlv+aehcxK/NLKC+EGhDB39/YePYYqx/sTk6NnYpuqikhSn7+JIevTA==";
       };
     }
     {
@@ -6621,14 +6621,6 @@
         name = "https___registry.npmjs.org_normalize_range___normalize_range_0.1.2.tgz";
         url = "https://registry.npmjs.org/normalize-range/-/normalize-range-0.1.2.tgz";
         sha512 = "bdok/XvKII3nUpklnV6P2hxtMNrCboOjAcyBuQnWEhO665FwrSNRxU+AqpsyvO6LgGYPspN+lu5CLtw4jPRKNA==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org_normalize_url___normalize_url_1.9.1.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_normalize_url___normalize_url_1.9.1.tgz";
-        url = "https://registry.npmjs.org/normalize-url/-/normalize-url-1.9.1.tgz";
-        sha512 = "A48My/mtCklowHBlI8Fq2jFWK4tX4lJ5E6ytFsSOq1fzpvT0SQSgKhSg7lN5c2uYFOrUAOQp6zhhJnpp1eMloQ==";
       };
     }
     {
@@ -7280,14 +7272,6 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_prepend_http___prepend_http_1.0.4.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_prepend_http___prepend_http_1.0.4.tgz";
-        url = "https://registry.npmjs.org/prepend-http/-/prepend-http-1.0.4.tgz";
-        sha512 = "PhmXi5XmoyKw1Un4E+opM2KcsJInDvKyuOumcjjw3waw86ZNjHwVUOOWLc4bCzLdcKNaWBH9e99sbWzDQsVaYg==";
-      };
-    }
-    {
       name = "pretty_bytes___pretty_bytes_5.6.0.tgz";
       path = fetchurl {
         name = "pretty_bytes___pretty_bytes_5.6.0.tgz";
@@ -7413,14 +7397,6 @@
         name = "qs___qs_6.11.0.tgz";
         url = "https://registry.yarnpkg.com/qs/-/qs-6.11.0.tgz";
         sha512 = "MvjoMCJwEarSbUYk5O+nmoSzSutSsTwF85zcHPQ9OrlFoZOYIjaqBAJIqIXjptyD5vThxGq52Xu/MaJzRkIk4Q==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org_query_string___query_string_4.3.4.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_query_string___query_string_4.3.4.tgz";
-        url = "https://registry.npmjs.org/query-string/-/query-string-4.3.4.tgz";
-        sha512 = "O2XLNDBIg1DnTOa+2XrIwSiXEV8h2KImXUnjhhn2+UsvZ+Es2uyd5CCRTNQlDGbzUQOW3aYCBx9rVA6dzsiY7Q==";
       };
     }
     {
@@ -8144,14 +8120,6 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_sort_keys___sort_keys_1.1.2.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_sort_keys___sort_keys_1.1.2.tgz";
-        url = "https://registry.npmjs.org/sort-keys/-/sort-keys-1.1.2.tgz";
-        sha512 = "vzn8aSqKgytVik0iwdBEi+zevbTYZogewTUM6dtpmGwEcdzbub/TX4bCzRhebDCRC3QzXgJsLRKB2V/Oof7HXg==";
-      };
-    }
-    {
       name = "https___registry.npmjs.org_source_list_map___source_list_map_2.0.1.tgz";
       path = fetchurl {
         name = "https___registry.npmjs.org_source_list_map___source_list_map_2.0.1.tgz";
@@ -8285,14 +8253,6 @@
         name = "https___registry.npmjs.org_streamroller___streamroller_3.1.2.tgz";
         url = "https://registry.npmjs.org/streamroller/-/streamroller-3.1.2.tgz";
         sha512 = "wZswqzbgGGsXYIrBYhOE0yP+nQ6XRk7xDcYwuQAGTYXdyAUmvgVFE0YU1g5pvQT0m7GBaQfYcSnlHbapuK0H0A==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org_strict_uri_encode___strict_uri_encode_1.1.0.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_strict_uri_encode___strict_uri_encode_1.1.0.tgz";
-        url = "https://registry.npmjs.org/strict-uri-encode/-/strict-uri-encode-1.1.0.tgz";
-        sha512 = "R3f198pcvnB+5IpnBlRkphuE9n46WyVl8I39W/ZUTZLz4nqSP/oLYUrcnJrw462Ds8he4YKMov2efsTIw1BDGQ==";
       };
     }
     {
