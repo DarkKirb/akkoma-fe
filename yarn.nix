@@ -1040,11 +1040,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org__babel_register___register_7.17.7.tgz";
+      name = "_babel_register___register_7.23.7.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org__babel_register___register_7.17.7.tgz";
-        url = "https://registry.npmjs.org/@babel/register/-/register-7.17.7.tgz";
-        sha512 = "fg56SwvXRifootQEDQAu1mKdjh5uthPzdO0N6t358FktfL4XjAVXuH58ULoiW8mesxiOgNIrxiImqEwv0+hRRA==";
+        name = "_babel_register___register_7.23.7.tgz";
+        url = "https://registry.yarnpkg.com/@babel/register/-/register-7.23.7.tgz";
+        sha512 = "EjJeB6+kvpk+Y5DAkEAmbOBEFkh9OASx0huoEkqYTFxAZHzOAX2Oh5uwAUuL2rUddqfM0SA+KPXV2TbzoZ2kvQ==";
       };
     }
     {
@@ -7056,11 +7056,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_pirates___pirates_4.0.5.tgz";
+      name = "pirates___pirates_4.0.6.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_pirates___pirates_4.0.5.tgz";
-        url = "https://registry.npmjs.org/pirates/-/pirates-4.0.5.tgz";
-        sha512 = "8V9+HQPupnaXMA23c5hvl69zXvTwTzyAYasnkb0Tts4XvO4CliqONMOnvlq26rkhLC3nWDFBJf73LU1e1VZLaQ==";
+        name = "pirates___pirates_4.0.6.tgz";
+        url = "https://registry.yarnpkg.com/pirates/-/pirates-4.0.6.tgz";
+        sha512 = "saLsH7WeYYPiD25LDuLRRY/i+6HaPYr6G1OUlN39otzkSTxKnubR9RTxS3/Kk50s1g2JTgFwWQDQyplC5/SHZg==";
       };
     }
     {
