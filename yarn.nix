@@ -2720,6 +2720,14 @@
       };
     }
     {
+      name = "chalk___chalk_5.3.0.tgz";
+      path = fetchurl {
+        name = "chalk___chalk_5.3.0.tgz";
+        url = "https://registry.yarnpkg.com/chalk/-/chalk-5.3.0.tgz";
+        sha512 = "dLitG79d+GV1Nb/VYcCDFivJeK1hiukt9QjRNVOsUtTy1rR1YJsmpGGTZ3qJos+uw7WmWF4wUwBd9jxjocFC2w==";
+      };
+    }
+    {
       name = "https___registry.npmjs.org_chalk___chalk_1.1.3.tgz";
       path = fetchurl {
         name = "https___registry.npmjs.org_chalk___chalk_1.1.3.tgz";
