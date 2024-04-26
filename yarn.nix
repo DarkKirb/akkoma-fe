@@ -3120,11 +3120,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_cropperjs___cropperjs_1.5.12.tgz";
+      name = "cropperjs___cropperjs_1.6.2.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_cropperjs___cropperjs_1.5.12.tgz";
-        url = "https://registry.npmjs.org/cropperjs/-/cropperjs-1.5.12.tgz";
-        sha512 = "re7UdjE5UnwdrovyhNzZ6gathI4Rs3KGCBSc8HCIjUo5hO42CtzyblmWLj6QWVw7huHyDMfpKxhiO2II77nhDw==";
+        name = "cropperjs___cropperjs_1.6.2.tgz";
+        url = "https://registry.yarnpkg.com/cropperjs/-/cropperjs-1.6.2.tgz";
+        sha512 = "nhymn9GdnV3CqiEHJVai54TULFAE3VshJTXSqSJKa8yXAKyBKDWdhHarnlIPrshJ0WMFTGuFvG02YjLXfPiuOA==";
       };
     }
     {
