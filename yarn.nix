@@ -9104,11 +9104,11 @@
       };
     }
     {
-      name = "webpack_hot_middleware___webpack_hot_middleware_2.25.3.tgz";
+      name = "webpack_hot_middleware___webpack_hot_middleware_2.26.1.tgz";
       path = fetchurl {
-        name = "webpack_hot_middleware___webpack_hot_middleware_2.25.3.tgz";
-        url = "https://registry.yarnpkg.com/webpack-hot-middleware/-/webpack-hot-middleware-2.25.3.tgz";
-        sha512 = "IK/0WAHs7MTu1tzLTjio73LjS3Ov+VvBKQmE8WPlJutgG5zT6Urgq/BbAdRrHTRpyzK0dvAvFh1Qg98akxgZpA==";
+        name = "webpack_hot_middleware___webpack_hot_middleware_2.26.1.tgz";
+        url = "https://registry.yarnpkg.com/webpack-hot-middleware/-/webpack-hot-middleware-2.26.1.tgz";
+        sha512 = "khZGfAeJx6I8K9zKohEWWYN6KDlVw2DHownoe+6Vtwj1LP9WFgegXnVMSkZ/dBEBtXFwrkkydsaPFlB7f8wU2A==";
       };
     }
     {
