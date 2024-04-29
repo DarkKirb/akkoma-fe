@@ -7104,11 +7104,11 @@
       };
     }
     {
-      name = "postcss_html___postcss_html_1.5.0.tgz";
+      name = "postcss_html___postcss_html_1.6.0.tgz";
       path = fetchurl {
-        name = "postcss_html___postcss_html_1.5.0.tgz";
-        url = "https://registry.yarnpkg.com/postcss-html/-/postcss-html-1.5.0.tgz";
-        sha512 = "kCMRWJRHKicpA166kc2lAVUGxDZL324bkj/pVOb6RhjB0Z5Krl7mN0AsVkBhVIRZZirY0lyQXG38HCVaoKVNoA==";
+        name = "postcss_html___postcss_html_1.6.0.tgz";
+        url = "https://registry.yarnpkg.com/postcss-html/-/postcss-html-1.6.0.tgz";
+        sha512 = "OWgQ9/Pe23MnNJC0PL4uZp8k0EDaUvqpJFSiwFxOLClAhmD7UEisyhO3x5hVsD4xFrjReVTXydlrMes45dJ71w==";
       };
     }
     {
