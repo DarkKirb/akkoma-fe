@@ -5376,10 +5376,10 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_is_wsl___is_wsl_2.2.0.tgz";
+      name = "is_wsl___is_wsl_2.2.0.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_is_wsl___is_wsl_2.2.0.tgz";
-        url = "https://registry.npmjs.org/is-wsl/-/is-wsl-2.2.0.tgz";
+        name = "is_wsl___is_wsl_2.2.0.tgz";
+        url = "https://registry.yarnpkg.com/is-wsl/-/is-wsl-2.2.0.tgz";
         sha512 = "fKzAra0rGJUUBwGBgNkHZuToZcn+TtXHpeCgmkMJMMYx1sQDYaCSyjJBSCa2nH1DGm7s3n1oBnohoVTBaN7Lww==";
       };
     }
@@ -5704,11 +5704,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_karma_firefox_launcher___karma_firefox_launcher_1.3.0.tgz";
+      name = "karma_firefox_launcher___karma_firefox_launcher_2.1.3.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_karma_firefox_launcher___karma_firefox_launcher_1.3.0.tgz";
-        url = "https://registry.npmjs.org/karma-firefox-launcher/-/karma-firefox-launcher-1.3.0.tgz";
-        sha512 = "Fi7xPhwrRgr+94BnHX0F5dCl1miIW4RHnzjIGxF8GaIEp7rNqX7LSi7ok63VXs3PS/5MQaQMhGxw+bvD+pibBQ==";
+        name = "karma_firefox_launcher___karma_firefox_launcher_2.1.3.tgz";
+        url = "https://registry.yarnpkg.com/karma-firefox-launcher/-/karma-firefox-launcher-2.1.3.tgz";
+        sha512 = "LMM2bseebLbYjODBOVt7TCPP9OI2vZIXCavIXhkO9m+10Uj5l7u/SKoeRmYx8FYHTVGZSpk6peX+3BMHC1WwNw==";
       };
     }
     {
@@ -9197,6 +9197,14 @@
         name = "https___registry.npmjs.org_which___which_2.0.2.tgz";
         url = "https://registry.npmjs.org/which/-/which-2.0.2.tgz";
         sha512 = "BLI3Tl1TW3Pvl70l3yq3Y64i+awpwXqsGBYWkkqMtnbXgrMD+yj7rhW0kuEDxzJaYXGjEW5ogapKNMEKNMjibA==";
+      };
+    }
+    {
+      name = "which___which_3.0.1.tgz";
+      path = fetchurl {
+        name = "which___which_3.0.1.tgz";
+        url = "https://registry.yarnpkg.com/which/-/which-3.0.1.tgz";
+        sha512 = "XA1b62dzQzLfaEOSQFTCOd5KFf/1VSzZo7/7TUjnya6u0vGGKzU96UQBZTAThCb2j4/xjBAyii1OhRLJEivHvg==";
       };
     }
     {
