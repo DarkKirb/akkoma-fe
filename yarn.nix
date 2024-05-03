@@ -4144,11 +4144,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_eslint_config_standard___eslint_config_standard_17.0.0.tgz";
+      name = "eslint_config_standard___eslint_config_standard_17.1.0.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_eslint_config_standard___eslint_config_standard_17.0.0.tgz";
-        url = "https://registry.npmjs.org/eslint-config-standard/-/eslint-config-standard-17.0.0.tgz";
-        sha512 = "/2ks1GKyqSOkH7JFvXJicu0iMpoojkwB+f5Du/1SC0PtBL+s8v30k9njRZ21pm2drKYm2342jFnGWzttxPmZVg==";
+        name = "eslint_config_standard___eslint_config_standard_17.1.0.tgz";
+        url = "https://registry.yarnpkg.com/eslint-config-standard/-/eslint-config-standard-17.1.0.tgz";
+        sha512 = "IwHwmaBNtDK4zDHQukFDW5u/aTb8+meQWZvNFWkiGmbWjD6bqyuSSBxxXKkCftCUzc1zwCH2m/baCNDLGmuO5Q==";
       };
     }
     {
