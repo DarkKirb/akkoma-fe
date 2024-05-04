@@ -1448,6 +1448,14 @@
       };
     }
     {
+      name = "_socket.io_component_emitter___component_emitter_3.1.2.tgz";
+      path = fetchurl {
+        name = "_socket.io_component_emitter___component_emitter_3.1.2.tgz";
+        url = "https://registry.yarnpkg.com/@socket.io/component-emitter/-/component-emitter-3.1.2.tgz";
+        sha512 = "9BCxFwvbGg/RsZK9tjXd8s4UcwR0MWeFQ1XEKIQVVvAGJyINdrqKMcTRyLoK8Rse1GjzLV9cwjWV1olXRWEXVA==";
+      };
+    }
+    {
       name = "_surma_rollup_plugin_off_main_thread___rollup_plugin_off_main_thread_2.2.3.tgz";
       path = fetchurl {
         name = "_surma_rollup_plugin_off_main_thread___rollup_plugin_off_main_thread_2.2.3.tgz";
@@ -1469,14 +1477,6 @@
         name = "_types_chai___chai_4.3.14.tgz";
         url = "https://registry.yarnpkg.com/@types/chai/-/chai-4.3.14.tgz";
         sha512 = "Wj71sXE4Q4AkGdG9Tvq1u/fquNz9EdG4LIJMwVVII7ashjD/8cf8fyIfJAjRr6YcsXnSE8cOGQPq1gqeR8z+3w==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org__types_component_emitter___component_emitter_1.2.11.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org__types_component_emitter___component_emitter_1.2.11.tgz";
-        url = "https://registry.npmjs.org/@types/component-emitter/-/component-emitter-1.2.11.tgz";
-        sha512 = "SRXjM+tfsSlA9VuG8hGO2nft2p8zjXCK1VcC6N4NXbBbYbSia9kzCChYQajIjzIqOOOuh5Ock6MmV2oux4jDZQ==";
       };
     }
     {
@@ -3208,14 +3208,6 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_component_emitter___component_emitter_1.3.0.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_component_emitter___component_emitter_1.3.0.tgz";
-        url = "https://registry.npmjs.org/component-emitter/-/component-emitter-1.3.0.tgz";
-        sha512 = "Rd3se6QB+sO1TwqZjscQrurpEPIfO0/yYnSin6Q/rD3mOutHvUrCAhJub3r90uNb+SESBuE0QYoB90YdfatsRg==";
-      };
-    }
-    {
       name = "compress_commons___compress_commons_4.1.2.tgz";
       path = fetchurl {
         name = "compress_commons___compress_commons_4.1.2.tgz";
@@ -3952,19 +3944,19 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_engine.io_parser___engine.io_parser_5.0.4.tgz";
+      name = "engine.io_parser___engine.io_parser_5.2.2.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_engine.io_parser___engine.io_parser_5.0.4.tgz";
-        url = "https://registry.npmjs.org/engine.io-parser/-/engine.io-parser-5.0.4.tgz";
-        sha512 = "+nVFp+5z1E3HcToEnO7ZIj3g+3k9389DvWtvJZz0T6/eOCPIyyxehFcedoYrZQrp0LgQbD9pPXhpMBKMd5QURg==";
+        name = "engine.io_parser___engine.io_parser_5.2.2.tgz";
+        url = "https://registry.yarnpkg.com/engine.io-parser/-/engine.io-parser-5.2.2.tgz";
+        sha512 = "RcyUFKA93/CXH20l4SoVvzZfrSDMOTUS3bWVpTt2FuFP+XYrL8i8oonHP7WInRyVHXh0n/ORtoeiE1os+8qkSw==";
       };
     }
     {
-      name = "https___registry.npmjs.org_engine.io___engine.io_6.2.0.tgz";
+      name = "engine.io___engine.io_6.5.4.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_engine.io___engine.io_6.2.0.tgz";
-        url = "https://registry.npmjs.org/engine.io/-/engine.io-6.2.0.tgz";
-        sha512 = "4KzwW3F3bk+KlzSOY57fj/Jx6LyRQ1nbcyIadehl+AnXjKT7gDO0ORdRi/84ixvMKTym6ZKuxvbzN62HDDU1Lg==";
+        name = "engine.io___engine.io_6.5.4.tgz";
+        url = "https://registry.yarnpkg.com/engine.io/-/engine.io-6.5.4.tgz";
+        sha512 = "KdVSDKhVKyOi+r5uEabrDLZw2qXStVvCsEB/LN3mw4WFi6Gx50jTyuxYVCwAAC0U46FdnzP/ScKRBTXb/NiEOg==";
       };
     }
     {
@@ -6296,11 +6288,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_karma___karma_6.3.17.tgz";
+      name = "karma___karma_6.4.3.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_karma___karma_6.3.17.tgz";
-        url = "https://registry.npmjs.org/karma/-/karma-6.3.17.tgz";
-        sha512 = "2TfjHwrRExC8yHoWlPBULyaLwAFmXmxQrcuFImt/JsAsSZu1uOWTZ1ZsWjqQtWpHLiatJOHL5jFjXSJIgCd01g==";
+        name = "karma___karma_6.4.3.tgz";
+        url = "https://registry.yarnpkg.com/karma/-/karma-6.4.3.tgz";
+        sha512 = "LuucC/RE92tJ8mlCwqEoRWXP38UMAqpnq98vktmS9SznSoUPPUJQbc91dHcxcunROvfQjdORVA/YFviH+Xci9Q==";
       };
     }
     {
@@ -8736,27 +8728,27 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_socket.io_adapter___socket.io_adapter_2.4.0.tgz";
+      name = "socket.io_adapter___socket.io_adapter_2.5.4.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_socket.io_adapter___socket.io_adapter_2.4.0.tgz";
-        url = "https://registry.npmjs.org/socket.io-adapter/-/socket.io-adapter-2.4.0.tgz";
-        sha512 = "W4N+o69rkMEGVuk2D/cvca3uYsvGlMwsySWV447y99gUPghxq42BxqLNMndb+a1mm/5/7NeXVQS7RLa2XyXvYg==";
+        name = "socket.io_adapter___socket.io_adapter_2.5.4.tgz";
+        url = "https://registry.yarnpkg.com/socket.io-adapter/-/socket.io-adapter-2.5.4.tgz";
+        sha512 = "wDNHGXGewWAjQPt3pyeYBtpWSq9cLE5UW1ZUPL/2eGK9jtse/FpXib7epSTsz0Q0m+6sg6Y4KtcFTlah1bdOVg==";
       };
     }
     {
-      name = "https___registry.npmjs.org_socket.io_parser___socket.io_parser_4.0.5.tgz";
+      name = "socket.io_parser___socket.io_parser_4.2.4.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_socket.io_parser___socket.io_parser_4.0.5.tgz";
-        url = "https://registry.npmjs.org/socket.io-parser/-/socket.io-parser-4.0.5.tgz";
-        sha512 = "sNjbT9dX63nqUFIOv95tTVm6elyIU4RvB1m8dOeZt+IgWwcWklFDOdmGcfo3zSiRsnR/3pJkjY5lfoGqEe4Eig==";
+        name = "socket.io_parser___socket.io_parser_4.2.4.tgz";
+        url = "https://registry.yarnpkg.com/socket.io-parser/-/socket.io-parser-4.2.4.tgz";
+        sha512 = "/GbIKmo8ioc+NIWIhwdecY0ge+qVBSMdgxGygevmdHj24bsfgtCmcUUcQ5ZzcylGFHsN3k4HB4Cgkl96KVnuew==";
       };
     }
     {
-      name = "https___registry.npmjs.org_socket.io___socket.io_4.5.1.tgz";
+      name = "socket.io___socket.io_4.7.5.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_socket.io___socket.io_4.5.1.tgz";
-        url = "https://registry.npmjs.org/socket.io/-/socket.io-4.5.1.tgz";
-        sha512 = "0y9pnIso5a9i+lJmsCdtmTTgJFFSvNQKDnPQRz28mGNnxbmqYg2QPtJTLFxhymFZhAIn50eHAKzJeiNaKr+yUQ==";
+        name = "socket.io___socket.io_4.7.5.tgz";
+        url = "https://registry.yarnpkg.com/socket.io/-/socket.io-4.7.5.tgz";
+        sha512 = "DmeAkF6cwM9jSfmp6Dr/5/mfMwb5Z5qRrSXLpo3Fq5SqyU8CMF15jIN4ZhfSwu35ksM1qmHZDQ/DK5XTccSTvA==";
       };
     }
     {
@@ -10200,11 +10192,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_ws___ws_8.2.3.tgz";
+      name = "ws___ws_8.11.0.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_ws___ws_8.2.3.tgz";
-        url = "https://registry.npmjs.org/ws/-/ws-8.2.3.tgz";
-        sha512 = "wBuoj1BDpC6ZQ1B7DWQBYVLphPWkm8i9Y0/3YdHjHKHiohOJ1ws+3OccDWtH+PoC9DZD5WOTrJvNbWvjS6JWaA==";
+        name = "ws___ws_8.11.0.tgz";
+        url = "https://registry.yarnpkg.com/ws/-/ws-8.11.0.tgz";
+        sha512 = "HPG3wQd9sNQoT9xHyNCXoDUa+Xw/VevmY9FoHyQ+g+rrMn4j6FB4np7Z0OhdTgjx6MgQLK7jwSy1YecU1+4Asg==";
       };
     }
     {
