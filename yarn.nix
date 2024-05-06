@@ -8736,14 +8736,6 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_semver___semver_6.3.0.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_semver___semver_6.3.0.tgz";
-        url = "https://registry.npmjs.org/semver/-/semver-6.3.0.tgz";
-        sha512 = "b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw==";
-      };
-    }
-    {
       name = "semver___semver_6.3.1.tgz";
       path = fetchurl {
         name = "semver___semver_6.3.1.tgz";
@@ -9240,11 +9232,11 @@
       };
     }
     {
-      name = "stylelint_config_recommended_vue___stylelint_config_recommended_vue_1.4.0.tgz";
+      name = "stylelint_config_recommended_vue___stylelint_config_recommended_vue_1.5.0.tgz";
       path = fetchurl {
-        name = "stylelint_config_recommended_vue___stylelint_config_recommended_vue_1.4.0.tgz";
-        url = "https://registry.yarnpkg.com/stylelint-config-recommended-vue/-/stylelint-config-recommended-vue-1.4.0.tgz";
-        sha512 = "DVJqyX2KvMCn9U0+keL12r7xlsH26K4Vg8NrIZuq5MoF7g82DpMp326Om4E0Q+Il1o+bTHuUyejf2XAI0iD04Q==";
+        name = "stylelint_config_recommended_vue___stylelint_config_recommended_vue_1.5.0.tgz";
+        url = "https://registry.yarnpkg.com/stylelint-config-recommended-vue/-/stylelint-config-recommended-vue-1.5.0.tgz";
+        sha512 = "65TAK/clUqkNtkZLcuytoxU0URQYlml+30Nhop7sRkCZ/mtWdXt7T+spPSB3KMKlb+82aEVJ4OrcstyDBdbosg==";
       };
     }
     {
