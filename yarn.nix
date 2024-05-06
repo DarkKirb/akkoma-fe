@@ -6520,11 +6520,11 @@
       };
     }
     {
-      name = "karma_webpack___karma_webpack_5.0.0.tgz";
+      name = "karma_webpack___karma_webpack_5.0.1.tgz";
       path = fetchurl {
-        name = "karma_webpack___karma_webpack_5.0.0.tgz";
-        url = "https://registry.yarnpkg.com/karma-webpack/-/karma-webpack-5.0.0.tgz";
-        sha512 = "+54i/cd3/piZuP3dr54+NcFeKOPnys5QeM1IY+0SPASwrtHsliXUiCL50iW+K9WWA7RvamC4macvvQ86l3KtaA==";
+        name = "karma_webpack___karma_webpack_5.0.1.tgz";
+        url = "https://registry.yarnpkg.com/karma-webpack/-/karma-webpack-5.0.1.tgz";
+        sha512 = "oo38O+P3W2mSPCSUrQdySSPv1LvPpXP+f+bBimNomS5sW+1V4SuhCuW8TfJzV+rDv921w2fDSDw0xJbPe6U+kQ==";
       };
     }
     {
@@ -7141,6 +7141,14 @@
         name = "minimatch___minimatch_5.1.6.tgz";
         url = "https://registry.yarnpkg.com/minimatch/-/minimatch-5.1.6.tgz";
         sha512 = "lKwV/1brpG6mBUFHtb7NUmtABCb2WZZmm2wNiOA5hAb8VdCS4B3dtMWyvcoViccwAW/COERjXLt0zP1zXUN26g==";
+      };
+    }
+    {
+      name = "minimatch___minimatch_9.0.4.tgz";
+      path = fetchurl {
+        name = "minimatch___minimatch_9.0.4.tgz";
+        url = "https://registry.yarnpkg.com/minimatch/-/minimatch-9.0.4.tgz";
+        sha512 = "KqWh+VchfxcMNRAJjj2tnsSJdNbHsVgnkBhTNrW7AjVo6OvLtxw8zfT9oLw1JSohlFzJ8jCoTgaoXvJ+kHt6fw==";
       };
     }
     {
