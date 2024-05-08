@@ -6088,6 +6088,14 @@
       };
     }
     {
+      name = "is_wsl___is_wsl_1.1.0.tgz";
+      path = fetchurl {
+        name = "is_wsl___is_wsl_1.1.0.tgz";
+        url = "https://registry.yarnpkg.com/is-wsl/-/is-wsl-1.1.0.tgz";
+        sha512 = "gfygJYZ2gLTDlmbWMI0CE2MwnFzSN/2SZfkMlItC4K/JBlsWVDB0bO6XhqcY13YXE7iMcAJnzTCJjPiTeJJ0Mw==";
+      };
+    }
+    {
       name = "is_wsl___is_wsl_2.2.0.tgz";
       path = fetchurl {
         name = "is_wsl___is_wsl_2.2.0.tgz";
@@ -7592,11 +7600,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_opn___opn_4.0.2.tgz";
+      name = "opn___opn_6.0.0.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_opn___opn_4.0.2.tgz";
-        url = "https://registry.npmjs.org/opn/-/opn-4.0.2.tgz";
-        sha512 = "iPBWbPP4OEOzR1xfhpGLDh+ypKBOygunZhM9jBtA7FS5sKjEiMZw0EFb82hnDOmTZX90ZWLoZKUza4cVt8MexA==";
+        name = "opn___opn_6.0.0.tgz";
+        url = "https://registry.yarnpkg.com/opn/-/opn-6.0.0.tgz";
+        sha512 = "I9PKfIZC+e4RXZ/qr1RhgyCnGgYX0UEIlXgWnCOVACIvFgaC9rz6Won7xbdhoHrd8IIhV7YEpHjreNUNkqCGkQ==";
       };
     }
     {
@@ -7901,22 +7909,6 @@
         name = "https___registry.npmjs.org_pify___pify_4.0.1.tgz";
         url = "https://registry.npmjs.org/pify/-/pify-4.0.1.tgz";
         sha512 = "uB80kBFb/tfd68bVleG9T5GGsGPjJrLAUpR5PZIrhBnIaRTQRjqdJSsIKkOP6OAIFbj7GOrcudc5pNjZ+geV2g==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org_pinkie_promise___pinkie_promise_2.0.1.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_pinkie_promise___pinkie_promise_2.0.1.tgz";
-        url = "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz";
-        sha512 = "0Gni6D4UcLTbv9c57DfxDGdr41XfgUjqWZu492f0cIGr16zDU06BWP/RAEvOuo7CQ0CNjHaLlM59YJJFm3NWlw==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org_pinkie___pinkie_2.0.4.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_pinkie___pinkie_2.0.4.tgz";
-        url = "https://registry.npmjs.org/pinkie/-/pinkie-2.0.4.tgz";
-        sha512 = "MnUuEycAemtSaeFSjXKW/aroV7akBbY+Sv+RkyqFjgAe73F+MR0TBWKBRDkmfWq/HiFmdavfZ1G7h4SPZXaCSg==";
       };
     }
     {
