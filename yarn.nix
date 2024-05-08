@@ -6256,11 +6256,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_js_cookie___js_cookie_3.0.1.tgz";
+      name = "js_cookie___js_cookie_3.0.5.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_js_cookie___js_cookie_3.0.1.tgz";
-        url = "https://registry.npmjs.org/js-cookie/-/js-cookie-3.0.1.tgz";
-        sha512 = "+0rgsUXZu4ncpPxRL+lNEptWMOWl9etvPHc/koSRp6MPwpRYAhmk0dUG00J4bxVV3r9uUzfo24wW0knS07SKSw==";
+        name = "js_cookie___js_cookie_3.0.5.tgz";
+        url = "https://registry.yarnpkg.com/js-cookie/-/js-cookie-3.0.5.tgz";
+        sha512 = "cEiJEAEoIbWfCZYKWhVwFuvPX1gETRYPw6LlaTKoxD3s2AkXzkCjnp6h0V77ozyqj0jakteJ4YqDJT830+lVGw==";
       };
     }
     {
