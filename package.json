@@ -102,7 +102,7 @@
     "mini-css-extract-plugin": "2.9.0",
     "mocha": "3.5.3",
     "nightwatch": "3.6.1",
-    "opn": "4.0.2",
+    "opn": "6.0.0",
     "ora": "0.4.1",
     "postcss-html": "^1.6.0",
     "postcss-loader": "3.0.0",
