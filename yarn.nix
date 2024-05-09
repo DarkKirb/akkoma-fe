@@ -8776,11 +8776,11 @@
       };
     }
     {
-      name = "semver___semver_7.6.0.tgz";
+      name = "semver___semver_7.6.1.tgz";
       path = fetchurl {
-        name = "semver___semver_7.6.0.tgz";
-        url = "https://registry.yarnpkg.com/semver/-/semver-7.6.0.tgz";
-        sha512 = "EnwXhrlwXMk9gKu5/flx5sv/an57AkRplG3hTK68W7FRDN+k+OWBj65M7719OkA82XLBxrcX0KSHj+X5COhOVg==";
+        name = "semver___semver_7.6.1.tgz";
+        url = "https://registry.yarnpkg.com/semver/-/semver-7.6.1.tgz";
+        sha512 = "f/vbBsu+fOiYt+lmwZV0rVwJScl46HppnOA1ZvIuBWKOTlllpyJ3bfVax76/OrhCH38dyxoDIA8K7uB963IYgA==";
       };
     }
     {
