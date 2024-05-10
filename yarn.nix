@@ -3312,11 +3312,11 @@
       };
     }
     {
-      name = "css_loader___css_loader_6.7.2.tgz";
+      name = "css_loader___css_loader_7.1.1.tgz";
       path = fetchurl {
-        name = "css_loader___css_loader_6.7.2.tgz";
-        url = "https://registry.yarnpkg.com/css-loader/-/css-loader-6.7.2.tgz";
-        sha512 = "oqGbbVcBJkm8QwmnNzrFrWTnudnRZC+1eXikLJl0n4ljcfotgRifpg2a1lKy8jTrc4/d9A/ap1GFq1jDKG7J+Q==";
+        name = "css_loader___css_loader_7.1.1.tgz";
+        url = "https://registry.yarnpkg.com/css-loader/-/css-loader-7.1.1.tgz";
+        sha512 = "OxIR5P2mjO1PSXk44bWuQ8XtMK4dpEqpIyERCx3ewOo3I8EmbcxMPUc5ScLtQfgXtOojoMv57So4V/C02HQLsw==";
       };
     }
     {
@@ -7800,27 +7800,27 @@
       };
     }
     {
-      name = "postcss_modules_extract_imports___postcss_modules_extract_imports_3.0.0.tgz";
+      name = "postcss_modules_extract_imports___postcss_modules_extract_imports_3.1.0.tgz";
       path = fetchurl {
-        name = "postcss_modules_extract_imports___postcss_modules_extract_imports_3.0.0.tgz";
-        url = "https://registry.yarnpkg.com/postcss-modules-extract-imports/-/postcss-modules-extract-imports-3.0.0.tgz";
-        sha512 = "bdHleFnP3kZ4NYDhuGlVK+CMrQ/pqUm8bx/oGL93K6gVwiclvX5x0n76fYMKuIGKzlABOy13zsvqjb0f92TEXw==";
+        name = "postcss_modules_extract_imports___postcss_modules_extract_imports_3.1.0.tgz";
+        url = "https://registry.yarnpkg.com/postcss-modules-extract-imports/-/postcss-modules-extract-imports-3.1.0.tgz";
+        sha512 = "k3kNe0aNFQDAZGbin48pL2VNidTF0w4/eASDsxlyspobzU3wZQLOGj7L9gfRe0Jo9/4uud09DsjFNH7winGv8Q==";
       };
     }
     {
-      name = "postcss_modules_local_by_default___postcss_modules_local_by_default_4.0.0.tgz";
+      name = "postcss_modules_local_by_default___postcss_modules_local_by_default_4.0.5.tgz";
       path = fetchurl {
-        name = "postcss_modules_local_by_default___postcss_modules_local_by_default_4.0.0.tgz";
-        url = "https://registry.yarnpkg.com/postcss-modules-local-by-default/-/postcss-modules-local-by-default-4.0.0.tgz";
-        sha512 = "sT7ihtmGSF9yhm6ggikHdV0hlziDTX7oFoXtuVWeDd3hHObNkcHRo9V3yg7vCAY7cONyxJC/XXCmmiHHcvX7bQ==";
+        name = "postcss_modules_local_by_default___postcss_modules_local_by_default_4.0.5.tgz";
+        url = "https://registry.yarnpkg.com/postcss-modules-local-by-default/-/postcss-modules-local-by-default-4.0.5.tgz";
+        sha512 = "6MieY7sIfTK0hYfafw1OMEG+2bg8Q1ocHCpoWLqOKj3JXlKu4G7btkmM/B7lFubYkYWmRSPLZi5chid63ZaZYw==";
       };
     }
     {
-      name = "postcss_modules_scope___postcss_modules_scope_3.0.0.tgz";
+      name = "postcss_modules_scope___postcss_modules_scope_3.2.0.tgz";
       path = fetchurl {
-        name = "postcss_modules_scope___postcss_modules_scope_3.0.0.tgz";
-        url = "https://registry.yarnpkg.com/postcss-modules-scope/-/postcss-modules-scope-3.0.0.tgz";
-        sha512 = "hncihwFA2yPath8oZ15PZqvWGkWf+XUfQgUGamS4LqoP1anQLOsOJw0vr7J7IwLpoY9fatA2qiGUGmuZL0Iqlg==";
+        name = "postcss_modules_scope___postcss_modules_scope_3.2.0.tgz";
+        url = "https://registry.yarnpkg.com/postcss-modules-scope/-/postcss-modules-scope-3.2.0.tgz";
+        sha512 = "oq+g1ssrsZOsx9M96c5w8laRmvEu9C3adDSjI8oTcbfkrTE8hx/zfyobUoWIxaKPO8bt6S62kxpw5GqypEw1QQ==";
       };
     }
     {
@@ -8661,6 +8661,14 @@
         name = "semver___semver_6.3.1.tgz";
         url = "https://registry.yarnpkg.com/semver/-/semver-6.3.1.tgz";
         sha512 = "BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==";
+      };
+    }
+    {
+      name = "semver___semver_7.6.2.tgz";
+      path = fetchurl {
+        name = "semver___semver_7.6.2.tgz";
+        url = "https://registry.yarnpkg.com/semver/-/semver-7.6.2.tgz";
+        sha512 = "FNAIBWCx9qcRhoHcgcJ0gvU7SN1lYU2ZXuSfl04bSC5OpvDHFyJCjdNHomPXxjQlCBU67YW64PzY7/VIEH7F2w==";
       };
     }
     {
