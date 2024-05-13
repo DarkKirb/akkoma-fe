@@ -5256,11 +5256,11 @@
       };
     }
     {
-      name = "html_webpack_plugin___html_webpack_plugin_5.5.0.tgz";
+      name = "html_webpack_plugin___html_webpack_plugin_5.6.0.tgz";
       path = fetchurl {
-        name = "html_webpack_plugin___html_webpack_plugin_5.5.0.tgz";
-        url = "https://registry.yarnpkg.com/html-webpack-plugin/-/html-webpack-plugin-5.5.0.tgz";
-        sha512 = "sy88PC2cRTVxvETRgUHFrL4No3UxvcH8G1NepGhqaTT+GXN2kTamqasot0inS5hXeg1cMbFDt27zzo9p35lZVw==";
+        name = "html_webpack_plugin___html_webpack_plugin_5.6.0.tgz";
+        url = "https://registry.yarnpkg.com/html-webpack-plugin/-/html-webpack-plugin-5.6.0.tgz";
+        sha512 = "iwaY4wzbe48AfKLZ/Cc8k0L+FKG6oSNRaZ8x5A/T/IVDGyXcbHncM9TdDa93wn0FsSm82FhTKW7f3vS61thXAw==";
       };
     }
     {
