@@ -100,7 +100,7 @@
     "lodash": "4.17.21",
     "lolex": "1.6.0",
     "mini-css-extract-plugin": "2.9.0",
-    "mocha": "3.5.3",
+    "mocha": "10.4.0",
     "nightwatch": "3.6.1",
     "opn": "6.0.0",
     "ora": "0.4.1",
