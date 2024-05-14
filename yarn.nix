@@ -9784,11 +9784,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_vue_template_compiler___vue_template_compiler_2.6.11.tgz";
+      name = "vue_template_compiler___vue_template_compiler_2.7.16.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_vue_template_compiler___vue_template_compiler_2.6.11.tgz";
-        url = "https://registry.npmjs.org/vue-template-compiler/-/vue-template-compiler-2.6.11.tgz";
-        sha512 = "KIq15bvQDrcCjpGjrAhx4mUlyyHfdmTaoNfeoATHLAiWB+MU3cx4lOzMwrnUh9cCxy0Lt1T11hAFY6TQgroUAA==";
+        name = "vue_template_compiler___vue_template_compiler_2.7.16.tgz";
+        url = "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.7.16.tgz";
+        sha512 = "AYbUWAJHLGGQM7+cNTELw+KsOG9nl2CnSv467WobS5Cv9uk3wFcnr1Etsz2sEIHEZvw1U+o9mRlEO6QbZvUPGQ==";
       };
     }
     {
