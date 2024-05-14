@@ -104,7 +104,7 @@
     "nightwatch": "3.6.1",
     "opn": "6.0.0",
     "ora": "0.4.1",
-    "postcss-html": "^1.6.0",
+    "postcss-html": "^1.7.0",
     "postcss-loader": "3.0.0",
     "postcss-sass": "^0.5.0",
     "raw-loader": "0.5.1",
