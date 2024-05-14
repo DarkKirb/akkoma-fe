@@ -6040,11 +6040,11 @@
       };
     }
     {
-      name = "js_tokens___js_tokens_8.0.0.tgz";
+      name = "js_tokens___js_tokens_9.0.0.tgz";
       path = fetchurl {
-        name = "js_tokens___js_tokens_8.0.0.tgz";
-        url = "https://registry.yarnpkg.com/js-tokens/-/js-tokens-8.0.0.tgz";
-        sha512 = "PC7MzqInq9OqKyTXfIvQNcjMkODJYC8A17kAaQgeW79yfhqTWSOfjHYQ2mDDcwJ96Iibtwkfh0C7R/OvqPlgVA==";
+        name = "js_tokens___js_tokens_9.0.0.tgz";
+        url = "https://registry.yarnpkg.com/js-tokens/-/js-tokens-9.0.0.tgz";
+        sha512 = "WriZw1luRMlmV3LGJaR6QOJjWwgLUTf89OwT2lUOyjX2dJGBwgmIkbcz+7WFZjrZM635JOIR517++e/67CP9dQ==";
       };
     }
     {
@@ -7616,11 +7616,11 @@
       };
     }
     {
-      name = "postcss_html___postcss_html_1.6.0.tgz";
+      name = "postcss_html___postcss_html_1.7.0.tgz";
       path = fetchurl {
-        name = "postcss_html___postcss_html_1.6.0.tgz";
-        url = "https://registry.yarnpkg.com/postcss-html/-/postcss-html-1.6.0.tgz";
-        sha512 = "OWgQ9/Pe23MnNJC0PL4uZp8k0EDaUvqpJFSiwFxOLClAhmD7UEisyhO3x5hVsD4xFrjReVTXydlrMes45dJ71w==";
+        name = "postcss_html___postcss_html_1.7.0.tgz";
+        url = "https://registry.yarnpkg.com/postcss-html/-/postcss-html-1.7.0.tgz";
+        sha512 = "MfcMpSUIaR/nNgeVS8AyvyDugXlADjN9AcV7e5rDfrF1wduIAGSkL4q2+wgrZgA3sHVAHLDO9FuauHhZYW2nBw==";
       };
     }
     {
