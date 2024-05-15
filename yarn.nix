@@ -3864,11 +3864,11 @@
       };
     }
     {
-      name = "ejs___ejs_3.1.8.tgz";
+      name = "ejs___ejs_3.1.10.tgz";
       path = fetchurl {
-        name = "ejs___ejs_3.1.8.tgz";
-        url = "https://registry.yarnpkg.com/ejs/-/ejs-3.1.8.tgz";
-        sha512 = "/sXZeMlhS0ArkfX2Aw780gJzXSMPnKjtspYZv+f3NiKLlubezAHDU5+9xz6gd3/NhG3txQCo6xlglmTS+oTGEQ==";
+        name = "ejs___ejs_3.1.10.tgz";
+        url = "https://registry.yarnpkg.com/ejs/-/ejs-3.1.10.tgz";
+        sha512 = "UeJmFfOrAQS8OJWPZ4qtgHyWExa088/MtK5UEyoJGFH67cDEXkZSviOiKRCZ4Xij0zxI3JECgYs3oKx+AizQBA==";
       };
     }
     {
@@ -4949,14 +4949,6 @@
         name = "glob_to_regexp___glob_to_regexp_0.4.1.tgz";
         url = "https://registry.yarnpkg.com/glob-to-regexp/-/glob-to-regexp-0.4.1.tgz";
         sha512 = "lkX1HJXwyMcprw/5YUZc2s7DrpAiHB21/V+E1rHUrVNokkvB6bqMzT0VfV6/86ZNabt1k14YOIaT7nDvOX3Iiw==";
-      };
-    }
-    {
-      name = "glob___glob_7.2.0.tgz";
-      path = fetchurl {
-        name = "glob___glob_7.2.0.tgz";
-        url = "https://registry.yarnpkg.com/glob/-/glob-7.2.0.tgz";
-        sha512 = "lmLf6gtyrPq8tTjSmrO94wBeQbFR3HbLHbuyD69wuyQkImp2hWqMGB47OX65FBkPffO641IP9jWa1z4ivqG26Q==";
       };
     }
     {
@@ -7024,11 +7016,11 @@
       };
     }
     {
-      name = "mocha___mocha_10.2.0.tgz";
+      name = "mocha___mocha_10.3.0.tgz";
       path = fetchurl {
-        name = "mocha___mocha_10.2.0.tgz";
-        url = "https://registry.yarnpkg.com/mocha/-/mocha-10.2.0.tgz";
-        sha512 = "IDY7fl/BecMwFHzoqF2sg/SHHANeBoMMXFlS9r0OXKDssYE1M5O43wUY/9BVPeIvfH2zmEbBfseqN9gBQZzXkg==";
+        name = "mocha___mocha_10.3.0.tgz";
+        url = "https://registry.yarnpkg.com/mocha/-/mocha-10.3.0.tgz";
+        sha512 = "uF2XJs+7xSLsrmIvn37i/wnc91nw7XjOQB8ccyx5aEgdnohr7n+rEiZP23WkCYHjilR6+EboEnbq/ZQDz4LSbg==";
       };
     }
     {
@@ -7069,14 +7061,6 @@
         name = "https___registry.npmjs.org_ms___ms_2.1.3.tgz";
         url = "https://registry.npmjs.org/ms/-/ms-2.1.3.tgz";
         sha512 = "6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==";
-      };
-    }
-    {
-      name = "nanoid___nanoid_3.3.3.tgz";
-      path = fetchurl {
-        name = "nanoid___nanoid_3.3.3.tgz";
-        url = "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.3.tgz";
-        sha512 = "p1sjXuopFs0xg+fPASzQ28agW1oHD7xDsd9Xkf3T15H3c/cifrFHVwrh74PdoklAPi+i7MdRsE47vm2r6JoB+w==";
       };
     }
     {
@@ -7144,11 +7128,11 @@
       };
     }
     {
-      name = "nightwatch___nightwatch_3.6.1.tgz";
+      name = "nightwatch___nightwatch_3.6.2.tgz";
       path = fetchurl {
-        name = "nightwatch___nightwatch_3.6.1.tgz";
-        url = "https://registry.yarnpkg.com/nightwatch/-/nightwatch-3.6.1.tgz";
-        sha512 = "p70bzbc2SefTEI6bUebwlimcRaOhb8wNt5j9aDWkxTvTcczhoAzfDkNuic+fSMzsreiFweZXhX1enpB3eJZrZw==";
+        name = "nightwatch___nightwatch_3.6.2.tgz";
+        url = "https://registry.yarnpkg.com/nightwatch/-/nightwatch-3.6.2.tgz";
+        sha512 = "tZmEtHovzdycGtCF1299W3wABcqirXCEgKR1w+2dU+lwsTt0ujNlM6FdPy5FJJRnYNu/Hfal8wDiXP0PuI78xw==";
       };
     }
     {
@@ -8632,11 +8616,11 @@
       };
     }
     {
-      name = "selenium_webdriver___selenium_webdriver_4.16.0.tgz";
+      name = "selenium_webdriver___selenium_webdriver_4.20.0.tgz";
       path = fetchurl {
-        name = "selenium_webdriver___selenium_webdriver_4.16.0.tgz";
-        url = "https://registry.yarnpkg.com/selenium-webdriver/-/selenium-webdriver-4.16.0.tgz";
-        sha512 = "IbqpRpfGE7JDGgXHJeWuCqT/tUqnLvZ14csSwt+S8o4nJo3RtQoE9VR4jB47tP/A8ArkYsh/THuMY6kyRP6kuA==";
+        name = "selenium_webdriver___selenium_webdriver_4.20.0.tgz";
+        url = "https://registry.yarnpkg.com/selenium-webdriver/-/selenium-webdriver-4.20.0.tgz";
+        sha512 = "s/G44lGQ1xB3tmtX6NNPomlkpL6CxLdmAvp/AGWWwi4qv5Te1+qji7tPSyr6gyuoPpdYiof1rKnWe3luy0MrYA==";
       };
     }
     {
@@ -9493,6 +9477,14 @@
         name = "https___registry.npmjs.org_tmp___tmp_0.2.1.tgz";
         url = "https://registry.npmjs.org/tmp/-/tmp-0.2.1.tgz";
         sha512 = "76SUhtfqR2Ijn+xllcI5P1oyannHNHByD80W1q447gU3mp9G9PSpGdWmjUOHRDPiHYacIk66W7ubDTuPF3BEtQ==";
+      };
+    }
+    {
+      name = "tmp___tmp_0.2.3.tgz";
+      path = fetchurl {
+        name = "tmp___tmp_0.2.3.tgz";
+        url = "https://registry.yarnpkg.com/tmp/-/tmp-0.2.3.tgz";
+        sha512 = "nZD7m9iCPC5g0pYmcaxogYKggSfLsdxl8of3Q/oIbqCqLLIO9IAF0GWjX1z9NZRHPiXv8Wex4yDCaZsgEw0Y8w==";
       };
     }
     {
