@@ -4488,14 +4488,6 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_fast_glob___fast_glob_3.2.11.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_fast_glob___fast_glob_3.2.11.tgz";
-        url = "https://registry.npmjs.org/fast-glob/-/fast-glob-3.2.11.tgz";
-        sha512 = "xrO3+1bxSo3ZVHAnqzyuewYT6aMFHRAd4Kcs92MAonjwQZLsK9d0SF1IyQ3k5PoirxTW0Oe/RqFgMQ6TcNE5Ew==";
-      };
-    }
-    {
       name = "https___registry.npmjs.org_fast_json_stable_stringify___fast_json_stable_stringify_2.1.0.tgz";
       path = fetchurl {
         name = "https___registry.npmjs.org_fast_json_stable_stringify___fast_json_stable_stringify_2.1.0.tgz";
@@ -5400,11 +5392,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_ignore___ignore_5.2.0.tgz";
+      name = "ignore___ignore_5.3.1.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_ignore___ignore_5.2.0.tgz";
-        url = "https://registry.npmjs.org/ignore/-/ignore-5.2.0.tgz";
-        sha512 = "CmxgYGiEPCLhfLnpPp1MoRmifwEIOgjcHXxOBjv7mY96c+eWScsOP9c112ZyLdWHi0FxHjI+4uVhKYp/gcdRmQ==";
+        name = "ignore___ignore_5.3.1.tgz";
+        url = "https://registry.yarnpkg.com/ignore/-/ignore-5.3.1.tgz";
+        sha512 = "5Fytz/IraMjqpwfd34ke28PTVMjZjJG2MPn5t7OE4eUCUNf8BAa7b5WUS9/Qvr6mwOQS7Mk6vdsMno5he+T8Xw==";
       };
     }
     {
@@ -9296,11 +9288,11 @@
       };
     }
     {
-      name = "stylelint___stylelint_14.15.0.tgz";
+      name = "stylelint___stylelint_14.16.1.tgz";
       path = fetchurl {
-        name = "stylelint___stylelint_14.15.0.tgz";
-        url = "https://registry.yarnpkg.com/stylelint/-/stylelint-14.15.0.tgz";
-        sha512 = "JOgDAo5QRsqiOZPZO+B9rKJvBm64S0xasbuRPAbPs6/vQDgDCnZLIiw6XcAS6GQKk9k1sBWR6rmH3Mfj8OknKg==";
+        name = "stylelint___stylelint_14.16.1.tgz";
+        url = "https://registry.yarnpkg.com/stylelint/-/stylelint-14.16.1.tgz";
+        sha512 = "ErlzR/T3hhbV+a925/gbfc3f3Fep9/bnspMiJPorfGEmcBbXdS+oo6LrVtoUZ/w9fqD6o6k7PtUlCOsCRdjX/A==";
       };
     }
     {
