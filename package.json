@@ -111,7 +111,7 @@
     "sass": "^1.77.1",
     "sass-loader": "^13.2.0",
     "selenium-server": "2.53.1",
-    "semver": "7.6.1",
+    "semver": "7.6.2",
     "shelljs": "0.8.5",
     "sinon": "2.4.1",
     "sinon-chai": "2.14.0",
