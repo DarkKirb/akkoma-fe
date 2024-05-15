@@ -9984,11 +9984,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_vue_router___vue_router_4.0.14.tgz";
+      name = "vue_router___vue_router_4.3.2.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_vue_router___vue_router_4.0.14.tgz";
-        url = "https://registry.npmjs.org/vue-router/-/vue-router-4.0.14.tgz";
-        sha512 = "wAO6zF9zxA3u+7AkMPqw9LjoUCjSxfFvINQj3E/DceTt6uEz1XZLraDhdg2EYmvVwTBSGlLYsUw8bDmx0754Mw==";
+        name = "vue_router___vue_router_4.3.2.tgz";
+        url = "https://registry.yarnpkg.com/vue-router/-/vue-router-4.3.2.tgz";
+        sha512 = "hKQJ1vDAZ5LVkKEnHhmm1f9pMiWIBNGF5AwU67PdH7TyXCj/a4hTccuUuYCAMgJK6rO/NVYtQIEN3yL8CECa7Q==";
       };
     }
     {
