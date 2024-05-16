@@ -1080,11 +1080,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org__fortawesome_vue_fontawesome___vue_fontawesome_3.0.1.tgz";
+      name = "_fortawesome_vue_fontawesome___vue_fontawesome_3.0.6.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org__fortawesome_vue_fontawesome___vue_fontawesome_3.0.1.tgz";
-        url = "https://registry.npmjs.org/@fortawesome/vue-fontawesome/-/vue-fontawesome-3.0.1.tgz";
-        sha512 = "CdXZJoCS+aEPec26ZP7hWWU3SaJlQPZSCGdgpQ2qGl2HUmtUUNrI3zC4XWdn1JUmh3t5OuDeRG1qB4eGRNSD4A==";
+        name = "_fortawesome_vue_fontawesome___vue_fontawesome_3.0.6.tgz";
+        url = "https://registry.yarnpkg.com/@fortawesome/vue-fontawesome/-/vue-fontawesome-3.0.6.tgz";
+        sha512 = "akrL7lTroyNpPkoHtvK2UpsMzJr6jXdHaQ0YdcwqDsB8jdwlpNHZYijpOUd9KJsARr+VB3WXY4EyObepqJ4ytQ==";
       };
     }
     {
