@@ -1760,11 +1760,11 @@
       };
     }
     {
-      name = "_vuelidate_validators___validators_2.0.0.tgz";
+      name = "_vuelidate_validators___validators_2.0.4.tgz";
       path = fetchurl {
-        name = "_vuelidate_validators___validators_2.0.0.tgz";
-        url = "https://registry.yarnpkg.com/@vuelidate/validators/-/validators-2.0.0.tgz";
-        sha512 = "fQQcmDWfz7pyH5/JPi0Ng2GEgNK1pUHn/Z/j5rG/Q+HwhgIXvJblTPcZwKOj1ABL7V4UVuGKECvZCDHNGOwdrg==";
+        name = "_vuelidate_validators___validators_2.0.4.tgz";
+        url = "https://registry.yarnpkg.com/@vuelidate/validators/-/validators-2.0.4.tgz";
+        sha512 = "odTxtUZ2JpwwiQ10t0QWYJkkYrfd0SyFYhdHH44QQ1jDatlZgTh/KRzrWVmn/ib9Gq7H4hFD4e8ahoo5YlUlDw==";
       };
     }
     {
