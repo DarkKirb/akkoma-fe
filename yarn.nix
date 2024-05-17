@@ -9968,11 +9968,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_vuex___vuex_4.0.2.tgz";
+      name = "vuex___vuex_4.1.0.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_vuex___vuex_4.0.2.tgz";
-        url = "https://registry.npmjs.org/vuex/-/vuex-4.0.2.tgz";
-        sha512 = "M6r8uxELjZIK8kTKDGgZTYX/ahzblnzC4isU1tpmEuOIIKmV+TRdc+H4s8ds2NuZ7wpUTdGRzJRtoj+lI+pc0Q==";
+        name = "vuex___vuex_4.1.0.tgz";
+        url = "https://registry.yarnpkg.com/vuex/-/vuex-4.1.0.tgz";
+        sha512 = "hmV6UerDrPcgbSy9ORAtNXDr9M4wlNP4pEFKye4ujJF8oqgFFuxDCdOLS3eNoRTtq5O3hoBDh9Doj1bQMYHRbQ==";
       };
     }
     {
