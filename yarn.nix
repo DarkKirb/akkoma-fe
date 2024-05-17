@@ -8576,11 +8576,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_selenium_server___selenium_server_2.53.1.tgz";
+      name = "selenium_server___selenium_server_3.141.59.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_selenium_server___selenium_server_2.53.1.tgz";
-        url = "https://registry.npmjs.org/selenium-server/-/selenium-server-2.53.1.tgz";
-        sha512 = "IRRWVxcfJ1hfgpHo70kR8eP3Td5impMHMRfsDxpBZOIK3FWSbagmW88Hsgq3ZlWG3iMv8zx+F7KWYii2Y1UH+g==";
+        name = "selenium_server___selenium_server_3.141.59.tgz";
+        url = "https://registry.yarnpkg.com/selenium-server/-/selenium-server-3.141.59.tgz";
+        sha512 = "pL7T1YtAqOEXiBbTx0KdZMkE2U7PYucemd7i0nDLcxcR1APXYZlJfNr5hrvL3mZgwXb7AJEZPINzC6mDU3eP5g==";
       };
     }
     {
