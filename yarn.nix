@@ -1752,11 +1752,11 @@
       };
     }
     {
-      name = "_vuelidate_core___core_2.0.0.tgz";
+      name = "_vuelidate_core___core_2.0.3.tgz";
       path = fetchurl {
-        name = "_vuelidate_core___core_2.0.0.tgz";
-        url = "https://registry.yarnpkg.com/@vuelidate/core/-/core-2.0.0.tgz";
-        sha512 = "xIFgdQlScO0aaSZ0wTGPJh8YcTMNAj5veI8yPgiAyxOT+GV7vNQFiU1vpYWCL4cklkkhYvRRSC2OEX7YOZNmPQ==";
+        name = "_vuelidate_core___core_2.0.3.tgz";
+        url = "https://registry.yarnpkg.com/@vuelidate/core/-/core-2.0.3.tgz";
+        sha512 = "AN6l7KF7+mEfyWG0doT96z+47ljwPpZfi9/JrNMkOGLFv27XVZvKzRLXlmDPQjPl/wOB1GNnHuc54jlCLRNqGA==";
       };
     }
     {
