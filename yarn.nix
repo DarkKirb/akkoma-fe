@@ -1488,11 +1488,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org__types_http_proxy___http_proxy_1.17.9.tgz";
+      name = "_types_http_proxy___http_proxy_1.17.14.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org__types_http_proxy___http_proxy_1.17.9.tgz";
-        url = "https://registry.npmjs.org/@types/http-proxy/-/http-proxy-1.17.9.tgz";
-        sha512 = "QsbSjA/fSk7xB+UXlCT3wHBy5ai9wOcNDWwZAtud+jXhwOM3l+EYZh8Lng4+/6n8uar0J7xILzqftJdJ/Wdfkw==";
+        name = "_types_http_proxy___http_proxy_1.17.14.tgz";
+        url = "https://registry.yarnpkg.com/@types/http-proxy/-/http-proxy-1.17.14.tgz";
+        sha512 = "SSrD0c1OQzlFX7pGu1eXxSEjemej64aaNPRhhVYUGqXh0BtldAAx37MG8btcumvpgKyZp1F5Gn3JkktdxiFv6w==";
       };
     }
     {
@@ -1760,11 +1760,11 @@
       };
     }
     {
-      name = "_vuelidate_validators___validators_2.0.0.tgz";
+      name = "_vuelidate_validators___validators_2.0.4.tgz";
       path = fetchurl {
-        name = "_vuelidate_validators___validators_2.0.0.tgz";
-        url = "https://registry.yarnpkg.com/@vuelidate/validators/-/validators-2.0.0.tgz";
-        sha512 = "fQQcmDWfz7pyH5/JPi0Ng2GEgNK1pUHn/Z/j5rG/Q+HwhgIXvJblTPcZwKOj1ABL7V4UVuGKECvZCDHNGOwdrg==";
+        name = "_vuelidate_validators___validators_2.0.4.tgz";
+        url = "https://registry.yarnpkg.com/@vuelidate/validators/-/validators-2.0.4.tgz";
+        sha512 = "odTxtUZ2JpwwiQ10t0QWYJkkYrfd0SyFYhdHH44QQ1jDatlZgTh/KRzrWVmn/ib9Gq7H4hFD4e8ahoo5YlUlDw==";
       };
     }
     {
@@ -5320,11 +5320,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_http_proxy_middleware___http_proxy_middleware_0.21.0.tgz";
+      name = "http_proxy_middleware___http_proxy_middleware_3.0.0.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_http_proxy_middleware___http_proxy_middleware_0.21.0.tgz";
-        url = "https://registry.npmjs.org/http-proxy-middleware/-/http-proxy-middleware-0.21.0.tgz";
-        sha512 = "4Arcl5QQ6pRMRJmtM1WVHKHkFAQn5uvw83XuNeqnMTOikDiCoTxv5/vdudhKQsF+1mtaAawrK2SEB1v2tYecdQ==";
+        name = "http_proxy_middleware___http_proxy_middleware_3.0.0.tgz";
+        url = "https://registry.yarnpkg.com/http-proxy-middleware/-/http-proxy-middleware-3.0.0.tgz";
+        sha512 = "36AV1fIaI2cWRzHo+rbcxhe3M3jUDCNzc4D5zRl57sEWRAxdXYtw7FSQKYY6PDKssiAKjLYypbssHk+xs/kMXw==";
       };
     }
     {
@@ -5789,6 +5789,14 @@
         name = "is_plain_obj___is_plain_obj_2.1.0.tgz";
         url = "https://registry.yarnpkg.com/is-plain-obj/-/is-plain-obj-2.1.0.tgz";
         sha512 = "YWnfyRwxL/+SsrWYfOpUtz5b3YD+nyfkHvjbcanzk8zgyO4ASD67uVMRt8k5bM4lLMDnXfriRhOpemw+NfT1eA==";
+      };
+    }
+    {
+      name = "is_plain_obj___is_plain_obj_3.0.0.tgz";
+      path = fetchurl {
+        name = "is_plain_obj___is_plain_obj_3.0.0.tgz";
+        url = "https://registry.yarnpkg.com/is-plain-obj/-/is-plain-obj-3.0.0.tgz";
+        sha512 = "gwsOE28k+23GP1B6vFl1oVh/WOzmawBrKwo5Ev6wMKzPkaXaCDIQKzLnvsA42DRlbVTWorkgTKIviAKCWkfUwA==";
       };
     }
     {
@@ -9968,11 +9976,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_vuex___vuex_4.0.2.tgz";
+      name = "vuex___vuex_4.1.0.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_vuex___vuex_4.0.2.tgz";
-        url = "https://registry.npmjs.org/vuex/-/vuex-4.0.2.tgz";
-        sha512 = "M6r8uxELjZIK8kTKDGgZTYX/ahzblnzC4isU1tpmEuOIIKmV+TRdc+H4s8ds2NuZ7wpUTdGRzJRtoj+lI+pc0Q==";
+        name = "vuex___vuex_4.1.0.tgz";
+        url = "https://registry.yarnpkg.com/vuex/-/vuex-4.1.0.tgz";
+        sha512 = "hmV6UerDrPcgbSy9ORAtNXDr9M4wlNP4pEFKye4ujJF8oqgFFuxDCdOLS3eNoRTtq5O3hoBDh9Doj1bQMYHRbQ==";
       };
     }
     {
