@@ -6384,11 +6384,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_karma_sourcemap_loader___karma_sourcemap_loader_0.3.8.tgz";
+      name = "karma_sourcemap_loader___karma_sourcemap_loader_0.4.0.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org_karma_sourcemap_loader___karma_sourcemap_loader_0.3.8.tgz";
-        url = "https://registry.npmjs.org/karma-sourcemap-loader/-/karma-sourcemap-loader-0.3.8.tgz";
-        sha512 = "zorxyAakYZuBcHRJE+vbrK2o2JXLFWK8VVjiT/6P+ltLBUGUvqTEkUiQ119MGdOrK7mrmxXHZF1/pfT6GgIZ6g==";
+        name = "karma_sourcemap_loader___karma_sourcemap_loader_0.4.0.tgz";
+        url = "https://registry.yarnpkg.com/karma-sourcemap-loader/-/karma-sourcemap-loader-0.4.0.tgz";
+        sha512 = "xCRL3/pmhAYF3I6qOrcn0uhbQevitc2DERMPH82FMnG+4WReoGcGFZb1pURf2a5apyrOHRdvD+O6K7NljqKHyA==";
       };
     }
     {
