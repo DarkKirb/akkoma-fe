@@ -1048,19 +1048,19 @@
       };
     }
     {
-      name = "_fortawesome_fontawesome_common_types___fontawesome_common_types_0.3.0.tgz";
+      name = "_fortawesome_fontawesome_common_types___fontawesome_common_types_6.5.2.tgz";
       path = fetchurl {
-        name = "_fortawesome_fontawesome_common_types___fontawesome_common_types_0.3.0.tgz";
-        url = "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.3.0.tgz";
-        sha512 = "CA3MAZBTxVsF6SkfkHXDerkhcQs0QPofy43eFdbWJJkZiq3SfiaH1msOkac59rQaqto5EqWnASboY1dBuKen5w==";
+        name = "_fortawesome_fontawesome_common_types___fontawesome_common_types_6.5.2.tgz";
+        url = "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.5.2.tgz";
+        sha512 = "gBxPg3aVO6J0kpfHNILc+NMhXnqHumFxOmjYCFfOiLZfwhnnfhtsdA2hfJlDnj+8PjAs6kKQPenOTKj3Rf7zHw==";
       };
     }
     {
-      name = "_fortawesome_fontawesome_svg_core___fontawesome_svg_core_1.3.0.tgz";
+      name = "_fortawesome_fontawesome_svg_core___fontawesome_svg_core_6.5.2.tgz";
       path = fetchurl {
-        name = "_fortawesome_fontawesome_svg_core___fontawesome_svg_core_1.3.0.tgz";
-        url = "https://registry.yarnpkg.com/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-1.3.0.tgz";
-        sha512 = "UIL6crBWhjTNQcONt96ExjUnKt1D68foe3xjEensLDclqQ6YagwCRYVQdrp/hW0ALRp/5Fv/VKw+MqTUWYYvPg==";
+        name = "_fortawesome_fontawesome_svg_core___fontawesome_svg_core_6.5.2.tgz";
+        url = "https://registry.yarnpkg.com/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-6.5.2.tgz";
+        sha512 = "5CdaCBGl8Rh9ohNdxeeTMxIj8oc3KNBgIeLMvJosBMdslK/UnEB8rzyDRrbKdL1kDweqBPo4GT9wvnakHWucZw==";
       };
     }
     {
