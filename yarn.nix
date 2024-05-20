@@ -1104,11 +1104,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org__intlify_bundle_utils___bundle_utils_3.2.1.tgz";
+      name = "_intlify_bundle_utils___bundle_utils_3.4.0.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org__intlify_bundle_utils___bundle_utils_3.2.1.tgz";
-        url = "https://registry.npmjs.org/@intlify/bundle-utils/-/bundle-utils-3.2.1.tgz";
-        sha512 = "rf4cLBOnbqmpXVcCdcYHilZpMt1m82syh3WLBJlZvGxN2KkH9HeHVH4+bnibF/SDXCHNh6lM6wTpS/qw+PkcMg==";
+        name = "_intlify_bundle_utils___bundle_utils_3.4.0.tgz";
+        url = "https://registry.yarnpkg.com/@intlify/bundle-utils/-/bundle-utils-3.4.0.tgz";
+        sha512 = "2UQkqiSAOSPEHMGWlybqWm4G2K0X+FyYho5AwXz6QklSX1EY5EDmOSxZmwscn2qmKBnp6OYsme5kUrnN9xrWzQ==";
       };
     }
     {
@@ -1152,11 +1152,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org__intlify_vue_i18n_loader___vue_i18n_loader_5.0.0.tgz";
+      name = "_intlify_vue_i18n_loader___vue_i18n_loader_5.0.1.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org__intlify_vue_i18n_loader___vue_i18n_loader_5.0.0.tgz";
-        url = "https://registry.npmjs.org/@intlify/vue-i18n-loader/-/vue-i18n-loader-5.0.0.tgz";
-        sha512 = "rlqWLHrXdchvI9jsI5XA7/3UqE+4pgBD40d+9DWdyRkKeXfMMO9lmkp21jOKC8afWcK0NW5qzYTjp+JEJ6ymZA==";
+        name = "_intlify_vue_i18n_loader___vue_i18n_loader_5.0.1.tgz";
+        url = "https://registry.yarnpkg.com/@intlify/vue-i18n-loader/-/vue-i18n-loader-5.0.1.tgz";
+        sha512 = "z1dFLsR5YsEbA7+zqd8C3lvBOr6DWMMyUdX3Y42e+6Y5cL8uE55uQfdjUDbhQe7R6YlZT7ZDaIXoIGyoFaJDNg==";
       };
     }
     {
@@ -6269,14 +6269,6 @@
         name = "https___registry.npmjs.org_json5___json5_0.5.1.tgz";
         url = "https://registry.npmjs.org/json5/-/json5-0.5.1.tgz";
         sha512 = "4xrs1aW+6N5DalkqSVA8fxh458CXvR99WU8WLKmq4v8eWAL86Xo3BVqyd3SkA9wEVjCMqyvvRRkshAdOnBp5rw==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org_json5___json5_1.0.1.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_json5___json5_1.0.1.tgz";
-        url = "https://registry.npmjs.org/json5/-/json5-1.0.1.tgz";
-        sha512 = "aKS4WQjPenRxiQsC93MNfjx+nbF4PAdYzmd/1JIj8HYzqfbu86beTuNgXDzPknWk0n0uARlyewZo4s++ES36Ow==";
       };
     }
     {
