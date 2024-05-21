@@ -136,22 +136,6 @@
       };
     }
     {
-      name = "https___registry.npmjs.org__babel_helper_define_polyfill_provider___helper_define_polyfill_provider_0.3.2.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org__babel_helper_define_polyfill_provider___helper_define_polyfill_provider_0.3.2.tgz";
-        url = "https://registry.npmjs.org/@babel/helper-define-polyfill-provider/-/helper-define-polyfill-provider-0.3.2.tgz";
-        sha512 = "r9QJJ+uDWrd+94BSPcP6/de67ygLtvVy6cK4luE6MOuDsZIdoaPBnfSpbO/+LTifjPckbKXRuI9BB/Z2/y3iTg==";
-      };
-    }
-    {
-      name = "_babel_helper_define_polyfill_provider___helper_define_polyfill_provider_0.3.3.tgz";
-      path = fetchurl {
-        name = "_babel_helper_define_polyfill_provider___helper_define_polyfill_provider_0.3.3.tgz";
-        url = "https://registry.yarnpkg.com/@babel/helper-define-polyfill-provider/-/helper-define-polyfill-provider-0.3.3.tgz";
-        sha512 = "z5aQKU4IzbqCC1XH0nAqfsFLMVSo22SBKUc0BxGrLkolTdPTructy0ToNnlO2zA4j9Q/7pjMZf0DSY+DSTYzww==";
-      };
-    }
-    {
       name = "_babel_helper_define_polyfill_provider___helper_define_polyfill_provider_0.6.2.tgz";
       path = fetchurl {
         name = "_babel_helper_define_polyfill_provider___helper_define_polyfill_provider_0.6.2.tgz";
@@ -189,14 +173,6 @@
         name = "_babel_helper_member_expression_to_functions___helper_member_expression_to_functions_7.24.5.tgz";
         url = "https://registry.yarnpkg.com/@babel/helper-member-expression-to-functions/-/helper-member-expression-to-functions-7.24.5.tgz";
         sha512 = "4owRteeihKWKamtqg4JmWSsEZU445xpFRXPEwp44HbgbxdWlUV1b4Agg4lkA806Lil5XM/e+FJyS0vj5T6vmcA==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org__babel_helper_module_imports___helper_module_imports_7.18.6.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org__babel_helper_module_imports___helper_module_imports_7.18.6.tgz";
-        url = "https://registry.npmjs.org/@babel/helper-module-imports/-/helper-module-imports-7.18.6.tgz";
-        sha512 = "0NFvs3VkuSYbFi1x2Vd6tKrywq+z/cLeYC/RJNFrIX/30Bf5aiGYbtvGXolEktzJH8o5E5KJ3tT+nkxuuZFVlA==";
       };
     }
     {
@@ -848,11 +824,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org__babel_plugin_transform_runtime___plugin_transform_runtime_7.17.0.tgz";
+      name = "_babel_plugin_transform_runtime___plugin_transform_runtime_7.24.3.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org__babel_plugin_transform_runtime___plugin_transform_runtime_7.17.0.tgz";
-        url = "https://registry.npmjs.org/@babel/plugin-transform-runtime/-/plugin-transform-runtime-7.17.0.tgz";
-        sha512 = "fr7zPWnKXNc1xoHfrIU9mN/4XKX4VLZ45Q+oMhfsYIaHvg7mHgmhfOy/ckRWqDK7XF3QDigRpkh5DKq6+clE8A==";
+        name = "_babel_plugin_transform_runtime___plugin_transform_runtime_7.24.3.tgz";
+        url = "https://registry.yarnpkg.com/@babel/plugin-transform-runtime/-/plugin-transform-runtime-7.24.3.tgz";
+        sha512 = "J0BuRPNlNqlMTRJ72eVptpt9VcInbxO6iP3jaxr+1NPhC0UkKL+6oeX6VXMEYdADnuqmMmsBspt4d5w8Y/TCbQ==";
       };
     }
     {
@@ -2432,14 +2408,6 @@
       };
     }
     {
-      name = "babel_plugin_polyfill_corejs2___babel_plugin_polyfill_corejs2_0.3.3.tgz";
-      path = fetchurl {
-        name = "babel_plugin_polyfill_corejs2___babel_plugin_polyfill_corejs2_0.3.3.tgz";
-        url = "https://registry.yarnpkg.com/babel-plugin-polyfill-corejs2/-/babel-plugin-polyfill-corejs2-0.3.3.tgz";
-        sha512 = "8hOdmFYFSZhqg2C/JgLUQ+t52o5nirNwaWM2B9LWteozwIvM14VSwdsCAUET10qT+kmySAlseadmfeeSWFCy+Q==";
-      };
-    }
-    {
       name = "babel_plugin_polyfill_corejs2___babel_plugin_polyfill_corejs2_0.4.11.tgz";
       path = fetchurl {
         name = "babel_plugin_polyfill_corejs2___babel_plugin_polyfill_corejs2_0.4.11.tgz";
@@ -2453,22 +2421,6 @@
         name = "babel_plugin_polyfill_corejs3___babel_plugin_polyfill_corejs3_0.10.4.tgz";
         url = "https://registry.yarnpkg.com/babel-plugin-polyfill-corejs3/-/babel-plugin-polyfill-corejs3-0.10.4.tgz";
         sha512 = "25J6I8NGfa5YkCDogHRID3fVCadIR8/pGl1/spvCkzb6lVn6SR3ojpx9nOn9iEBcUsjY24AmdKm5khcfKdylcg==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org_babel_plugin_polyfill_corejs3___babel_plugin_polyfill_corejs3_0.5.3.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_babel_plugin_polyfill_corejs3___babel_plugin_polyfill_corejs3_0.5.3.tgz";
-        url = "https://registry.npmjs.org/babel-plugin-polyfill-corejs3/-/babel-plugin-polyfill-corejs3-0.5.3.tgz";
-        sha512 = "zKsXDh0XjnrUEW0mxIHLfjBfnXSMr5Q/goMe/fxpQnLm07mcOZiIZHBNWCMx60HmdvjxfXcalac0tfFg0wqxyw==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org_babel_plugin_polyfill_regenerator___babel_plugin_polyfill_regenerator_0.3.1.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_babel_plugin_polyfill_regenerator___babel_plugin_polyfill_regenerator_0.3.1.tgz";
-        url = "https://registry.npmjs.org/babel-plugin-polyfill-regenerator/-/babel-plugin-polyfill-regenerator-0.3.1.tgz";
-        sha512 = "Y2B06tvgHYt1x0yz17jGkGeeMr5FeKUu+ASJ+N6nB5lQ8Dapfg42i0OVrf8PNGJ3zKL4A23snMi1IRwrqqND7A==";
       };
     }
     {
