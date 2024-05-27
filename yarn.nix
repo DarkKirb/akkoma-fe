@@ -2560,11 +2560,11 @@
       };
     }
     {
-      name = "blurhash___blurhash_2.0.4.tgz";
+      name = "blurhash___blurhash_2.0.5.tgz";
       path = fetchurl {
-        name = "blurhash___blurhash_2.0.4.tgz";
-        url = "https://registry.yarnpkg.com/blurhash/-/blurhash-2.0.4.tgz";
-        sha512 = "r/As72u2FbucLoK5NTegM/GucxJc3d8GvHc4ngo13IO/nt2HU4gONxNLq1XPN6EM/V8Y9URIa7PcSz2RZu553A==";
+        name = "blurhash___blurhash_2.0.5.tgz";
+        url = "https://registry.yarnpkg.com/blurhash/-/blurhash-2.0.5.tgz";
+        sha512 = "cRygWd7kGBQO3VEhPiTgq4Wc43ctsM+o46urrmPOiuAe+07fzlSB9OJVdpgDL0jPqXUVQ9ht7aq7kxOeJHRK+w==";
       };
     }
     {
@@ -3312,11 +3312,11 @@
       };
     }
     {
-      name = "css_loader___css_loader_7.1.1.tgz";
+      name = "css_loader___css_loader_7.1.2.tgz";
       path = fetchurl {
-        name = "css_loader___css_loader_7.1.1.tgz";
-        url = "https://registry.yarnpkg.com/css-loader/-/css-loader-7.1.1.tgz";
-        sha512 = "OxIR5P2mjO1PSXk44bWuQ8XtMK4dpEqpIyERCx3ewOo3I8EmbcxMPUc5ScLtQfgXtOojoMv57So4V/C02HQLsw==";
+        name = "css_loader___css_loader_7.1.2.tgz";
+        url = "https://registry.yarnpkg.com/css-loader/-/css-loader-7.1.2.tgz";
+        sha512 = "6WvYYn7l/XEGN8Xu2vWFt9nVzrCn39vKyTEFf/ExEyoksJjjSZV/0/35XPlMbpnr6VGhZIUg5yJrL8tGfes/FA==";
       };
     }
     {
@@ -6288,11 +6288,11 @@
       };
     }
     {
-      name = "jxl.js___jxl.js_1.0.0.tgz";
+      name = "jxl.js___jxl.js_1.0.3.tgz";
       path = fetchurl {
-        name = "jxl.js___jxl.js_1.0.0.tgz";
-        url = "https://registry.yarnpkg.com/jxl.js/-/jxl.js-1.0.0.tgz";
-        sha512 = "1br2vK02/9nYAbIEdrt7Qe6uRk5e+S0TGoRxUlxnGpXJYARfhFAfFHHArcQYjU4WMPNjLPci4oXBNsEUFVdEEQ==";
+        name = "jxl.js___jxl.js_1.0.3.tgz";
+        url = "https://registry.yarnpkg.com/jxl.js/-/jxl.js-1.0.3.tgz";
+        sha512 = "5Qsj6MzH7Y+OUxX6AkC/0XPlu8eeIbaVpFCXw7wTk6w/e+bRip5Npu5NtYGD8wPP6Tv51X431T2girrafx/PpQ==";
       };
     }
     {
@@ -7072,11 +7072,11 @@
       };
     }
     {
-      name = "nightwatch___nightwatch_3.6.2.tgz";
+      name = "nightwatch___nightwatch_3.6.3.tgz";
       path = fetchurl {
-        name = "nightwatch___nightwatch_3.6.2.tgz";
-        url = "https://registry.yarnpkg.com/nightwatch/-/nightwatch-3.6.2.tgz";
-        sha512 = "tZmEtHovzdycGtCF1299W3wABcqirXCEgKR1w+2dU+lwsTt0ujNlM6FdPy5FJJRnYNu/Hfal8wDiXP0PuI78xw==";
+        name = "nightwatch___nightwatch_3.6.3.tgz";
+        url = "https://registry.yarnpkg.com/nightwatch/-/nightwatch-3.6.3.tgz";
+        sha512 = "Md+Tz9SBNZ8cVzaRyhzzfKf06t/qE5609QMQ2vEciLwDiDkQPsTU6XZGypwldMxx05wu4UcPvDZnP7NZXlZilw==";
       };
     }
     {
@@ -8552,11 +8552,11 @@
       };
     }
     {
-      name = "selenium_webdriver___selenium_webdriver_4.20.0.tgz";
+      name = "selenium_webdriver___selenium_webdriver_4.21.0.tgz";
       path = fetchurl {
-        name = "selenium_webdriver___selenium_webdriver_4.20.0.tgz";
-        url = "https://registry.yarnpkg.com/selenium-webdriver/-/selenium-webdriver-4.20.0.tgz";
-        sha512 = "s/G44lGQ1xB3tmtX6NNPomlkpL6CxLdmAvp/AGWWwi4qv5Te1+qji7tPSyr6gyuoPpdYiof1rKnWe3luy0MrYA==";
+        name = "selenium_webdriver___selenium_webdriver_4.21.0.tgz";
+        url = "https://registry.yarnpkg.com/selenium-webdriver/-/selenium-webdriver-4.21.0.tgz";
+        sha512 = "WaEJHZjOWNth1QG5FEpxpREER0qptZBMonFU6GtAqdCNLJVxbtC3E7oS/I/+Q1sf1W032Wg0Ebk+m46lANOXyQ==";
       };
     }
     {

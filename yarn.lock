@@ -2508,10 +2508,10 @@ bl@^4.0.3, bl@^4.1.0:
     inherits "^2.0.4"
     readable-stream "^3.4.0"
 
-blurhash@^2.0.4:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/blurhash/-/blurhash-2.0.4.tgz#60642a823b50acaaf3732ddb6c7dfd721bdfef2a"
-  integrity sha512-r/As72u2FbucLoK5NTegM/GucxJc3d8GvHc4ngo13IO/nt2HU4gONxNLq1XPN6EM/V8Y9URIa7PcSz2RZu553A==
+blurhash@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/blurhash/-/blurhash-2.0.5.tgz#efde729fc14a2f03571a6aa91b49cba80d1abe4b"
+  integrity sha512-cRygWd7kGBQO3VEhPiTgq4Wc43ctsM+o46urrmPOiuAe+07fzlSB9OJVdpgDL0jPqXUVQ9ht7aq7kxOeJHRK+w==
 
 body-parser@1.20.2, body-parser@^1.19.0:
   version "1.20.2"
@@ -3160,10 +3160,10 @@ css-functions-list@^3.1.0:
   resolved "https://registry.yarnpkg.com/css-functions-list/-/css-functions-list-3.1.0.tgz#cf5b09f835ad91a00e5959bcfc627cd498e1321b"
   integrity sha512-/9lCvYZaUbBGvYUgYGFJ4dcYiyqdhSjG7IPVluoV8A1ILjkF7ilmhp1OGUz8n+nmBcu0RNrQAzgD8B6FJbrt2w==
 
-css-loader@^7.1.1:
-  version "7.1.1"
-  resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-7.1.1.tgz#de4163c0cb765c03d7957eb9e0a49c7f354948c7"
-  integrity sha512-OxIR5P2mjO1PSXk44bWuQ8XtMK4dpEqpIyERCx3ewOo3I8EmbcxMPUc5ScLtQfgXtOojoMv57So4V/C02HQLsw==
+css-loader@^7.1.2:
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-7.1.2.tgz#64671541c6efe06b0e22e750503106bdd86880f8"
+  integrity sha512-6WvYYn7l/XEGN8Xu2vWFt9nVzrCn39vKyTEFf/ExEyoksJjjSZV/0/35XPlMbpnr6VGhZIUg5yJrL8tGfes/FA==
   dependencies:
     icss-utils "^5.1.0"
     postcss "^8.4.33"
@@ -5912,10 +5912,10 @@ jszip@^3.10.1:
     readable-stream "~2.3.6"
     setimmediate "^1.0.5"
 
-jxl.js@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/jxl.js/-/jxl.js-1.0.0.tgz#e2c78e5c135d7d272c0d36f86b7f79de6f4b40b3"
-  integrity sha512-1br2vK02/9nYAbIEdrt7Qe6uRk5e+S0TGoRxUlxnGpXJYARfhFAfFHHArcQYjU4WMPNjLPci4oXBNsEUFVdEEQ==
+jxl.js@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/jxl.js/-/jxl.js-1.0.3.tgz#553069f8bb411ff73c88cf9410b9c63ffefb077c"
+  integrity sha512-5Qsj6MzH7Y+OUxX6AkC/0XPlu8eeIbaVpFCXw7wTk6w/e+bRip5Npu5NtYGD8wPP6Tv51X431T2girrafx/PpQ==
 
 karma-coverage@2.2.1:
   version "2.2.1"
@@ -6607,10 +6607,10 @@ nightwatch-axe-verbose@^2.3.0:
   dependencies:
     axe-core "^4.8.3"
 
-nightwatch@3.6.2:
-  version "3.6.2"
-  resolved "https://registry.yarnpkg.com/nightwatch/-/nightwatch-3.6.2.tgz#a063a0f9081a18207892e727e759c5795580f96c"
-  integrity sha512-tZmEtHovzdycGtCF1299W3wABcqirXCEgKR1w+2dU+lwsTt0ujNlM6FdPy5FJJRnYNu/Hfal8wDiXP0PuI78xw==
+nightwatch@3.6.3:
+  version "3.6.3"
+  resolved "https://registry.yarnpkg.com/nightwatch/-/nightwatch-3.6.3.tgz#b7cec85683f9e595c855d7aaa4176c428ad91168"
+  integrity sha512-Md+Tz9SBNZ8cVzaRyhzzfKf06t/qE5609QMQ2vEciLwDiDkQPsTU6XZGypwldMxx05wu4UcPvDZnP7NZXlZilw==
   dependencies:
     "@nightwatch/chai" "5.0.3"
     "@nightwatch/html-reporter-template" "^0.3.0"
@@ -6640,7 +6640,7 @@ nightwatch@3.6.2:
     open "8.4.2"
     ora "5.4.1"
     piscina "^4.3.1"
-    selenium-webdriver "4.20.0"
+    selenium-webdriver "4.21.0"
     semver "7.5.4"
     stacktrace-parser "0.1.10"
     strip-ansi "6.0.1"
@@ -7925,10 +7925,10 @@ selenium-server@3.141.59:
   resolved "https://registry.yarnpkg.com/selenium-server/-/selenium-server-3.141.59.tgz#cbefdf50aae636ee4c67b819532a8233ce3fd6b0"
   integrity sha512-pL7T1YtAqOEXiBbTx0KdZMkE2U7PYucemd7i0nDLcxcR1APXYZlJfNr5hrvL3mZgwXb7AJEZPINzC6mDU3eP5g==
 
-selenium-webdriver@4.20.0:
-  version "4.20.0"
-  resolved "https://registry.yarnpkg.com/selenium-webdriver/-/selenium-webdriver-4.20.0.tgz#14941ab4a59e8956a5e4b4491a8ba2bd6619d1ac"
-  integrity sha512-s/G44lGQ1xB3tmtX6NNPomlkpL6CxLdmAvp/AGWWwi4qv5Te1+qji7tPSyr6gyuoPpdYiof1rKnWe3luy0MrYA==
+selenium-webdriver@4.21.0:
+  version "4.21.0"
+  resolved "https://registry.yarnpkg.com/selenium-webdriver/-/selenium-webdriver-4.21.0.tgz#d38aebfc34770421a880afcfdb7bd8fe85ce9174"
+  integrity sha512-WaEJHZjOWNth1QG5FEpxpREER0qptZBMonFU6GtAqdCNLJVxbtC3E7oS/I/+Q1sf1W032Wg0Ebk+m46lANOXyQ==
   dependencies:
     jszip "^3.10.1"
     tmp "^0.2.3"
