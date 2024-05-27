@@ -6288,11 +6288,11 @@
       };
     }
     {
-      name = "jxl.js___jxl.js_1.0.0.tgz";
+      name = "jxl.js___jxl.js_1.0.3.tgz";
       path = fetchurl {
-        name = "jxl.js___jxl.js_1.0.0.tgz";
-        url = "https://registry.yarnpkg.com/jxl.js/-/jxl.js-1.0.0.tgz";
-        sha512 = "1br2vK02/9nYAbIEdrt7Qe6uRk5e+S0TGoRxUlxnGpXJYARfhFAfFHHArcQYjU4WMPNjLPci4oXBNsEUFVdEEQ==";
+        name = "jxl.js___jxl.js_1.0.3.tgz";
+        url = "https://registry.yarnpkg.com/jxl.js/-/jxl.js-1.0.3.tgz";
+        sha512 = "5Qsj6MzH7Y+OUxX6AkC/0XPlu8eeIbaVpFCXw7wTk6w/e+bRip5Npu5NtYGD8wPP6Tv51X431T2girrafx/PpQ==";
       };
     }
     {
