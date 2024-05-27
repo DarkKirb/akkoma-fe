@@ -2560,11 +2560,11 @@
       };
     }
     {
-      name = "blurhash___blurhash_2.0.4.tgz";
+      name = "blurhash___blurhash_2.0.5.tgz";
       path = fetchurl {
-        name = "blurhash___blurhash_2.0.4.tgz";
-        url = "https://registry.yarnpkg.com/blurhash/-/blurhash-2.0.4.tgz";
-        sha512 = "r/As72u2FbucLoK5NTegM/GucxJc3d8GvHc4ngo13IO/nt2HU4gONxNLq1XPN6EM/V8Y9URIa7PcSz2RZu553A==";
+        name = "blurhash___blurhash_2.0.5.tgz";
+        url = "https://registry.yarnpkg.com/blurhash/-/blurhash-2.0.5.tgz";
+        sha512 = "cRygWd7kGBQO3VEhPiTgq4Wc43ctsM+o46urrmPOiuAe+07fzlSB9OJVdpgDL0jPqXUVQ9ht7aq7kxOeJHRK+w==";
       };
     }
     {
