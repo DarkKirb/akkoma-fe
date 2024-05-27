@@ -7072,11 +7072,11 @@
       };
     }
     {
-      name = "nightwatch___nightwatch_3.6.2.tgz";
+      name = "nightwatch___nightwatch_3.6.3.tgz";
       path = fetchurl {
-        name = "nightwatch___nightwatch_3.6.2.tgz";
-        url = "https://registry.yarnpkg.com/nightwatch/-/nightwatch-3.6.2.tgz";
-        sha512 = "tZmEtHovzdycGtCF1299W3wABcqirXCEgKR1w+2dU+lwsTt0ujNlM6FdPy5FJJRnYNu/Hfal8wDiXP0PuI78xw==";
+        name = "nightwatch___nightwatch_3.6.3.tgz";
+        url = "https://registry.yarnpkg.com/nightwatch/-/nightwatch-3.6.3.tgz";
+        sha512 = "Md+Tz9SBNZ8cVzaRyhzzfKf06t/qE5609QMQ2vEciLwDiDkQPsTU6XZGypwldMxx05wu4UcPvDZnP7NZXlZilw==";
       };
     }
     {
@@ -8552,11 +8552,11 @@
       };
     }
     {
-      name = "selenium_webdriver___selenium_webdriver_4.20.0.tgz";
+      name = "selenium_webdriver___selenium_webdriver_4.21.0.tgz";
       path = fetchurl {
-        name = "selenium_webdriver___selenium_webdriver_4.20.0.tgz";
-        url = "https://registry.yarnpkg.com/selenium-webdriver/-/selenium-webdriver-4.20.0.tgz";
-        sha512 = "s/G44lGQ1xB3tmtX6NNPomlkpL6CxLdmAvp/AGWWwi4qv5Te1+qji7tPSyr6gyuoPpdYiof1rKnWe3luy0MrYA==";
+        name = "selenium_webdriver___selenium_webdriver_4.21.0.tgz";
+        url = "https://registry.yarnpkg.com/selenium-webdriver/-/selenium-webdriver-4.21.0.tgz";
+        sha512 = "WaEJHZjOWNth1QG5FEpxpREER0qptZBMonFU6GtAqdCNLJVxbtC3E7oS/I/+Q1sf1W032Wg0Ebk+m46lANOXyQ==";
       };
     }
     {
