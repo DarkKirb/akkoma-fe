@@ -34,7 +34,7 @@
     "escape-html": "1.0.3",
     "iso-639-1": "^2.1.15",
     "js-cookie": "^3.0.5",
-    "jxl.js": "^1.0.0",
+    "jxl.js": "^1.0.3",
     "localforage": "1.10.0",
     "parse-link-header": "^2.0.0",
     "phoenix": "1.7.12",

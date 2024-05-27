@@ -5912,10 +5912,10 @@ jszip@^3.10.1:
     readable-stream "~2.3.6"
     setimmediate "^1.0.5"
 
-jxl.js@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/jxl.js/-/jxl.js-1.0.0.tgz#e2c78e5c135d7d272c0d36f86b7f79de6f4b40b3"
-  integrity sha512-1br2vK02/9nYAbIEdrt7Qe6uRk5e+S0TGoRxUlxnGpXJYARfhFAfFHHArcQYjU4WMPNjLPci4oXBNsEUFVdEEQ==
+jxl.js@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/jxl.js/-/jxl.js-1.0.3.tgz#553069f8bb411ff73c88cf9410b9c63ffefb077c"
+  integrity sha512-5Qsj6MzH7Y+OUxX6AkC/0XPlu8eeIbaVpFCXw7wTk6w/e+bRip5Npu5NtYGD8wPP6Tv51X431T2girrafx/PpQ==
 
 karma-coverage@2.2.1:
   version "2.2.1"
