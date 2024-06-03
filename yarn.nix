@@ -1152,11 +1152,11 @@
       };
     }
     {
-      name = "https___registry.npmjs.org__fortawesome_free_solid_svg_icons___free_solid_svg_icons_6.2.0.tgz";
+      name = "_fortawesome_free_solid_svg_icons___free_solid_svg_icons_6.5.2.tgz";
       path = fetchurl {
-        name = "https___registry.npmjs.org__fortawesome_free_solid_svg_icons___free_solid_svg_icons_6.2.0.tgz";
-        url = "https://registry.npmjs.org/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-6.2.0.tgz";
-        sha512 = "UjCILHIQ4I8cN46EiQn0CZL/h8AwCGgR//1c4R96Q5viSRwuKVo0NdQEc4bm+69ZwC0dUvjbDqAHF1RR5FA3XA==";
+        name = "_fortawesome_free_solid_svg_icons___free_solid_svg_icons_6.5.2.tgz";
+        url = "https://registry.yarnpkg.com/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-6.5.2.tgz";
+        sha512 = "QWFZYXFE7O1Gr1dTIp+D6UcFUF0qElOnZptpi7PBUMylJh+vFmIedVe1Ir6RM1t2tEQLLSV1k7bR4o92M+uqlw==";
       };
     }
     {
