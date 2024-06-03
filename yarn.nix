@@ -3008,11 +3008,11 @@
       };
     }
     {
-      name = "chromedriver___chromedriver_124.0.2.tgz";
+      name = "chromedriver___chromedriver_125.0.3.tgz";
       path = fetchurl {
-        name = "chromedriver___chromedriver_124.0.2.tgz";
-        url = "https://registry.yarnpkg.com/chromedriver/-/chromedriver-124.0.2.tgz";
-        sha512 = "TIcIH7tp81qGCWNprQMnmUm15zGUvX/39IiBy3JJMH/UFiimf2lqiWhdQ6LtbnW8BsPFFuEhEfnI733YXg8mxg==";
+        name = "chromedriver___chromedriver_125.0.3.tgz";
+        url = "https://registry.yarnpkg.com/chromedriver/-/chromedriver-125.0.3.tgz";
+        sha512 = "Qzuk5Wian2o3EVGjtbz6V/jv+pT/AV9246HbG6kUljZXXjsKZLZxqJC+kHR3qEh/wdv4EJD0YwAOWV72v9hogw==";
       };
     }
     {
