@@ -4184,11 +4184,11 @@
       };
     }
     {
-      name = "eslint_plugin_promise___eslint_plugin_promise_6.1.1.tgz";
+      name = "eslint_plugin_promise___eslint_plugin_promise_6.2.0.tgz";
       path = fetchurl {
-        name = "eslint_plugin_promise___eslint_plugin_promise_6.1.1.tgz";
-        url = "https://registry.yarnpkg.com/eslint-plugin-promise/-/eslint-plugin-promise-6.1.1.tgz";
-        sha512 = "tjqWDwVZQo7UIPMeDReOpUgHCmCiH+ePnVT+5zVapL0uuHnegBUs2smM13CzOs2Xb5+MHMRFTs9v24yjba4Oig==";
+        name = "eslint_plugin_promise___eslint_plugin_promise_6.2.0.tgz";
+        url = "https://registry.yarnpkg.com/eslint-plugin-promise/-/eslint-plugin-promise-6.2.0.tgz";
+        sha512 = "QmAqwizauvnKOlifxyDj2ObfULpHQawlg/zQdgEixur9vl0CvZGv/LCJV2rtj3210QCoeGBzVMfMXqGAOr/4fA==";
       };
     }
     {
