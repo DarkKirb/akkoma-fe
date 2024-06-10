@@ -4856,14 +4856,6 @@
       };
     }
     {
-      name = "https___registry.npmjs.org_function_bind___function_bind_1.1.1.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_function_bind___function_bind_1.1.1.tgz";
-        url = "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz";
-        sha512 = "yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==";
-      };
-    }
-    {
       name = "function_bind___function_bind_1.1.2.tgz";
       path = fetchurl {
         name = "function_bind___function_bind_1.1.2.tgz";
