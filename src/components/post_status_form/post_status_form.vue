@@ -118,8 +118,8 @@
           />
         </div>
         <EmojiInput
-          ref="subject-emoji-input"
           v-if="subjectVisible"
+          ref="subject-emoji-input"
           v-model="newStatus.spoilerText"
           enable-emoji-picker
           hide-emoji-button
@@ -170,7 +170,7 @@
             cols="1"
             :disabled="posting && !optimisticPosting"
             class="form-post-body"
-            :class="{ 'scrollable-form': !!maxHeight }"
+            :class="{ 'scrollable-form': !!maxHeight, '-has-subject': subjectVisible }"
             @keydown.exact.enter="submitOnEnter && postStatus($event, newStatus)"
             @keydown.meta.enter="postStatus($event, newStatus)"
             @keydown.ctrl.enter="!submitOnEnter && postStatus($event, newStatus)"
@@ -190,6 +190,7 @@
         <div
           v-if="!disableScopeSelector"
           class="visibility-tray"
+          :class="{ 'visibility-tray-edit': isEdit }"
         >
           <scope-selector
             v-if="!disableVisibilitySelector"
@@ -200,47 +201,50 @@
           />
 
           <div
-            class="language-selector"
-            >
-            <Select
-              id="post-language"
-              v-model="newStatus.language"
-              class="form-control"
-            >
-              <option
-                v-for="language in postLanguageOptions"
-                :key="language.key"
-                :value="language.value"
+            class="format-selector-container">
+            <div
+              class="format-selector"
               >
-                {{ language.label }}
-              </option>
-            </Select>
-          </div>
-          <div
-            v-if="postFormats.length > 1"
-            class="text-format"
-          >
-            <Select
-              id="post-content-type"
-              v-model="newStatus.contentType"
-              class="form-control"
-            >
-              <option
-                v-for="postFormat in postFormats"
-                :key="postFormat"
-                :value="postFormat"
+              <Select
+                id="post-language"
+                v-model="newStatus.language"
+                class="form-control"
               >
-                {{ $t(`post_status.content_type["${postFormat}"]`) }}
-              </option>
-            </Select>
-          </div>
-          <div
-            v-if="postFormats.length === 1 && postFormats[0] !== 'text/plain'"
-            class="text-format"
-          >
-            <span class="only-format">
-              {{ $t(`post_status.content_type["${postFormats[0]}"]`) }}
-            </span>
+                <option
+                  v-for="language in postLanguageOptions"
+                  :key="language.key"
+                  :value="language.value"
+                >
+                  {{ language.label }}
+                </option>
+              </Select>
+            </div>
+            <div
+              v-if="postFormats.length > 1"
+              class="text-format format-selector"
+            >
+              <Select
+                id="post-content-type"
+                v-model="newStatus.contentType"
+                class="form-control"
+              >
+                <option
+                  v-for="postFormat in postFormats"
+                  :key="postFormat"
+                  :value="postFormat"
+                >
+                  {{ $t(`post_status.content_type["${postFormat}"]`) }}
+                </option>
+              </Select>
+            </div>
+            <div
+              v-if="postFormats.length === 1 && postFormats[0] !== 'text/plain'"
+              class="text-format format-selector"
+            >
+              <span class="only-format">
+                {{ $t(`post_status.content_type["${postFormats[0]}"]`) }}
+              </span>
+            </div>
           </div>
         </div>
       </div>
@@ -460,6 +464,10 @@
     align-items: baseline;
   }
 
+  .visibility-tray-edit {
+    justify-content: right;
+  }
+
   .visibility-notice.edit-warning {
     > :first-child {
       margin-top: 0;
@@ -467,6 +475,12 @@
 
     > :last-child {
       margin-bottom: 0;
+    }
+  }
+
+  .format-selector-container {
+    .format-selector {
+      display: inline-block;
     }
   }
 
@@ -570,6 +584,11 @@
     line-height: 1.85;
   }
 
+  .form-post-subject {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
   .form-post-body {
     // TODO: make a resizable textarea component?
     box-sizing: content-box; // needed for easier computation of dynamic size
@@ -581,6 +600,11 @@
     height: calc(var(--post-line-height) * 1em);
     min-height: calc(var(--post-line-height) * 1em);
     resize: none;
+
+    &.-has-subject {
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+    }
 
     &.scrollable-form {
       overflow-y: auto;

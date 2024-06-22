@@ -51,7 +51,7 @@
 
             configurePhase = ''
               cp -r $node_modules node_modules
-              for f in $(find node_modules/jxl.js -type f); do chmod -v +w $f; done
+              chmod -R +w node_modules
               for f in $(find node_modules/jxl.js -type l);do cp -rv --remove-destination $(readlink $f) $f;done;
             '';
 
@@ -59,7 +59,10 @@
               export NODE_OPTIONS=--openssl-legacy-provider
               yarn build --offline
             '';
-            installPhase = "cp -rv dist $out";
+            installPhase = ''
+              cp -rv dist $out
+              chmod +r $out/sw-pleroma.js # just to get it to fail when the build fails
+            '';
             distPhase = ''
               # (Losslessly) optimise compression of image artifacts
               find $out -type f -name '*.jpg' -execdir ${jpegoptim}/bin/jpegoptim -w$NIX_BUILD_CORES {} \;

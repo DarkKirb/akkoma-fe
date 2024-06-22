@@ -5,6 +5,7 @@ var projectRoot = path.resolve(__dirname, '../')
 const CopyPlugin = require("copy-webpack-plugin");
 const WriteFilePlugin = require("write-file-webpack-plugin");
 var { VueLoaderPlugin } = require('vue-loader')
+const ESLintPlugin = require('eslint-webpack-plugin');
 
 var env = process.env.NODE_ENV
 // check env & config/index.js to decide weither to enable CSS Sourcemaps for the
@@ -37,6 +38,7 @@ module.exports = {
     ],
     fallback: {
       "url": require.resolve("url/"),
+      querystring: require.resolve("querystring-es3")
     },
     alias: {
       'static': path.resolve(__dirname, '../static'),
@@ -50,20 +52,6 @@ module.exports = {
     noParse: /node_modules\/localforage\/dist\/localforage.js/,
     rules: [
       {
-        enforce: 'pre',
-        test: /\.(js|vue)$/,
-        include: projectRoot,
-        exclude: /node_modules/,
-        use: {
-          loader: 'eslint-loader',
-          options: {
-            formatter: require('eslint-friendly-formatter'),
-            sourceMap: config.build.productionSourceMap,
-            extract: true
-          }
-        }
-      },
-      {
         enforce: 'post',
         test: /\.(json5?|ya?ml)$/, // target json, json5, yaml and yml files
         type: 'javascript/auto',
@@ -73,9 +61,9 @@ module.exports = {
         ]
       },
       {
-          test: /\.mjs$/,
-          include: /node_modules/,
-          type: "javascript/auto"
+        test: /\.mjs$/,
+        include: /node_modules/,
+        type: "javascript/auto"
       },
       {
         test: /\.vue$/,
@@ -128,6 +116,8 @@ module.exports = {
         }
       ]
     }),
-    new WriteFilePlugin()
+    new ESLintPlugin({
+      configType: 'flat'
+    })
   ]
 }
