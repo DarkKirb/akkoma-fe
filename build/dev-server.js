@@ -5,10 +5,14 @@ var path = require('path')
 var express = require('express')
 var webpack = require('webpack')
 var opn = require('opn')
+require('shelljs/global')
 const { createProxyMiddleware } = require('http-proxy-middleware');
 var webpackConfig = process.env.NODE_ENV === 'testing'
   ? require('./webpack.prod.conf')
   : require('./webpack.dev.conf')
+
+sed('-i', /'jxl_dec.js/, "'/node_modules/jxl.js/jxl_dec.js", 'node_modules/jxl.js/jxl.js')
+sed('-i', /"jxl_dec.wasm/, '"/node_modules/jxl.js/jxl_dec.wasm', 'node_modules/jxl.js/jxl_dec.js')
 
 // default port where dev server listens for incoming traffic
 var port = process.env.PORT || config.dev.port

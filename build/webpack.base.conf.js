@@ -2,6 +2,8 @@ var path = require('path')
 var config = require('../config')
 var utils = require('./utils')
 var projectRoot = path.resolve(__dirname, '../')
+const CopyPlugin = require("copy-webpack-plugin");
+const WriteFilePlugin = require("write-file-webpack-plugin");
 var { VueLoaderPlugin } = require('vue-loader')
 const ESLintPlugin = require('eslint-webpack-plugin');
 
@@ -59,9 +61,9 @@ module.exports = {
         ]
       },
       {
-          test: /\.mjs$/,
-          include: /node_modules/,
-          type: "javascript/auto"
+        test: /\.mjs$/,
+        include: /node_modules/,
+        type: "javascript/auto"
       },
       {
         test: /\.vue$/,
@@ -107,6 +109,13 @@ module.exports = {
   },
   plugins: [
     new VueLoaderPlugin(),
+    new CopyPlugin({
+      patterns: [
+        {
+          from: "node_modules/jxl.js/jxl*"
+        }
+      ]
+    }),
     new ESLintPlugin({
       configType: 'flat'
     })
