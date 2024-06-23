@@ -7688,11 +7688,11 @@
       };
     }
     {
-      name = "phoenix___phoenix_1.7.12.tgz";
+      name = "phoenix___phoenix_1.7.14.tgz";
       path = fetchurl {
-        name = "phoenix___phoenix_1.7.12.tgz";
-        url = "https://registry.yarnpkg.com/phoenix/-/phoenix-1.7.12.tgz";
-        sha512 = "jo8sK7mVYTFSa5FITmL/1lAbARIJMcEMJrMPZtUdss1zE37VZBnCowpakH8sEzH0ezs+hIaXSyYPCwlzrvph+g==";
+        name = "phoenix___phoenix_1.7.14.tgz";
+        url = "https://registry.yarnpkg.com/phoenix/-/phoenix-1.7.14.tgz";
+        sha512 = "3tZ76PiH/2g+Kyzhz8+GIFYrnx3lRnwi/Qt3ZUH04xpMxXL7Guerd5aaxtpWal73X+H8iLAjo2c+AgRy2KYQcQ==";
       };
     }
     {
