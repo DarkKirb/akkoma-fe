@@ -8464,11 +8464,11 @@
       };
     }
     {
-      name = "rollup___rollup_2.79.1.tgz";
+      name = "rollup___rollup_2.79.2.tgz";
       path = fetchurl {
-        name = "rollup___rollup_2.79.1.tgz";
-        url = "https://registry.yarnpkg.com/rollup/-/rollup-2.79.1.tgz";
-        sha512 = "uKxbd0IhMZOhjAiD5oAFp7BqvkA4Dv47qpOCtaNvng4HBwdbWtdOh8f5nZNuk2rp51PMGk3bzfWu5oayNEuYnw==";
+        name = "rollup___rollup_2.79.2.tgz";
+        url = "https://registry.yarnpkg.com/rollup/-/rollup-2.79.2.tgz";
+        sha512 = "fS6iqSPZDs3dr/y7Od6y5nha8dW1YnbgtsyotCVvoFGKbERG++CVRFv1meyGDE1SNItQA8BrnCw7ScdAhRJ3XQ==";
       };
     }
     {
