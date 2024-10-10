@@ -1600,11 +1600,11 @@
       };
     }
     {
-      name = "_babel_register___register_7.24.6.tgz";
+      name = "_babel_register___register_7.25.7.tgz";
       path = fetchurl {
-        name = "_babel_register___register_7.24.6.tgz";
-        url = "https://registry.yarnpkg.com/@babel/register/-/register-7.24.6.tgz";
-        sha512 = "WSuFCc2wCqMeXkz/i3yfAAsxwWflEgbVkZzivgAmXl/MxrXeoYFZOOPllbC8R8WTF7u61wSRQtDVZ1879cdu6w==";
+        name = "_babel_register___register_7.25.7.tgz";
+        url = "https://registry.yarnpkg.com/@babel/register/-/register-7.25.7.tgz";
+        sha512 = "qHTd2Rhn/rKhSUwdY6+n98FmwXN+N+zxSVx3zWqRe9INyvTpv+aQ5gDV2+43ACd3VtMBzPPljbb0gZb8u5ma6Q==";
       };
     }
     {
