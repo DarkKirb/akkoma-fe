@@ -22,6 +22,9 @@ rm("-rf", assetsPath);
 mkdir("-p", assetsPath);
 cp("-R", "static/*", assetsPath);
 
+sed('-i', /'jxl_dec.js/, "'/node_modules/jxl.js/jxl_dec.js", 'node_modules/jxl.js/jxl.js')
+sed('-i', /"jxl_dec.wasm/, '"/node_modules/jxl.js/jxl_dec.wasm', 'node_modules/jxl.js/jxl_dec.js')
+
 webpack(webpackConfig, function (err, stats) {
   if (err) throw err;
   process.stdout.write(
