@@ -10032,11 +10032,11 @@
       };
     }
     {
-      name = "webpack_merge___webpack_merge_5.10.0.tgz";
+      name = "webpack_merge___webpack_merge_6.0.1.tgz";
       path = fetchurl {
-        name = "webpack_merge___webpack_merge_5.10.0.tgz";
-        url = "https://registry.yarnpkg.com/webpack-merge/-/webpack-merge-5.10.0.tgz";
-        sha512 = "+4zXKdx7UnO+1jaN4l2lHVD+mFvnlZQP/6ljaJVb4SZiwIKeUnrT5l0gkT8z+n4hKpC+jpOv6O9R+gLtag7pSA==";
+        name = "webpack_merge___webpack_merge_6.0.1.tgz";
+        url = "https://registry.yarnpkg.com/webpack-merge/-/webpack-merge-6.0.1.tgz";
+        sha512 = "hXXvrjtx2PLYx4qruKl+kyRSLc52V+cCvMxRjmKwoA+CBbbF5GfIBtR6kCvl0fYGqTUPKB+1ktVmTHqMOzgCBg==";
       };
     }
     {
