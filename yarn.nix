@@ -1616,19 +1616,11 @@
       };
     }
     {
-      name = "_babel_runtime___runtime_7.17.8.tgz";
+      name = "_babel_runtime___runtime_7.25.7.tgz";
       path = fetchurl {
-        name = "_babel_runtime___runtime_7.17.8.tgz";
-        url = "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.17.8.tgz";
-        sha512 = "dQpEpK0O9o6lj6oPu0gRDbbnk+4LeHlNcBpspf6Olzt3GIX4P1lWF1gS+pHLDFlaJvbR6q7jCfQ08zA4QJBnmA==";
-      };
-    }
-    {
-      name = "_babel_runtime___runtime_7.24.7.tgz";
-      path = fetchurl {
-        name = "_babel_runtime___runtime_7.24.7.tgz";
-        url = "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.24.7.tgz";
-        sha512 = "UwgBRMjJP+xv857DCngvqXI3Iq6J4v0wXmwc6sapg+zyhbwmQX67LUEFrkK5tbyJ30jGuG3ZvWpBiB9LCy1kWw==";
+        name = "_babel_runtime___runtime_7.25.7.tgz";
+        url = "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.25.7.tgz";
+        sha512 = "FjoyLe754PMiYsFaN5C94ttGiOmBNYTf6pLr4xXHAT5uctHb092PBszndLDR5XA/jghQvn4n7JMHl7dmTgbm9w==";
       };
     }
     {
@@ -8357,14 +8349,6 @@
         name = "regenerate___regenerate_1.4.2.tgz";
         url = "https://registry.yarnpkg.com/regenerate/-/regenerate-1.4.2.tgz";
         sha512 = "zrceR/XhGYU/d/opr2EKO7aRHUeiBI8qjtfHqADTwZd6Szfy16la6kqD0MIUs5z5hx6AaKa+PixpPrR289+I0A==";
-      };
-    }
-    {
-      name = "regenerator_runtime___regenerator_runtime_0.13.11.tgz";
-      path = fetchurl {
-        name = "regenerator_runtime___regenerator_runtime_0.13.11.tgz";
-        url = "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.11.tgz";
-        sha512 = "kY1AZVr2Ra+t+piVaJ4gxaFaReZVH40AKNo7UCX6W+dEwBo/2oZJzqfuN1qLq1oL45o56cPaTXELwrTh8Fpggg==";
       };
     }
     {
