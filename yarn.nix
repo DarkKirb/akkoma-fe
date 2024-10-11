@@ -1792,6 +1792,14 @@
       };
     }
     {
+      name = "_fortawesome_fontawesome_common_types___fontawesome_common_types_6.6.0.tgz";
+      path = fetchurl {
+        name = "_fortawesome_fontawesome_common_types___fontawesome_common_types_6.6.0.tgz";
+        url = "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.6.0.tgz";
+        sha512 = "xyX0X9mc0kyz9plIyryrRbl7ngsA9jz77mCZJsUkLl+ZKs0KWObgaEBoSgQiYWAsSmjz/yjl0F++Got0Mdp4Rw==";
+      };
+    }
+    {
       name = "_fortawesome_fontawesome_svg_core___fontawesome_svg_core_6.5.2.tgz";
       path = fetchurl {
         name = "_fortawesome_fontawesome_svg_core___fontawesome_svg_core_6.5.2.tgz";
@@ -1808,11 +1816,11 @@
       };
     }
     {
-      name = "_fortawesome_free_solid_svg_icons___free_solid_svg_icons_6.5.2.tgz";
+      name = "_fortawesome_free_solid_svg_icons___free_solid_svg_icons_6.6.0.tgz";
       path = fetchurl {
-        name = "_fortawesome_free_solid_svg_icons___free_solid_svg_icons_6.5.2.tgz";
-        url = "https://registry.yarnpkg.com/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-6.5.2.tgz";
-        sha512 = "QWFZYXFE7O1Gr1dTIp+D6UcFUF0qElOnZptpi7PBUMylJh+vFmIedVe1Ir6RM1t2tEQLLSV1k7bR4o92M+uqlw==";
+        name = "_fortawesome_free_solid_svg_icons___free_solid_svg_icons_6.6.0.tgz";
+        url = "https://registry.yarnpkg.com/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-6.6.0.tgz";
+        sha512 = "IYv/2skhEDFc2WGUcqvFJkeK39Q+HyPf5GHUrT/l2pKbtgEIv1al1TKd6qStR5OIwQdN1GZP54ci3y4mroJWjA==";
       };
     }
     {
