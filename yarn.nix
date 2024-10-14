@@ -1808,11 +1808,11 @@
       };
     }
     {
-      name = "_fortawesome_free_regular_svg_icons___free_regular_svg_icons_6.5.2.tgz";
+      name = "_fortawesome_free_regular_svg_icons___free_regular_svg_icons_6.6.0.tgz";
       path = fetchurl {
-        name = "_fortawesome_free_regular_svg_icons___free_regular_svg_icons_6.5.2.tgz";
-        url = "https://registry.yarnpkg.com/@fortawesome/free-regular-svg-icons/-/free-regular-svg-icons-6.5.2.tgz";
-        sha512 = "iabw/f5f8Uy2nTRtJ13XZTS1O5+t+anvlamJ3zJGLEVE2pKsAWhPv2lq01uQlfgCX7VaveT3EVs515cCN9jRbw==";
+        name = "_fortawesome_free_regular_svg_icons___free_regular_svg_icons_6.6.0.tgz";
+        url = "https://registry.yarnpkg.com/@fortawesome/free-regular-svg-icons/-/free-regular-svg-icons-6.6.0.tgz";
+        sha512 = "Yv9hDzL4aI73BEwSEh20clrY8q/uLxawaQ98lekBx6t9dQKDHcDzzV1p2YtBGTtolYtNqcWdniOnhzB+JPnQEQ==";
       };
     }
     {
