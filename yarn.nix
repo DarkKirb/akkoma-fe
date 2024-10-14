@@ -6704,11 +6704,11 @@
       };
     }
     {
-      name = "karma___karma_6.4.3.tgz";
+      name = "karma___karma_6.4.4.tgz";
       path = fetchurl {
-        name = "karma___karma_6.4.3.tgz";
-        url = "https://registry.yarnpkg.com/karma/-/karma-6.4.3.tgz";
-        sha512 = "LuucC/RE92tJ8mlCwqEoRWXP38UMAqpnq98vktmS9SznSoUPPUJQbc91dHcxcunROvfQjdORVA/YFviH+Xci9Q==";
+        name = "karma___karma_6.4.4.tgz";
+        url = "https://registry.yarnpkg.com/karma/-/karma-6.4.4.tgz";
+        sha512 = "LrtUxbdvt1gOpo3gxG+VAJlJAEMhbWlM4YrFQgql98FwF7+K8K12LYO4hnDdUkNjeztYrOXEMqgTajSWgmtI/w==";
       };
     }
     {
@@ -9437,14 +9437,6 @@
         name = "thingies___thingies_1.21.0.tgz";
         url = "https://registry.yarnpkg.com/thingies/-/thingies-1.21.0.tgz";
         sha512 = "hsqsJsFMsV+aD4s3CWKk85ep/3I9XzYV/IXaSouJMYIoDlgyi11cBhsqYe9/geRfB0YIikBQg6raRaM+nIMP9g==";
-      };
-    }
-    {
-      name = "https___registry.npmjs.org_tmp___tmp_0.2.1.tgz";
-      path = fetchurl {
-        name = "https___registry.npmjs.org_tmp___tmp_0.2.1.tgz";
-        url = "https://registry.npmjs.org/tmp/-/tmp-0.2.1.tgz";
-        sha512 = "76SUhtfqR2Ijn+xllcI5P1oyannHNHByD80W1q447gU3mp9G9PSpGdWmjUOHRDPiHYacIk66W7ubDTuPF3BEtQ==";
       };
     }
     {
