@@ -3440,11 +3440,11 @@
       };
     }
     {
-      name = "chai___chai_4.4.1.tgz";
+      name = "chai___chai_4.5.0.tgz";
       path = fetchurl {
-        name = "chai___chai_4.4.1.tgz";
-        url = "https://registry.yarnpkg.com/chai/-/chai-4.4.1.tgz";
-        sha512 = "13sOfMv2+DWduEU+/xbun3LScLoqN17nBeTLUsmDfKdoiC1fr0n9PU4guu4AhRcOVFk/sW8LyZWHuhWtQZiF+g==";
+        name = "chai___chai_4.5.0.tgz";
+        url = "https://registry.yarnpkg.com/chai/-/chai-4.5.0.tgz";
+        sha512 = "RITGBfijLkBddZvnn8jdqoTypxvqbOLYQkGGxXzeFjVHvudaPw0HNFD9x928/eUwYWd2dPCugVqspGALTZZQKw==";
       };
     }
     {
